@@ -1,0 +1,12 @@
+= CSC8104: Enterprise Distributed Computing Coursework [TODO: new title], Assessed Coursework, November 2012
+
+blah blah
+
+== Outline
+This coursework is designed to give you experience in Enterprise Java Beans (EJB) version 3.1 and building applications using transactions. For parts one and two of the project you will use local transactions running in a single application server. In the third part of the project you will use a distributed transaction that spans multiple application server instances. You will also get the opportunity to experiment with application server failure.
+
+You must complete the EJB Tutorial before attempting this coursework. There are a number of prerequisite steps in the tutorial that must be done for the coursework to work.
+
+
+
+
