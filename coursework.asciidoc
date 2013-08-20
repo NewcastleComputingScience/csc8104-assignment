@@ -1,12 +1,49 @@
 = CSC8104: Enterprise Distributed Computing Coursework [TODO: new title], Assessed Coursework, November 2012
 
-blah blah
-
 == Outline
 This coursework is designed to give you experience in Enterprise Java Beans (EJB) version 3.1 and building applications using transactions. For parts one and two of the project you will use local transactions running in a single application server. In the third part of the project you will use a distributed transaction that spans multiple application server instances. You will also get the opportunity to experiment with application server failure.
 
 You must complete the EJB Tutorial before attempting this coursework. There are a number of prerequisite steps in the tutorial that must be done for the coursework to work.
 
+== Project Specification 
 
+IMPORTANT: You must write the EJBs yourself. You must NOT use a tool (such as Eclipse) to write them for you! However, you are encouraged to use  Eclipse as your IDE. 
+
+For this project you must create a Maven build for your application. You must also produce Arquillian tests for testing your application; these tests must also run from Maven. At the end of the project you will submit to NESS a zip file containing the source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project. 
+You should use the provided example as a guide to what your submission should look like. It would be a good idea to ask a friend (from the course!) to take your submission and check that it runs properly on their virtual machine. For example, be careful you don't have any absolute paths in your pom.xml!
+
+TIP: You will be awarded a considerable number of marks for your distribution. 
+
+== Part 1 
+
+Produce a web site selling ONE of the services from the following list. 
+
+* Taxi 
+* Flight 
+* Hotel 
+
+IMPORTANT: You have been allocated a service to implement. See the allocation list in the tutorial document for details. You MUST implement the service that you have been allocated. 
+
+Required operations will include Book and Cancel, as well as any other operations needed to display the goods.
+You will probably require at least the following EJBs:
+
+1. A session bean representing the actions made by the user. 
+2. An entity bean representing a product. 
+
+It would be worth thinking about the interfaces that will be used to access the operations of your EJB by any external applications. Ensure you design these carefully. You should deploy your EJBs to your development JBoss instance for now.
+You also need to implement a web site for the travel agent. You should implement this web site using Java Server Pages (JSP). The web site should give you an interface for making a booking using the service you are developing in this part. You will be marked purely on how well your site works. No marks will be given for how the site looks. The Web site should run on a different JBoss instance (on a different virtual machine) to your service. This is similar to what you did in the entity example in the tutorial.
+ 
+The diagram above shows the type of interaction that you should have achieved by completing part 1.
+For this part you are encouraged to make appropriate use of as many EJB 3 features as possible. For example, you should use: 
+
+*	Injection 
+* Cascading 
+* Fetch types 
+* EJB QL
+* Serial Version Id for your interfaces
+
+=== Report Hints
+* Describe the composition of your service, including each of the EJBs and how they interact. You might like to draw a diagram like the one above to help explain your architecture.
+* For each of the above EJB3 features that you used, explain briefly what they achieve and why you used them. 
 
 
