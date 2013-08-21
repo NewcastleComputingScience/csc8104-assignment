@@ -1,0 +1,6 @@
+= Readme
+
+== Building docs
+The following command builds the html version of the coursework:
+
+    asciidoctor -a stylesheet=./stylesheets/riak.css ./coursework.asciidoc
