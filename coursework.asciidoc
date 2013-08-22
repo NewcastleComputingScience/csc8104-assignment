@@ -1,22 +1,25 @@
-= CSC8104: Enterprise Distributed Computing Coursework [TODO: new title], Assessed Coursework, November 2012
+= CSC8104: Enterprise Distributed Computing Coursework [TODO: new title], November 2013
 
 == Outline
-This coursework is designed to give you experience in Enterprise Java Beans (EJB) version 3.1 and building applications using transactions. For parts one and two of the project you will use local transactions running in a single application server. In the third part of the project you will use a distributed transaction that spans multiple application server instances. You will also get the opportunity to experiment with application server failure.
+This coursework is designed to give you experience with building Java EE applications and deploying them to the Cloud. In part one you will build a service with a web front end, hosted on a Platform as a Service Cloud. In part two you will create a composite service by orchestrating your colleagues' services.
 
-You must complete the EJB Tutorial before attempting this coursework. There are a number of prerequisite steps in the tutorial that must be done for the coursework to work.
+You must complete the provided Tutorial before attempting this coursework. There are a number of prerequisite steps in the tutorial that must be done for the coursework to work.
 
-== Project Specification 
+== Technologies
+TODO
 
-IMPORTANT: You must write the EJBs yourself. You must NOT use a tool (such as Eclipse) to write them for you! However, you are encouraged to use  Eclipse as your IDE. 
+== Project Specification
+
+IMPORTANT: You must write all the elements of the coursework yourself. You must NOT use a tool/wizards (such as Eclipse) to write them for you! However, you are encouraged to use  Eclipse as your IDE. 
 
 For this project you must create a Maven build for your application. You must also produce Arquillian tests for testing your application; these tests must also run from Maven. At the end of the project you will submit to NESS a zip file containing the source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project. 
-You should use the provided example as a guide to what your submission should look like. It would be a good idea to ask a friend (from the course!) to take your submission and check that it runs properly on their virtual machine. For example, be careful you don't have any absolute paths in your pom.xml!
+You should use the provided example (kitchensink-angularjs) as a guide to what your submission should look like. It would be a good idea to ask a friend (from the course!) to take your submission and check that it runs properly on their computer. For example, be careful you don't have any absolute paths in your pom.xml!
 
 TIP: You will be awarded a considerable number of marks for your distribution. 
 
 == Part 1 
 
-Produce a web site selling ONE of the services from the following list. 
+Produce a web site selling ONE of the services from the following list. Your website *must* be developed using HTML5 and Angular.js technologies. You should now be familiar with these technologies after completing the provided tutorial.
 
 * Taxi 
 * Flight 
@@ -24,26 +27,39 @@ Produce a web site selling ONE of the services from the following list.
 
 IMPORTANT: You have been allocated a service to implement. See the allocation list in the tutorial document for details. You MUST implement the service that you have been allocated. 
 
-Required operations will include Book and Cancel, as well as any other operations needed to display the goods.
-You will probably require at least the following EJBs:
+The following diagram shows the architecture you will need to implement for your application:
 
-1. A session bean representing the actions made by the user. 
-2. An entity bean representing a product. 
+[TODO: insert architecture diagram]
 
-It would be worth thinking about the interfaces that will be used to access the operations of your EJB by any external applications. Ensure you design these carefully. You should deploy your EJBs to your development JBoss instance for now.
-You also need to implement a web site for the travel agent. You should implement this web site using Java Server Pages (JSP). The web site should give you an interface for making a booking using the service you are developing in this part. You will be marked purely on how well your site works. No marks will be given for how the site looks. The Web site should run on a different JBoss instance (on a different virtual machine) to your service. This is similar to what you did in the entity example in the tutorial.
- 
-The diagram above shows the type of interaction that you should have achieved by completing part 1.
-For this part you are encouraged to make appropriate use of as many EJB 3 features as possible. For example, you should use: 
+* Web-site. This is implemented with HTML5 and Angular.js. The code here is responsible for providing the user-interface and runs entirely on the in the user's web browser. It communicates with your server in the Cloud when for invoking operations, such as making a booking or listing users. This is done using...
+* REST Services. These are implemented using JAX-RS and provide a service interface to your application. These services are responsible for updating the database when a booking is made or cancelled, as well as querying the database for listing bookings and users.
+* Persistence layer. This layer provides a Java interface for accessing the data in the database, using the Java Persistence API (JPA).
+* Database. This is where your data is stored. You are are unlikely to access this directly. Your application will use JPA to interface with the data.
 
-*	Injection 
-* Cascading 
-* Fetch types 
-* EJB QL
-* Serial Version Id for your interfaces
+
+=== Web-site
+Your web-site should provide an interface to:
+
+1. Create & List customers
+2. Create & List items (Taxis, rooms or flights)
+3. Create, Cancel & list bookings
+
+IMPORTANT: You will be marked purely on how well your site works. No marks will be given for how the site looks.
+
+=== REST Services
+You will need three REST services:
+
+1. Customer. Lists and creates customers.
+2. Taxi/Hotel/Flight. Lists and creates items.
+3. Booking. Creates and cancels bookings.
+
+=== Persistence Layer
+You will probably need three Entity Beans:
+
+1. Customer. A bean to hold the data you wish to collect about each customer.
+2. Taxi/Flight/Hotel. A bean to hold the data you wish to collect about each item you have available for booking.
+3. Booking. A bean representing the booking and linking to the customer who made the booking and to the item being booked.
+
 
 === Report Hints
-* Describe the composition of your service, including each of the EJBs and how they interact. You might like to draw a diagram like the one above to help explain your architecture.
-* For each of the above EJB3 features that you used, explain briefly what they achieve and why you used them. 
-
-
+* Describe the composition of your service, including each of the JAX-RS services and how they interact. You might like to draw a diagram like the one above to help explain your architecture.
