@@ -90,3 +90,11 @@ TIP: You may also find it hard to utilize the exact service types specified abov
 * What problems did you have offering your service to your colleagues?
 
 
+== Finally
+Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do. 
+
+You must be able to demonstrate each part of this project to the Course Demonstrators. Then the code must be submitted via the coursework submission system (NESS). As stated above, we must be able to build and test your submission using your Maven build. 
+
+Also submit a short report via NESS (roughly two pages) summarising the work you carried out on this project, and your assessment of how much you managed to achieve. We have provided a list of things you should cover in your report in the "Report Hints" sections of this document.
+
+
