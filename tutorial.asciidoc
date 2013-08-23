@@ -1,0 +1,21 @@
+= CSC8104: Enterprise Distributed Computing Tutorial
+
+TODO: introduction goes here with motivtion as to why completing this is important....
+
+== Environment Setup
+
+* Create OpenShit account
+* rhc setup 
+* GitHub account
+** Never use -f
+
+
+== Run Example
+
+* Download JBoss
+* Run kitchensink-angularjs locally
+* Run kitchensink-angularjs on Openshift
+
+== Angular.js Tutorial
+* Link to tutorial
+* Javascript debugger. Which browser will they use?
