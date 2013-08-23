@@ -63,3 +63,30 @@ You will probably need three Entity Beans:
 
 === Report Hints
 * Describe the composition of your service, including each of the JAX-RS services and how they interact. You might like to draw a diagram like the one above to help explain your architecture.
+
+== Part 2
+You will now need to integrate three services into a simple travel agent application; which you will update your web site to support. You will use your own service and two other services provided by your colleagues.
+The services you need to integrate are: 
+
+* 1 x Hotel service 
+* 1 x Taxi services 
+* 1 x Flight service 
+
+You must ensure that either every booking is made, or no bookings are made. Remember, bookings can be cancelled using your cancel operation.
+You should provide a mechanism that allows a booking to fail. For example, you could fail a booking if the date is too far in the future. This will allow you to easily control which booking fails and which succeeds. You should then be able to set up a scenario where the first two bookings succeed and the remaining booking fails. Your web application should detect this failure and cancel the previous bookings that succeeded.
+
+IMPORTANT: It is very important that the user does not end up with a partial booking. Otherwise they may end up paying for a flight, without having a hotel to stay in.
+
+[TODO: insert diagram here]
+ 
+The diagram above shows the type of interaction that you should have achieved by completing part 2.
+
+TIP: You may find that you are ready to use your colleagues’ services before they are ready to make them available. If this happens then you can temporarily use your own service three times and then switch to your colleagues’ services when they become available.
+
+TIP: You may also find it hard to utilize the exact service types specified above, due to the progress of your colleagues. In this case you may duplicate the service types; for example, two Taxi services and one Flight service. However, you must make sure that the two services you select are offered by two different colleagues!
+
+=== Report Hints
+* What problems did you have utilising your colleagues’ services? How would these problems be exacerbated had the producers of these services not been in the same room?
+* What problems did you have offering your service to your colleagues?
+
+
