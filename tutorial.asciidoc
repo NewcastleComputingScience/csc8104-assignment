@@ -1,13 +1,32 @@
 = CSC8104: Enterprise Distributed Computing Tutorial
 
-TODO: introduction goes here with motivtion as to why completing this is important....
+This tutorial guides you through the neceserry preperation required to begin your coursework for this module. It is very important that you have completed this and are comfortable with the examples, before the begining of the first coursework week.
+
+== Create Accounts
+To complete this coursework you will need accounts on OpenShift and GitHub.
+
+=== OpenShift
+OpenShift is a Platform as a Service (PaaS) offered by Red Hat. It can host many types of applications, but for this coursework you will be using it to host Java EE 6 applications on JBoss AS 7. OpenShift has a free teir of membership which you will use for the coursework. 
+
+To create an account:
+
+1. go to: https://www.openshift.com
+2. Select "Signup for Free" under the "Online" option.
+3. Fill in your details and select "Sign Up".
+4. TODO: any more steps?
+
+=== GitHub
+GitHub offers the Git version control system as a service. You will use it to host your code and to make it available to the demonstrators. GitHub is very popular in the opensource community and works best when you make your code available to others to view, clone and contribute towards. However, given the confidential nature of your coursework, you will need to use a private repository only accesible by yourself and the demonstrators.
+
+If you don't already have an account you will need to:
+
+1. Go to: https://github.com/
+2. Fill in your details and select "Sign up for GitHub."
+
+TIP: GitHub is a very popular service and you are likely to use it in your profesional career; especially if you work with open source software in some capacity.
 
 == Environment Setup
-
-* Create OpenShit account
 * rhc setup 
-* GitHub account
-** Never use -f
 
 
 == Run Example
@@ -15,6 +34,9 @@ TODO: introduction goes here with motivtion as to why completing this is importa
 * Download JBoss
 * Run kitchensink-angularjs locally
 * Run kitchensink-angularjs on Openshift
+
+== Push the code to GitHub
+** Never use -f
 
 == Angular.js Tutorial
 * Link to tutorial
