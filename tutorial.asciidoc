@@ -52,3 +52,14 @@ TIP: GitHub is a very popular service and you are likely to use it in your profe
 
 *Ryan Emerson* is a third year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.  
 
+== Alocation List
+
+[options="header"]
+|=====
+|Student     |Service    |Repository URL
+|student1    |Taxi       |
+|student2    |Hotel      |
+|student3    |Service    |
+|=====
+
+IMPORTANT: If your name does not appear in the allocation list please contact Matt Forshaw at m.j.forshaw@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
