@@ -41,3 +41,14 @@ TIP: GitHub is a very popular service and you are likely to use it in your profe
 == Angular.js Tutorial
 * Link to tutorial
 * Javascript debugger. Which browser will they use?
+
+== Course Demonstrator Profiles
+
+*Dr Paul Robinson* is a Senior Software Engineer at Red Hat and a Visiting Research Fellow at the University. Paul develops software for the JBoss application server and in particular for the Transaction Service component. Paul has lead the Enterprise Distributed Computing coursework for 9 years. He also supervises students for their Masters dissertation through industrial placements.
+
+*Matt Forshaw* is a fourth year PhD student at Newcastle University. After completing his BSc and MSc ITEC (with Distinction) at Newcastle University, Matt has demonstrated and assessed on CSC8104 for the past four years. Matt is a member of the Systems research group investigating energy efficient operating policies for large computing environments. He also supervises student research projects and dissertations in the areas of energy-efficiency and green computing.
+
+*Becky Simmonds* is a third year PhD student researching into Twitter analysis using online and offline techniques. She demonstrated on CSC8104 the last two years and completed it herself the year before. Becky demonstrates on other modules and helps supervise a final year dissertation.
+
+*Ryan Emerson* is a third year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.  
+
