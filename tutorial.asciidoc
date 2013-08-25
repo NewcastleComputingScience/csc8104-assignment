@@ -1,5 +1,7 @@
 = CSC8104: Enterprise Distributed Computing Tutorial
 
+TODO: Needs spell-checking
+
 This tutorial guides you through the neceserry preperation required to begin your coursework for this module. It is very important that you have completed this and are comfortable with the examples, before the begining of the first coursework week.
 
 == Create Accounts
