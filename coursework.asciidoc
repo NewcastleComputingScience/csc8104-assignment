@@ -6,7 +6,19 @@ This coursework is designed to give you experience with building Java EE applica
 You must complete the provided Tutorial before attempting this coursework. There are a number of prerequisite steps in the tutorial that must be done for the coursework to work.
 
 == Technologies
-TODO
+TODO: Flesh out
+
+* Angular.js
+* Bootstrap
+* Java EE
+* JPA
+** criteria API
+** Bean Validation
+* Session beans for TX
+* Openshift
+* REST
+* JBoss Tools
+* Git
 
 == Project Specification
 
