@@ -1,14 +1,12 @@
 = CSC8104: Enterprise Distributed Computing Tutorial
 
-TODO: Needs spell-checking
-
-This tutorial guides you through the neceserry preperation required to begin your coursework for this module. It is very important that you have completed this and are comfortable with the examples, before the begining of the first coursework week.
+This tutorial guides you through the necessary preparation required to begin your coursework for this module. It is very important that you have completed this and are comfortable with the examples, before the beginning of the first coursework week.
 
 == Create Accounts
 To complete this coursework you will need accounts on OpenShift and GitHub.
 
 === OpenShift
-OpenShift is a Platform as a Service (PaaS) offered by Red Hat. It can host many types of applications, but for this coursework you will be using it to host Java EE 6 applications on JBoss AS 7. OpenShift has a free teir of membership which you will use for the coursework. 
+OpenShift is a Platform as a Service (PaaS) offered by Red Hat. It can host many types of applications, but for this coursework you will be using it to host Java EE 6 applications on JBoss AS 7. OpenShift has a free teir of membership, which you will use for the coursework. 
 
 To create an account:
 
@@ -18,7 +16,7 @@ To create an account:
 4. TODO: any more steps?
 
 === GitHub
-GitHub offers the Git version control system as a service. You will use it to host your code and to make it available to the demonstrators. GitHub is very popular in the opensource community and works best when you make your code available to others to view, clone and contribute towards. However, given the confidential nature of your coursework, you will need to use a private repository only accesible by yourself and the demonstrators.
+GitHub offers the Git version control system as a service. You will use it to host your code and to make it available to the demonstrators. GitHub is very popular in the opensource community and works best when you make your code available to others to view, clone and contribute towards. However, given the confidential nature of your coursework, you will need to use a private repository only accessible by yourself and the demonstrators.
 
 If you don't already have an account you will need to:
 
@@ -65,3 +63,4 @@ TIP: GitHub is a very popular service and you are likely to use it in your profe
 |=====
 
 IMPORTANT: If your name does not appear in the allocation list please contact Matt Forshaw at m.j.forshaw@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
+
