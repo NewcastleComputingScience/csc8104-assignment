@@ -25,17 +25,25 @@ If you don't already have an account you will need to:
 
 TIP: GitHub is a very popular service and you are likely to use it in your profesional career; especially if you work with open source software in some capacity.
 
+TODO: Matt to add instructions for contaction him and getting a private repo.
+
 == Environment Setup
-* rhc setup 
+* TODO: rhc setup 
+* TODO: JBoss Tools
 
 
 == Run Example
 
+TODO: flesh out these instructions
 * Download JBoss
 * Run kitchensink-angularjs locally
 * Run kitchensink-angularjs on Openshift
+* View Data
 
 == Push the code to GitHub
+* Explain why, get them to do regular pushes. 
+* Copy dir to dev folder
+TODO: once Matt has created account, blah blah
 ** Never use -f
 
 == Angular.js Tutorial
