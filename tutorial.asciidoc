@@ -35,20 +35,24 @@ TODO: Matt to add instructions for contaction him and getting a private repo.
 == Run Example
 
 TODO: flesh out these instructions
-* Download JBoss
-* Run kitchensink-angularjs locally
-* Run kitchensink-angularjs on Openshift
-* View Data
+* Download JBoss. Get version 7.1.1.Final from here: http://www.jboss.org/jbossas/downloads/. You need to make sure you use this version of JBoss as this matches the version you will be using on OpenShift. Unzip this to somewhere on your computer.
+* Run kitchensink-angularjs locally. Download the Jboss Developer Framework quickstarts from here: http://www.jboss.org/jdf/. Then run the kitchensink-angularjs quickstart by following the instructions in kitchensink-angularjs/README.md.
+* Run the tests. Follow the section on "Run the Arquillian Tests".
+* Run kitchensink-angularjs on Openshift. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbossas-7' as the APPLICATION_TYPE.
+* TODO: View Data
 
-== Push the code to GitHub
-* Explain why, get them to do regular pushes. 
-* Copy dir to dev folder
-TODO: once Matt has created account, blah blah
-** Never use -f
+== Working with Git
+TODO:Explain why, get them to do regular pushes. 20 commits. stress that no marks for content of individual commits. Expect to see a logic flow commits.
+
+* Build on top of the kitchensink-angularjs example, by moving your clone of the OpenShift git repository at kitchensink-angularjs/kitchensinkangularjs to some other location on your disk, where you want to develop your coursework submission.
+* Now you need to be able to push your code to your git repository on GitHub. To do this, you will need the url of the repository created by Matt on your earlier request. 
+
+    git remote add github https://github.com/NewcastleComputingScience/<YOUR ID>.git
+    git push github master -f
 
 == Angular.js Tutorial
 * Link to tutorial
-* Javascript debugger. Which browser will they use?
+* Javascript debugger. Use chrome.
 
 == Course Demonstrator Profiles
 
