@@ -1,7 +1,9 @@
 = CSC8104: Enterprise Distributed Computing Coursework [TODO: new title], November 2013
 
 == Outline
-This coursework is designed to give you experience with building Java EE applications and deploying them to the Cloud. In part one you will build a service with a web front end, hosted on a Platform as a Service Cloud. In part two you will create a composite service by orchestrating your colleagues' services.
+This coursework is designed to give you experience with building Java EE 6 applications and deploying them to the Cloud. In part one you will build a service with a web front end, hosted on a Platform as a Service Cloud. In part two you will create a composite service by orchestrating your colleagues' services.
+
+TODO: explain composite or dumb down.
 
 You must complete the provided Tutorial before attempting this coursework. There are a number of prerequisite steps in the tutorial that must be done for the coursework to work.
 
@@ -9,11 +11,12 @@ You must complete the provided Tutorial before attempting this coursework. There
 TODO: Flesh out
 
 * Angular.js
-* Bootstrap
 * Java EE
 * JPA
 ** criteria API
 ** Bean Validation
+* Arquillian
+* Maven
 * Session beans for TX
 * Openshift
 * REST
@@ -22,12 +25,14 @@ TODO: Flesh out
 
 == Project Specification
 
-IMPORTANT: You must write all the elements of the coursework yourself. You must NOT use a tool/wizards (such as Eclipse) to write them for you! However, you are encouraged to use  Eclipse as your IDE. 
+IMPORTANT: You must write all the elements of the coursework yourself. You must NOT use tools/wizards (such as Eclipse) to write them for you! However, you are encouraged to use Eclipse as your IDE. 
 
 For this project you must create a Maven build for your application. You must also produce Arquillian tests for testing your application; these tests must also run from Maven. At the end of the project you will submit to NESS a zip file containing the source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project. 
-You should use the provided example (kitchensink-angularjs) as a guide to what your submission should look like. It would be a good idea to ask a friend (from the course!) to take your submission and check that it runs properly on their computer. For example, be careful you don't have any absolute paths in your pom.xml!
 
-TIP: You will be awarded a considerable number of marks for your distribution. 
+TIP: You will be awarded a considerable number of marks for your distribution and use use of version controll.
+
+== General Processs
+TODO: build on kitchensink, don't worry about renaming packages, OpenShift application, etc. Regular commits. develop locally and push to OpenShift when working.
 
 == Part 1 
 
@@ -43,17 +48,17 @@ The following diagram shows the architecture you will need to implement for your
 
 [TODO: insert architecture diagram]
 
-* Web-site. This is implemented with HTML5 and Angular.js. The code here is responsible for providing the user-interface and runs entirely on the in the user's web browser. It communicates with your server in the Cloud when for invoking operations, such as making a booking or listing users. This is done using...
-* REST Services. These are implemented using JAX-RS and provide a service interface to your application. These services are responsible for updating the database when a booking is made or cancelled, as well as querying the database for listing bookings and users.
+* Web-site. This is implemented with HTML5 and Angular.js. The code here is responsible for providing the user-interface and runs entirely in the user's web browser. It communicates with your server in the Cloud (or locally during development) when invoking operations, such as making a booking or listing users. This is done using...
+* REST Services. These are implemented using JAX-RS and provide a service interface to your application. These services are responsible for managing bookings, users and taxis/hotels/flights. 
 * Persistence layer. This layer provides a Java interface for accessing the data in the database, using the Java Persistence API (JPA).
-* Database. This is where your data is stored. You are are unlikely to access this directly. Your application will use JPA to interface with the data.
+* Database. This is where your data is stored. Your application won't access this directly as it will use JPA to interface with the data. 
 
 
 === Web-site
 Your web-site should provide an interface to:
 
 1. Create & List customers
-2. Create & List items (Taxis, rooms or flights)
+2. Create & List items (taxis, rooms or flights)
 3. Create, Cancel & list bookings
 
 IMPORTANT: You will be marked purely on how well your site works. No marks will be given for how the site looks.
@@ -66,13 +71,13 @@ You will need three REST services:
 3. Booking. Creates and cancels bookings.
 
 === Persistence Layer
-You will probably need three Entity Beans:
+You will probably need three Entity Beans.
 
 1. Customer. A bean to hold the data you wish to collect about each customer.
 2. Taxi/Flight/Hotel. A bean to hold the data you wish to collect about each item you have available for booking.
 3. Booking. A bean representing the booking and linking to the customer who made the booking and to the item being booked.
 
-TODO: stress that it mist be simple.
+TIP: Keep these entities simple. Just provide the minimum information required to fullfil the requirements. 
 
 === Report Hints
 * Describe the composition of your service, including each of the JAX-RS services and how they interact. You might like to draw a diagram like the one above to help explain your architecture.
@@ -85,7 +90,7 @@ The services you need to integrate are:
 * 1 x Taxi services 
 * 1 x Flight service 
 
-You must ensure that either every booking is made, or no bookings are made. Remember, bookings can be cancelled using your cancel operation.
+You must ensure that either every part of a booking is made, or no parts of the booking are made. Remember, each part of the booking can be cancelled using the provided cancel operation. For example, the user would not want to book a flight, if they didn't have somewhere to stay at the destination.
 You should provide a mechanism that allows a booking to fail. For example, you could fail a booking if the date is too far in the future. This will allow you to easily control which booking fails and which succeeds. You should then be able to set up a scenario where the first two bookings succeed and the remaining booking fails. Your web application should detect this failure and cancel the previous bookings that succeeded.
 
 IMPORTANT: It is very important that the user does not end up with a partial booking. Otherwise they may end up paying for a flight, without having a hotel to stay in.
@@ -102,6 +107,8 @@ TIP: You may also find it hard to utilize the exact service types specified abov
 * What problems did you have utilising your colleagues’ services? How would these problems be exacerbated had the producers of these services not been in the same room?
 * What problems did you have offering your service to your colleagues?
 
+=== Part 3
+TODO
 
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do. 
