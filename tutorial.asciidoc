@@ -35,10 +35,10 @@ TODO: Matt to add instructions for contaction him and getting a private repo.
 == Run Example
 
 TODO: flesh out these instructions
-* Download JBoss. Get version 7.1.1.Final from here: http://www.jboss.org/jbossas/downloads/. You need to make sure you use this version of JBoss as this matches the version you will be using on OpenShift. Unzip this to somewhere on your computer.
+* Download JBoss. Get version EAP 6.1.0.Final from here: http://www.jboss.org/jbossas/downloads/. You need to make sure you use this version of JBoss as this matches the version you will be using on OpenShift. Unzip this to somewhere on your computer.
 * Run kitchensink-angularjs locally. Download the Jboss Developer Framework quickstarts from here: http://www.jboss.org/jdf/. Then run the kitchensink-angularjs quickstart by following the instructions in kitchensink-angularjs/README.md.
 * Run the tests. Follow the section on "Run the Arquillian Tests".
-* Run kitchensink-angularjs on Openshift. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbossas-7' as the APPLICATION_TYPE.
+* Run kitchensink-angularjs on Openshift. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbosseap-6' as the APPLICATION_TYPE.
 * TODO: View Data
 
 == Working with Git
