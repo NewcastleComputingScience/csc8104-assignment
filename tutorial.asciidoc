@@ -6,7 +6,7 @@ This tutorial guides you through the necessary preparation required to begin you
 To complete this coursework you will need accounts on OpenShift and GitHub.
 
 === OpenShift
-OpenShift is a Platform as a Service (PaaS) offered by Red Hat. It can host many types of applications, but for this coursework you will be using it to host Java EE 6 applications on JBoss AS 7. OpenShift has a free teir of membership, which you will use for the coursework. 
+OpenShift is a Platform as a Service (PaaS) offered by Red Hat. It can host many types of applications, but for this coursework you will be using it to host Java EE 6 applications on JBoss EAP 6.1. OpenShift has a free teir of membership, which you will use for the coursework. 
 
 To create an account:
 
