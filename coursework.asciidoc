@@ -1,27 +1,23 @@
 = CSC8104: Enterprise Distributed Computing Coursework [TODO: new title], November 2013
 
 == Outline
-This coursework is designed to give you experience with building Java EE 6 applications and deploying them to the Cloud. In part one you will build a service with a web front end, hosted on a Platform as a Service Cloud. In part two you will create a composite service by orchestrating your colleagues' services.
-
-TODO: explain composite or dumb down.
+This coursework is designed to give you experience with building Java EE 6 applications and deploying them to the Cloud. In part one you will build a service with a web front end, hosted on a Platform as a Service Cloud. In part two you will create a more complex service by orchestrating your colleagues' services into a bigger application.
 
 You must complete the provided Tutorial before attempting this coursework. There are a number of prerequisite steps in the tutorial that must be done for the coursework to work.
 
 == Technologies
-TODO: Flesh out
+This coursework covers a large number of technologies. The challenge here is to learn the right bits of each technology in order to complete the coursework.
 
-* Angular.js
-* Java EE
-* JPA
-** criteria API
-** Bean Validation
-* Arquillian
-* Maven
-* Session beans for TX
-* Openshift
-* REST
-* JBoss Tools
-* Git
+* Angular.js. This is the technology you will use for the web-interface to your application.
+* Java EE 6. Java Enterprise Edition is the technology you will use to develop the server-side part of your application.
+* JPA. Java Persistence API provides a Java API onto your application's data.
+* Bean Validation. This technology allows you to specify constraints on your data and assists with validation.
+* Arquillian. With this tool you will be able to write tests that run inside the application server.
+* Maven. Your application will be built and deployed with this tool.
+* EJB Session beans. TODO 
+* Openshift. This is the Platform as a Service (PaaS) that you will use to deploy your application to the Cloud.
+* REST. This technology will be used for communication between your web interface (running in the web browser) and your service (running in the Cloud).
+* Git. This is a distributed version control sytem and will be used to backup your code and for deploying it to OpenShift.
 
 == Project Specification
 
@@ -30,6 +26,8 @@ IMPORTANT: You must write all the elements of the coursework yourself. You must 
 For this project you must create a Maven build for your application. You must also produce Arquillian tests for testing your application; these tests must also run from Maven. At the end of the project you will submit to NESS a zip file containing the source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project. 
 
 TIP: You will be awarded a considerable number of marks for your distribution and use use of version controll.
+
+TODO: explain how to use GitHub repo.
 
 == General Processs
 TODO: build on kitchensink, don't worry about renaming packages, OpenShift application, etc. Regular commits. develop locally and push to OpenShift when working.
