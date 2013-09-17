@@ -1,4 +1,4 @@
-= CSC8104: Enterprise Distributed Computing Tutorial
+= CSC8104: Enterprise Middleware Tutorial
 
 This tutorial guides you through the necessary preparation required to begin your coursework for this module. It is very important that you have completed this and are comfortable with the examples, before the beginning of the first coursework week.
 
@@ -10,10 +10,10 @@ OpenShift is a Platform as a Service (PaaS) Cloud offered by Red Hat. It can hos
 
 To create an account:
 
-1. go to: https://www.openshift.com
-2. Select "Signup for Free" under the "Online" option.
-3. Fill in your details and select "Sign Up".
-4. TODO: any more steps?
+. Go to: https://www.openshift.com
+. Select "Signup for Free" under the "Online" option.
+. Fill in your details and select "Sign Up".
+. TODO: any more steps?
 
 === GitHub
 GitHub offers the Git version control system as a service. You will use it to host your code and to make it available to the demonstrators. GitHub is very popular in the open-source community and works best when you make your code available to others to view, clone and contribute towards. However, given the confidential nature of your coursework, you will need to use a private repository only accessible by yourself and the demonstrators.
@@ -22,10 +22,9 @@ If you don't already have an account you will need to:
 
 1. Go to: https://github.com/
 2. Fill in your details and select "Sign up for GitHub."
+3. Forward your Github account registration email to Matt Forshaw at (m.j.forshaw@ncl.ac.uk). Matt will then create your private repository, grant you access, and email you with the details.
 
 TIP: GitHub is a very popular service, and you are likely to use it in your profesional career; especially if you work with open source software in some capacity.
-
-TODO: Matt to add instructions for contacting him and getting a private repo.
 
 == Environment Setup
 * TODO: rhc setup 
@@ -45,7 +44,6 @@ Now you will run a simple example. This example provides you with a starting poi
 * *Run kitchensink-angularjs locally*. Download the Jboss Developer Framework quickstarts from here: http://www.jboss.org/jdf/. Then run the kitchensink-angularjs quickstart by following the instructions in kitchensink-angularjs/README.md.
 * *Run the tests*. Follow the section on "Run the Arquillian Tests".
 * *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbosseap-6' as the APPLICATION_TYPE.
-* TODO: View Data
 
 == Working with Git
 You will be using Git in the coursework for regular checkpoint and backup of your code to GitHub. You will also use Git to update your application on OpenShift. This section will show you how to create a copy of the 'kitchensik-angularjs' example, ready fo you to extend in the coursework, and also how to push the code to GitHub and OpenShift.
@@ -55,6 +53,34 @@ You will be using Git in the coursework for regular checkpoint and backup of you
 
     git remote add github https://github.com/NewcastleComputingScience/<YOUR ID>.git
     git push github master -f
+    
+== Viewing your datasource
+During development you may find it very useful to be able to inspect the contents of your database. To do this you will use h2console, which is provided as part of the quickstarts.
+
+=== Deploying h2console
+. Copy the h2console WAR file into the "deployments" directory of your repository.
+
+    cp ~/[some location]/jboss-as-quickstart/h2-console/h2console.war . (where "." refers to your current directory)
+
+. Add this file to your git repository, commit and push.
+
+    git add deployments/h2console.war
+    git commit
+    git push
+
+=== Accessing h2console
+You can access the console at http://<yourdomainname>.rhcloud.com/h2console.
+
+To log into the datasource for your application, use the following details.
+
+    Driver Class: javax.naming.InitialContext
+    JDBC URL: Your JDBC URL is available in your persistence.xml file, and can be found between the <jta-data-source> tags e.g. java:jboss/datasources/KitchensinkAngularJSQuickstartDS
+    Username: sa
+    Passowrd: sa
+
+. Click "Test Connection" and if these details are correct you will see "Test successful".
+
+. Press "Connect" to view the contents of the datasource.
 
 
 == Course Demonstrator Profiles

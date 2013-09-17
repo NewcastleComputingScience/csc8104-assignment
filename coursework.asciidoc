@@ -1,4 +1,4 @@
-= CSC8104: Enterprise Distributed Computing Coursework [TODO: new title], November 2013
+= CSC8104: Enterprise Middleware Coursework, November 2013
 
 == Outline
 This coursework is designed to give you experience with building Java EE 6 applications and deploying them to the Cloud. In part one you will build a service with a web front end, hosted on a Platform as a Service Cloud. In part two you will create a more complex service by orchestrating your colleagues' services into a bigger application.
@@ -108,11 +108,23 @@ TIP: You may also find it hard to utilize the exact service types specified abov
 === Part 3
 TODO: What should we put here? Maybe drop this part for this year?
 
+== Submission Guidelines
+
+=== Demonstration
+Prior to submission you will provide a 10-15 minute demonstration to one of the Course Demonstrators. You will be expected to describe your technical solution and discuss your personal experiences throughout the project.
+
+A sign-up sheet for demonstration slots will be made available in the Computer clusters during the first week of practical sessions.
+
+=== Coursework submission
+You must submit all code via the coursework submission system (NESS). As stated above, we must be able to build and test your submission using your Maven build. 
+
+You should also submit a short report via NESS (roughly three pages) summarising the work carried out on this project, and an evaluation of how much you achieved. We are particularly interested in any assumptions you made, and how they motivated particular design decisions. You should also provide a brief discussion of your personal experience of the development process; e.g. which aspects of the project did find particularly easy/hard?
+
+We have provided a list of things you should cover in your report in the "Report Hints" sections of this document.
+
 == Finally
-Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do. 
+Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
 
-You must be able to demonstrate each part of this project to the Course Demonstrators. Then the code must be submitted via the coursework submission system (NESS). As stated above, we must be able to build and test your submission using your Maven build. 
+Discussion Boards will also be available for CSC8104 in Blackboard (http://bb.ncl.ac.uk). You may post any questions about the tutorial or coursework assignment here, and the discussion boards will be monitored by Course Demonstrators. Before posting you should use the discussion boards' search facilities to see if somebody has already encountered the same problem.
 
-Also submit a short report via NESS (roughly two pages) summarising the work you carried out on this project, and your assessment of how much you managed to achieve. We have provided a list of things you should cover in your report in the "Report Hints" sections of this document.
-
-
+TIP: If you see a question on the discussion boards you know how to answer, we strongly encourage you to assist your colleagues!
