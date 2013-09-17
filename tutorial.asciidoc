@@ -30,15 +30,21 @@ TODO: Matt to add instructions for contacting him and getting a private repo.
 == Environment Setup
 * TODO: rhc setup 
 
+== Angular.js Tutorial
+
+Now you should run through the Angular.js tutorial. It can be found here: http://docs.angularjs.org/tutorial. After running through this, you should understand the technology well enough to understand how the example (see next section) works.
+
+TIP: If you are having problems with your JavaScript, you can use Chrome's JavaScript console to see what's happening. To show it go to: View -> Developer -> JavaScript Console.
+
 
 == Run Example
 Now you will run a simple example. This example provides you with a starting point that you will build on when you come to doing the coursework. Therefore, it is very important that you get this working and become familiar with the code.
 
-* Download JBoss. Get version EAP 6.1.0.Final from here: http://www.jboss.org/jbossas/downloads/. You need to make sure you use this version of JBoss as this matches the version you will be using on OpenShift.
-* Unzip this to somewhere on your computer.
-* Run kitchensink-angularjs locally. Download the Jboss Developer Framework quickstarts from here: http://www.jboss.org/jdf/. Then run the kitchensink-angularjs quickstart by following the instructions in kitchensink-angularjs/README.md.
-* Run the tests. Follow the section on "Run the Arquillian Tests".
-* Run kitchensink-angularjs on Openshift. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbosseap-6' as the APPLICATION_TYPE.
+* *Download JBoss*. Get version EAP 6.1.0.Final from here: http://www.jboss.org/jbossas/downloads/. You need to make sure you use this version of JBoss as this matches the version you will be using on OpenShift.
+* *Extract*. Unzip this to somewhere on your computer.
+* *Run kitchensink-angularjs locally*. Download the Jboss Developer Framework quickstarts from here: http://www.jboss.org/jdf/. Then run the kitchensink-angularjs quickstart by following the instructions in kitchensink-angularjs/README.md.
+* *Run the tests*. Follow the section on "Run the Arquillian Tests".
+* *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbosseap-6' as the APPLICATION_TYPE.
 * TODO: View Data
 
 == Working with Git
@@ -50,9 +56,6 @@ You will be using Git in the coursework for regular checkpoint and backup of you
     git remote add github https://github.com/NewcastleComputingScience/<YOUR ID>.git
     git push github master -f
 
-== Angular.js Tutorial
-* Link to tutorial
-* Javascript debugger. Use chrome.
 
 == Course Demonstrator Profiles
 
