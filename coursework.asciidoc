@@ -17,7 +17,7 @@ This coursework covers a large number of technologies. The challenge here is to 
 * *EJB Session beans*. TODO 
 * *Openshift*. This is the Platform as a Service (PaaS) that you will use to deploy your application to the Cloud.
 * *REST*. This technology will be used for communication between your web interface (running in the web browser) and your service (running in the Cloud).
-* *Git*. This is a distributed version control sytem and will be used to backup your code and for deploying it to OpenShift.
+* *Git*. This is a distributed version control system and will be used to backup your code and for deploying it to OpenShift.
 
 == Project Specification
 
@@ -25,7 +25,7 @@ IMPORTANT: You must write all the elements of the coursework yourself. You must 
 
 For this project you must create a Maven build for your application. You must also produce Arquillian tests for testing your application; these tests must also run from Maven. At the end of the project you will submit to NESS a zip file containing the source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project. 
 
-TIP: You will be awarded a considerable number of marks for your distribution and use use of version controll.
+TIP: You will be awarded a considerable number of marks for your distribution and use of version control.
 
 TODO: explain how to use GitHub repo.
 
@@ -44,12 +44,12 @@ IMPORTANT: You have been allocated a service to implement. See the allocation li
 
 The following diagram shows the architecture you will need to implement for your application:
 
-[TODO: insert architecture diagram]
+TODO: insert architecture diagram
 
-* Web-site. This is implemented with HTML5 and Angular.js. The code here is responsible for providing the user-interface and runs entirely in the user's web browser. It communicates with your server in the Cloud (or locally during development) when invoking operations, such as making a booking or listing users. This is done using...
-* REST Services. These are implemented using JAX-RS and provide a service interface to your application. These services are responsible for managing bookings, users and taxis/hotels/flights. 
-* Persistence layer. This layer provides a Java interface for accessing the data in the database, using the Java Persistence API (JPA).
-* Database. This is where your data is stored. Your application won't access this directly as it will use JPA to interface with the data. 
+* *Web-site*. This is implemented with HTML5 and Angular.js. The code here is responsible for providing the user-interface and runs entirely in the user's web browser. It communicates with your server in the Cloud (or locally during development) when invoking operations, such as making a booking or listing users. This is done using...
+* *REST Services*. These are implemented using JAX-RS and provide a service interface to your application. These services are responsible for managing bookings, users and taxis/hotels/flights. 
+* *Persistence layer*. This layer provides a Java interface for accessing the data in the database, using the Java Persistence API (JPA).
+* *Database*. This is where your data is stored. Your application won't access this directly as it will use JPA to interface with the data. 
 
 
 === Web-site
@@ -93,7 +93,7 @@ You should provide a mechanism that allows a booking to fail. For example, you c
 
 IMPORTANT: It is very important that the user does not end up with a partial booking. Otherwise they may end up paying for a flight, without having a hotel to stay in.
 
-[TODO: insert diagram here]
+TODO: insert diagram here
  
 The diagram above shows the type of interaction that you should have achieved by completing part 2.
 
@@ -106,7 +106,7 @@ TIP: You may also find it hard to utilize the exact service types specified abov
 * What problems did you have offering your service to your colleagues?
 
 === Part 3
-TODO
+TODO: What should we put here? Maybe drop this part for this year?
 
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do. 
