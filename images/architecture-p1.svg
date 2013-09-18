@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg8846"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.2 r9819"
+   version="1.0"
+   sodipodi:docname="architecture-p1.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/Users/paul/dev/itec-ejb-code/materials/architecture-p1.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <defs
+     id="defs8848">
+    <linearGradient
+       id="linearGradient5628"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5630" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path4427"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path3298"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3301"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.56003"
+     inkscape:cx="438.65799"
+     inkscape:cy="379.9055"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="1052.3622px"
+     height="744.09449px"
+     inkscape:grid-points="true"
+     inkscape:guide-points="true"
+     showgrid="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="1024"
+     inkscape:window-x="103"
+     inkscape:window-y="1178"
+     inkscape:connector-spacing="20"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="10px"
+       spacingy="10px"
+       color="#0000ff"
+       empcolor="#0000ff"
+       opacity="0.2"
+       empopacity="0.4"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata8851">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       ry="10"
+       rx="10"
+       y="304.09448"
+       x="280"
+       height="140"
+       width="460"
+       id="rect3310"
+       style="fill:#729fcf;fill-opacity:0.60784314;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="509.98242"
+       y="321.59839"
+       id="text3322"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"><tspan
+         id="tspan3324"
+         sodipodi:role="line"
+         x="509.98242"
+         y="321.59839">OpenShift Cartridge</tspan></text>
+    <rect
+       ry="10"
+       rx="10"
+       y="-434.09448"
+       x="290"
+       height="90"
+       width="440"
+       id="rect3326"
+       style="fill:#729fcf;fill-opacity:0.60784314;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"
+       transform="scale(1,-1)" />
+    <g
+       transform="translate(179.75,90.5)"
+       id="g3312"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <rect
+         ry="5"
+         rx="5"
+         y="294.09448"
+         x="130.5"
+         height="40"
+         width="120"
+         id="rect3314"
+         style="fill:#ffffff;fill-opacity:0.60784314;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3316"
+         y="317.06812"
+         x="189.59863"
+         style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="317.06812"
+           x="189.59863"
+           sodipodi:role="line"
+           id="tspan3320">REST Services</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="510.31641"
+       y="367.69214"
+       id="text3328"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"><tspan
+         id="tspan3330"
+         sodipodi:role="line"
+         x="510.31641"
+         y="367.69214">JBoss Application Server</tspan></text>
+    <g
+       transform="translate(319.5,90)"
+       id="g3340"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <rect
+         ry="5"
+         rx="5"
+         y="294.09448"
+         x="130.5"
+         height="40"
+         width="120"
+         id="rect3342"
+         style="fill:#ffffff;fill-opacity:0.60784314;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3344"
+         y="311.06812"
+         x="189.59863"
+         style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="311.06812"
+           x="189.59863"
+           sodipodi:role="line"
+           id="tspan3348">Persistence</tspan><tspan
+           y="326.06812"
+           x="189.59863"
+           sodipodi:role="line"
+           id="tspan3335">Layer</tspan></text>
+    </g>
+    <rect
+       ry="10"
+       rx="10"
+       y="304.09448"
+       x="-9.5"
+       height="139.5"
+       width="180.5"
+       id="rect3355"
+       style="opacity:1;fill:#edd400;fill-opacity:0.60784314;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
+    <rect
+       inkscape:export-ydpi="72"
+       inkscape:export-xdpi="72"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       style="fill:#edd400;fill-opacity:0.60784314;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3379"
+       width="160.5"
+       height="90"
+       x="0.5"
+       y="343.59448"
+       rx="10"
+       ry="10" />
+    <g
+       inkscape:export-ydpi="72"
+       inkscape:export-xdpi="72"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       id="g3381"
+       transform="translate(-109.75,89.5)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:0.60784314;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3383"
+         width="120"
+         height="40"
+         x="130.5"
+         y="294.09448"
+         rx="5"
+         ry="5" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="189.59863"
+         y="311.06812"
+         id="text3385"><tspan
+           id="tspan3397"
+           sodipodi:role="line"
+           x="189.59863"
+           y="311.06812">Web Site</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="72"
+       inkscape:export-xdpi="72"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       id="text3391"
+       y="370.69214"
+       x="81.579102"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="370.69214"
+         x="81.579102"
+         sodipodi:role="line"
+         id="tspan3393">Web Browser</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="83.003906"
+       y="324.09448"
+       id="text3367"
+       inkscape:export-filename="/tmp/tgrid-architecture-service-service_manager.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"><tspan
+         id="tspan3369"
+         sodipodi:role="line"
+         x="83.003906"
+         y="324.09448">Your Computer</tspan></text>
+    <rect
+       ry="5"
+       rx="5"
+       y="384.09448"
+       x="590"
+       height="40"
+       width="120"
+       id="rect5777"
+       style="fill:#ffffff;fill-opacity:0.60784314;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       id="text3403"
+       y="401.06812"
+       x="649.73047"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3405"
+         y="401.06812"
+         x="651.64062"
+         sodipodi:role="line">Booking </tspan><tspan
+         id="tspan3409"
+         y="416.06812"
+         x="649.73047"
+         sodipodi:role="line">Database</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 140.75,403.80174 169.5,0.58549"
+       id="path3419"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#g3381"
+       inkscape:connection-end="#g3312"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end-point="d4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 430.25,404.37981 450,404.30915"
+       id="path3421"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#g3312"
+       inkscape:connection-start-point="d4"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end-point="d4"
+       inkscape:connection-end="#g3340" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 570,404.09448 20,0"
+       id="path3432"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#g3340"
+       inkscape:connection-end="#rect5777"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end-point="d4"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect5656"
+       width="530"
+       height="220"
+       x="270"
+       y="234.09448"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="274"
+       y="258.09448"
+       id="text5681"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5683"
+         x="274"
+         y="258.09448"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">OpenShift</tspan></text>
+  </g>
+</svg>
