@@ -27,10 +27,14 @@ For this project you must create a Maven build for your application. You must al
 
 TIP: You will be awarded a considerable number of marks for your distribution and use of version control.
 
-TODO: explain how to use GitHub repo.
+You should push commits of your coursework regularly to your GitHub repo. It is a good idea to do so every time you get a small piece of functionality working. This ensures that you can move back to a working state if you get in a mess. It also ensures that you have a backup and that the demonstrators can view your code and track progress.
+
+IMPORTANT: You will receive marks for your use of GitHub. We expect to see a steady flow of logical commits over the coursework period.
 
 == General Processs
-TODO: build on kitchensink, don't worry about renaming packages, OpenShift application, etc. Regular commits. develop locally and push to OpenShift when working.
+You should build on kitchensink example from the tutorial. You do not have time to create this application from scratch. Don't worry about renaming the packages or the OpenShift application name, doing so is likely to get you into a mess.
+
+The easiest way to work, is to deploy your application to a local version of JBoss during development. Push your code to OpenShift periodically, when you have a new set of features working. This is especially important for part 2, as you will cause your colleagues problems if your service becomes unavailable.
 
 == Part 1 
 
@@ -106,7 +110,7 @@ TIP: You may also find it hard to utilize the exact service types specified abov
 * What problems did you have offering your service to your colleagues?
 
 === Part 3
-TODO: What should we put here? Maybe drop this part for this year?
+TODO: What should we put here? Maybe drop this part for this year? Discuss Ideas after Ellis has gone through the coursework.
 
 == Submission Guidelines
 
