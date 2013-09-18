@@ -44,7 +44,7 @@ IMPORTANT: You have been allocated a service to implement. See the allocation li
 
 The following diagram shows the architecture you will need to implement for your application:
 
-TODO: insert architecture diagram
+image:images/architecture-p1.png["Part 1 architechture diagram",align="center"]
 
 * *Web-site*. This is implemented with HTML5 and Angular.js. The code here is responsible for providing the user-interface and runs entirely in the user's web browser. It communicates with your server in the Cloud (or locally during development) when invoking operations, such as making a booking or listing users. This is done using...
 * *REST Services*. These are implemented using JAX-RS and provide a service interface to your application. These services are responsible for managing bookings, users and taxis/hotels/flights. 
