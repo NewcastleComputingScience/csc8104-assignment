@@ -93,7 +93,7 @@ You should provide a mechanism that allows a booking to fail. For example, you c
 
 IMPORTANT: It is very important that the user does not end up with a partial booking. Otherwise they may end up paying for a flight, without having a hotel to stay in.
 
-TODO: insert diagram here
+image:images/architecture-p2.png["Part 2 architechture diagram",align="center"]
  
 The diagram above shows the type of interaction that you should have achieved by completing part 2.
 
