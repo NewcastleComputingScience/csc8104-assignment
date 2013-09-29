@@ -24,7 +24,7 @@ If you don't already have an account you will need to:
 2. Fill in your details and select "Sign up for GitHub."
 3. Forward your Github account registration email to Matt Forshaw at (m.j.forshaw@ncl.ac.uk). Matt will then create your private repository, grant you access, and email you with the details.
 
-TIP: GitHub is a very popular service, and you are likely to use it in your profesional career; especially if you work with open source software in some capacity.
+TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity.
 
 == Environment Setup
 * TODO: rhc setup 
@@ -46,7 +46,7 @@ Now you will run a simple example. This example provides you with a starting poi
 * *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbosseap-6' as the APPLICATION_TYPE.
 
 == Working with Git
-You will be using Git in the coursework for regular checkpoint and backup of your code to GitHub. You will also use Git to update your application on OpenShift. This section will show you how to create a copy of the 'kitchensik-angularjs' example, ready fo you to extend in the coursework, and also how to push the code to GitHub and OpenShift.
+You will be using Git in the coursework for regular checkpoint and backup of your code to GitHub. You will also use Git to deploy new versions of your application to OpenShift. This section will show you how to create a copy of the 'kitchensik-angularjs' example, ready fo you to extend in the coursework, and also how to push the code to GitHub and OpenShift.
 
 * Build on top of the kitchensink-angularjs example, by moving your clone of the OpenShift git repository at kitchensink-angularjs/kitchensinkangularjs to some other location on your disk, where you want to develop your coursework submission.
 * Now you need to be able to push your code to your git repository on GitHub. To do this, you will need the url of the repository created by Matt on your earlier request. 
@@ -85,7 +85,7 @@ To log into the datasource for your application, use the following details.
 
 == Course Demonstrator Profiles
 
-*Dr Paul Robinson* is a Senior Software Engineer at Red Hat and a Visiting Research Fellow at the University. Paul develops software for the JBoss application server and in particular for the Transaction Service component. Paul has lead the Enterprise Distributed Computing coursework for 9 years. He also supervises students for their Masters dissertation through industrial placements.
+*Dr Paul Robinson* is a Senior Software Engineer at Red Hat and a Visiting Research Fellow at the University. Paul develops software for the JBoss application server and in particular for the Transaction Service component. Paul has lead the Enterprise Distributed Computing coursework for 9 years. He also supervises students for their Masters dissertation through industrial placements at Red Hat.
 
 *Matt Forshaw* is a fourth year PhD student at Newcastle University. After completing his BSc and MSc ITEC (with Distinction) at Newcastle University, Matt has demonstrated and assessed on CSC8104 for the past four years. Matt is a member of the Systems research group investigating energy efficient operating policies for large computing environments. He also supervises student research projects and dissertations in the areas of energy-efficiency and green computing.
 
