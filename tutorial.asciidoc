@@ -13,7 +13,7 @@ To create an account:
 . Go to: https://www.openshift.com
 . Select "Signup for Free" under the "Online" option.
 . Fill in your details and select "Sign Up".
-. TODO: any more steps?
+. You should now receive an email containing a link to confirm your registration.  Click this link and confirm that you agree to openshift's terms of use.  
 
 === GitHub
 GitHub offers the Git version control system as a service. You will use it to host your code and to make it available to the demonstrators. GitHub is very popular in the open-source community and works best when you make your code available to others to view, clone and contribute towards. However, given the confidential nature of your coursework, you will need to use a private repository only accessible by yourself and the demonstrators.
@@ -33,6 +33,7 @@ TIP: GitHub is a very popular service, and you are quite likely to use it in you
 
 Now you should run through the Angular.js tutorial. It can be found here: http://docs.angularjs.org/tutorial. After running through this, you should understand the technology well enough to understand how the example (see next section) works.
 
+* *Web Server*. When executing the tutorial examples, you should use the node.js webserver that is provided with the tutorial code.
 TIP: If you are having problems with your JavaScript, you can use Chrome's JavaScript console to see what's happening. To show it go to: View -> Developer -> JavaScript Console.
 
 
@@ -53,6 +54,8 @@ You will be using Git in the coursework for regular checkpoint and backup of you
 
     git remote add github https://github.com/NewcastleComputingScience/<YOUR ID>.git
     git push github master -f
+    
+TIP: If you are new to Git, you should read Pro Git.  Chapters 1-3 should cover all the functionality required for this coursework.  Available at: http://git-scm.com/book
     
 == Viewing your datasource
 During development you may find it very useful to be able to inspect the contents of your database. To do this you will use h2console, which is provided as part of the quickstarts.
