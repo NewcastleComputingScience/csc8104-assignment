@@ -97,7 +97,9 @@ To log into the datasource for your application, use the following details.
 
 *Becky Simmonds* is a third year PhD student researching into Twitter analysis using online and offline techniques. She demonstrated on CSC8104 the last two years and completed it herself the year before. Becky demonstrates on other modules and helps supervise a final year dissertation.
 
-*Ryan Emerson* is a third year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.  
+*Ryan Emerson* is a third year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.
+
+*Hugo Firth* is a first year PhD student with the Systems research group. Studying at Newcastle University since 2010, Hugo graduated with a BSc(Hons) Computer Science (1st Class) earlier this year. Since 2009 Hugo has offered freelance development services, providing API-centric web development to clients ranging from Web hosts to Game developers; he has recently completed a number of projects using AngularJS.
 
 == Alocation List
 
