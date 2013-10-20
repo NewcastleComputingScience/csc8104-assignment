@@ -28,7 +28,7 @@ TIP: GitHub is a very popular service, and you are quite likely to use it in you
 
 == Environment Setup
 
-Once you have recieved the confirmed (as mentioned above) your email address with OpenShift, you will be directed to a web page titled "https://www.openshift.com/get-started[Get Started]". Once on this page you will need to welect the *Command Line* option at the top of the page and follow the first two steps of the instructions subsequently listed.
+Once you have recieved the confirmed (as mentioned above) your email address with OpenShift, you will be directed to a web page titled https://www.openshift.com/get-started["Get Started"]. Once on this page you will need to select the *Command Line* option at the top of the page and follow the first two steps of the instructions subsequently listed.
 
 * *Setup*. When running the `rhc setup` command you will be asked for your openshift *login* and *password*. Your login details are those used to register for OpenShift. When asked to provide a namespace for your projects, you should provide your student number (e.g 100826753). 
 
@@ -49,7 +49,7 @@ Now you will run a simple example. This example provides you with a starting poi
 * *Download JBoss*. Get version EAP 6.1.0.Final from here: http://www.jboss.org/jbossas/downloads/. You need to make sure you use this version of JBoss as this matches the version you will be using on OpenShift. You will be required to register for the https://community.jboss.org/[JBoss community] website as part of the download process.
 * *Extract*. Unzip this to somewhere on your computer.
 * *Run kitchensink-angularjs locally*. Download the Jboss Developer Framework quickstarts from here: http://www.jboss.org/jdf/. Then run the kitchensink-angularjs quickstart by following the instructions in kitchensink-angularjs/README.md.
-* *Run the tests*. Follow the section on "Run the Arquillian Tests".
+* *Run the tests*. Follow the instructions in kitchensink-angularjs/README.md - Spefically, the section titled "Run the Arquillian Tests".
 * *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbosseap-6' (*not* 'jbosseap-6.0') as the APPLICATION_TYPE.
 
 == Working with Git
@@ -102,7 +102,7 @@ To log into the datasource for your application, use the following details.
 
 *Ryan Emerson* is a third year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.
 
-*Hugo Firth* is a first year PhD student with the Systems research group. Studying at Newcastle University since 2010, Hugo graduated with a BSc(Hons) Computer Science (1st Class) earlier this year. Since 2009 Hugo has offered freelance development services, providing API-centric web development to clients ranging from Web hosts to Game developers; he has recently completed a number of projects using AngularJS.
+*Hugo Firth* is a first year PhD student with the Systems research group. Studying at Newcastle University since 2010, Hugo graduated with a BSc in Computer Science (1st Class) earlier this year. Since 2009 Hugo has offered freelance development services, providing API-centric web development to clients ranging from Web hosts to Game developers; he has recently completed a number of projects using AngularJS.
 
 == Alocation List
 
