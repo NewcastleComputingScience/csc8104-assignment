@@ -24,11 +24,12 @@ If you don't already have an account you will need to:
 2. Fill in your details and select "Sign up for GitHub."
 3. Forward your Github account registration email to Matt Forshaw at (m.j.forshaw@ncl.ac.uk). Matt will then create your private repository, grant you access, and email you with the details.
 
-TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity. Github is free for open source projects; however, as a student, you are entitled to a free Github Micro account, allowing up to 5 closed source projects at once; Apply https://github.com/edu[here].
+TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity. 
+TIP: *After the coursework* Github is free for open source projects; however, as a student, you are entitled to a free Github Micro account, allowing up to 5 closed source projects at once; Apply https://github.com/edu[here].
 
 == Environment Setup
 
-Once you have recieved the confirmed (as mentioned above) your email address with OpenShift, you will be directed to a web page titled https://www.openshift.com/get-started["Get Started"]. Once on this page you will need to select the *Command Line* option at the top of the page and follow the first two steps of the instructions subsequently listed.
+Once you have confirmed (as mentioned above) your email address with OpenShift, you will be directed to a web page titled https://www.openshift.com/get-started["Get Started"]. On this page you will need to select the *Command Line* option at the top of the page and follow the first two steps of the instructions subsequently listed.
 
 * *Setup*. When running the `rhc setup` command you will be asked for your openshift *login* and *password*. Your login details are those used to register for OpenShift. When asked to provide a namespace for your projects, you should provide your student number (e.g 100826753). 
 
