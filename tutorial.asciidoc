@@ -49,8 +49,8 @@ Now you will run a simple example. This example provides you with a starting poi
 == Eclipse Setup
 If you want to use Eclipse to edit the kitchensink-angularjs example (and your coursework), you must follow these steps:
 
-. Install m2eclipse
-. Import the maven project into eclipse https://docs.jboss.org/author/display/AS7/Importing+the+quickstarts+into+Eclipse
+. *Install m2eclipse*. Google "Install m2eclipse <your eclipse version>", the procedure differs between eclipse versions
+. *Import the maven project into eclipse*. https://docs.jboss.org/author/display/AS7/Importing+the+quickstarts+into+Eclipse
 
 == Working with Git
 You will be using Git in the coursework for regular checkpoint and backup of your code to GitHub. You will also use Git to deploy new versions of your application to OpenShift. This section will show you how to create a copy of the 'kitchensik-angularjs' example, ready fo you to extend in the coursework, and also how to push the code to GitHub and OpenShift.
