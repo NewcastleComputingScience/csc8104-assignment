@@ -24,27 +24,34 @@ If you don't already have an account you will need to:
 2. Fill in your details and select "Sign up for GitHub."
 3. Forward your Github account registration email to Matt Forshaw at (m.j.forshaw@ncl.ac.uk). Matt will then create your private repository, grant you access, and email you with the details.
 
-TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity.
+TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity. 
+TIP: *After the coursework* Github is free for open source projects; however, as a student, you are entitled to a free Github Micro account, allowing up to 5 closed source projects at once; Apply https://github.com/edu[here].
 
 == Environment Setup
-* TODO: rhc setup 
+
+Once you have confirmed (as mentioned above) your email address with OpenShift, you will be directed to a web page titled https://www.openshift.com/get-started["Get Started"]. On this page you will need to select the *Command Line* option at the top of the page and follow the first two steps of the instructions subsequently listed.
+
+* *Setup*. When running the `rhc setup` command you will be asked for your openshift *login* and *password*. Your login details are those used to register for OpenShift. When asked to provide a namespace for your projects, you should provide your student number (e.g 100826753). 
 
 == Angular.js Tutorial
 
 Now you should run through the Angular.js tutorial. It can be found here: http://docs.angularjs.org/tutorial. After running through this, you should understand the technology well enough to understand how the example (see next section) works.
 
 * *Web Server*. When executing the tutorial examples, you should use the node.js webserver that is provided with the tutorial code.
+
+* *Testing*. From http://docs.angularjs.org/tutorial/step_02[step 2] onwards, the tutorial includes a heavy focus on testing. Whilst a useful feature of the framework, testing your AngularJS code will not be a focus of this course and you may ignore these sections of each step.
+
 TIP: If you are having problems with your JavaScript, you can use Chrome's JavaScript console to see what's happening. To show it go to: View -> Developer -> JavaScript Console.
 
 
 == Run Example
 Now you will run a simple example. This example provides you with a starting point that you will build on when you come to doing the coursework. Therefore, it is very important that you get this working and become familiar with the code.
 
-* *Download JBoss*. Get version EAP 6.1.0.Final from here: http://www.jboss.org/jbossas/downloads/. You need to make sure you use this version of JBoss as this matches the version you will be using on OpenShift. You will be asked to register for the JBoss Community in order to download JBoss.
+* *Download JBoss*. Get version EAP 6.1.0.Final from here: http://www.jboss.org/jbossas/downloads/. You need to make sure you use this version of JBoss as this matches the version you will be using on OpenShift. You will be required to register for the https://community.jboss.org/[JBoss community] website as part of the download process.
 * *Extract*. Unzip this to somewhere on your computer.
 * *Run kitchensink-angularjs locally*. Download the JBoss Web Framework Kit (WFK) Quickstarts from here: https://github.com/jboss-developer/jboss-wfk-quickstarts. Then run the kitchensink-angularjs quickstart by following the instructions at https://github.com/jboss-developer/jboss-wfk-quickstarts/blob/master/kitchensink-angularjs/README.md.
-* *Run the tests*. Follow the section on "Run the Arquillian Tests".
-* *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbosseap-6' as the APPLICATION_TYPE.
+* *Run the tests*. Follow the instructions in kitchensink-angularjs/README.md - Spefically, the section titled "Run the Arquillian Tests".
+* *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbosseap-6' (*not* 'jbosseap-6.0') as the APPLICATION_TYPE.
 
 == Eclipse Setup
 If you want to use Eclipse to edit the kitchensink-angularjs example (and your coursework), you must follow these steps:
@@ -102,7 +109,9 @@ TIP: Your persistence.xml is the configuration file used to specify the connecti
 
 *Becky Simmonds* is a third year PhD student researching into Twitter analysis using online and offline techniques. She demonstrated on CSC8104 the last two years and completed it herself the year before. Becky demonstrates on other modules and helps supervise a final year dissertation.
 
-*Ryan Emerson* is a third year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.  
+*Ryan Emerson* is a third year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.
+
+*Hugo Firth* is a first year PhD student with the Systems research group. Studying at Newcastle University since 2010, Hugo graduated with a BSc in Computer Science (1st Class) earlier this year. Since 2009 Hugo has offered freelance development services, providing API-centric web development to clients ranging from Web hosts to Game developers; he has recently completed a number of projects using AngularJS.
 
 == Alocation List
 
