@@ -42,7 +42,7 @@ Now you will run a simple example. This example provides you with a starting poi
 
 * *Download JBoss*. Get version EAP 6.1.0.Final from here: http://www.jboss.org/jbossas/downloads/. You need to make sure you use this version of JBoss as this matches the version you will be using on OpenShift. You will be asked to register for the JBoss Community in order to download JBoss.
 * *Extract*. Unzip this to somewhere on your computer.
-* *Run kitchensink-angularjs locally*. Download the Jboss Developer Framework quickstarts from here: http://www.jboss.org/jdf/. Then run the kitchensink-angularjs quickstart by following the instructions at http://www.jboss.org/jdf/quickstarts/jboss-as-quickstart/kitchensink-angularjs/.
+* *Run kitchensink-angularjs locally*. Download the JBoss Web Framework Kit (WFK) Quickstarts from here: https://github.com/jboss-developer/jboss-wfk-quickstarts. Then run the kitchensink-angularjs quickstart by following the instructions at https://github.com/jboss-developer/jboss-wfk-quickstarts/blob/master/kitchensink-angularjs/README.md.
 * *Run the tests*. Follow the section on "Run the Arquillian Tests".
 * *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbosseap-6' as the APPLICATION_TYPE.
 
