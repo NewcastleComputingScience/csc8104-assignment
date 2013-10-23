@@ -51,7 +51,7 @@ Now you will run a simple example. This example provides you with a starting poi
 * *Extract*. Unzip this to somewhere on your computer.
 * *Run kitchensink-angularjs locally*. Download the JBoss Web Framework Kit (WFK) Quickstarts from here: https://github.com/jboss-developer/jboss-wfk-quickstarts. Then run the kitchensink-angularjs quickstart by following the instructions at https://github.com/jboss-developer/jboss-wfk-quickstarts/blob/master/kitchensink-angularjs/README.md.
 * *Run the tests*. Follow the instructions in kitchensink-angularjs/README.md - Spefically, the section titled "Run the Arquillian Tests".
-* *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. NOTE: make sure you use 'jbosseap-6' (*not* 'jbosseap-6.0') as the APPLICATION_TYPE.
+* *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section.
 
 == Eclipse Setup
 If you want to use Eclipse to edit the kitchensink-angularjs example (and your coursework), you must follow these steps:
