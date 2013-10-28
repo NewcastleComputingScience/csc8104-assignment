@@ -30,8 +30,8 @@ You should push commits of your coursework regularly to your GitHub repo. It is 
 
 IMPORTANT: You will receive marks for your use of GitHub. We expect to see a steady flow of logical commits over the coursework period.
 
-== General Processs
-You should build on kitchensink example from the tutorial. You do not have time to create this application from scratch. Don't worry about renaming the packages or the OpenShift application name, doing so is likely to get you into a mess.
+== General Process
+You should build on the kitchensink-angularjs example from the tutorial. You do not have time to create this application from scratch. Don't worry about renaming the packages or the OpenShift application name, doing so is likely to get you into a mess.
 
 The easiest way to work, is to deploy your application to a local version of JBoss during development. Push your code to OpenShift periodically, when you have a new set of features working. This is especially important for part 2, as you will cause your colleagues problems if your service becomes unavailable.
 
