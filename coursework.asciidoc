@@ -1,11 +1,11 @@
 = CSC8104: Enterprise Middleware Coursework, November 2013
 
 == Outline
-This coursework is designed to give you experience with building Java EE 6 applications and deploying them to the Cloud. You will build a real-world application using real enterprise technologies. You will also be building the entire application from the web front-end, through to the data-storage. As a result you will need to become familiar with a wide range of technologies. It is important that you start the work early and ask for help when needed. By completing this coursework, you will gain some useful experience and skills.
+This coursework is designed to give you experience building Java EE 6 applications and deploying them to the Cloud. You will build a real-world application using real enterprise technologies. You will also be building the entire application from the web front-end, through to the data-storage. As a result you will need to become familiar with a wide range of technologies. It is important that you start the work early and ask for help when needed. By completing this coursework, you will gain some useful experience and skills.
 
 In Part One you will build a service with a web front end, hosted on a Platform as a Service Cloud. In Part Two you will create a more complex service by orchestrating your colleagues' services into a bigger application.
 
-You must complete the provided Tutorial before attempting this coursework. There are a number of prerequisite steps in the tutorial that must be done for the coursework to work.
+You must complete the provided Tutorial before attempting this coursework. There are a number of pre-requisite steps in the tutorial that must be done for the coursework to work.
 
 == Technologies
 This coursework covers a large number of technologies. The challenge here is to learn the right bits of each technology in order to complete the coursework.
@@ -24,13 +24,13 @@ This coursework covers a large number of technologies. The challenge here is to 
 
 IMPORTANT: You must write all the elements of the coursework yourself. You must NOT use tools/wizards (such as Eclipse) to write them for you! However, you are encouraged to use Eclipse as your IDE. 
 
-For this project you must create a Maven build for your application. You must also produce Arquillian tests for testing your application; these tests must also run from Maven. At the end of the project you will submit to NESS a zip file containing the source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project. 
+For this project you must create a Maven build for your application. You must also produce Arquillian tests for testing your application; these tests must also run from Maven. At the end of the project you will submit to NESS, a zip file containing the source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project. 
 
 TIP: You will be awarded a considerable number of marks for your distribution and use of version control.
 
 You should push commits of your coursework regularly to your GitHub repo. It is a good idea to do so every time you get a small piece of functionality working. This ensures that you can move back to a working state if you get in a mess. It also ensures that you have a backup and that the demonstrators can view your code and track progress.
 
-IMPORTANT: You will receive marks for your use of GitHub. We expect to see a steady flow of logical commits over the coursework period.
+IMPORTANT: You will receive marks for your use of GitHub. We expect to see a steady flow of sensible commits over the coursework period.
 
 == General Process
 You should build on the kitchensink-angularjs example from the tutorial. You do not have time to create this application from scratch. Don't worry about renaming the packages or the OpenShift application name, doing so is likely to get you into a mess.
@@ -39,7 +39,7 @@ The easiest way to work, is to deploy your application to a local version of JBo
 
 == Part 1 
 
-Produce a web site offering either Taxi, hotel or flight bookings. You have been alocated a specific service type (see the end of the tutorial document). Your website *must* be developed using HTML5 and Angular.js technologies. You should now be familiar with these technologies after completing the provided tutorial.
+Produce a web site offering either Taxi, Hotel or Flight bookings. You have been alocated a specific service type (see the end of the tutorial document). Your website *must* be developed using HTML5 and Angular.js technologies. You should now be familiar with these technologies after completing the provided tutorial.
 
 IMPORTANT: You have been allocated a service to implement. See the allocation list in the tutorial document for details. You MUST implement the service that you have been allocated. 
 
@@ -72,7 +72,7 @@ You will need three REST services:
 2. Taxi/Hotel/Flight. Lists and creates items.
 3. Booking. Creates and cancels bookings.
 
-You must document your REST service. This is essential for any third-party who wishes to use your service. In particular, you will need to make this available to any colleagues using your service in part 3. 
+You must document your REST service. This is essential for any third-party who wishes to use your service. In particular, you will need to make this available to any colleagues using your service in Part 2. 
 
 IMPORTANT: Instructions on how to document your REST service will apear here soon.
 
