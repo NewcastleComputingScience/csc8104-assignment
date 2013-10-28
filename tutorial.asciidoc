@@ -13,7 +13,7 @@ To create an account:
 . Go to: https://www.openshift.com
 . Select "Signup for Free" under the "Online" option.
 . Fill in your details and select "Sign Up".
-. You should now receive an email containing a link to confirm your registration.  Click this link and confirm that you agree to openshift's terms of use.  
+. You should now receive an email containing a link to confirm your registration.  Click this link and confirm that you agree to OpenShift's terms of use.  
 
 === GitHub
 GitHub offers the Git version control system as a service. You will use it to host your code and to make it available to the demonstrators. GitHub is very popular in the open-source community and works best when you make your code available to others to view, clone and contribute towards. However, given the confidential nature of your coursework, you will need to use a private repository only accessible by yourself and the demonstrators.
@@ -25,6 +25,7 @@ If you don't already have an account you will need to:
 3. Forward your Github account registration email to Matt Forshaw at (m.j.forshaw@ncl.ac.uk). Matt will then create your private repository, grant you access, and email you with the details.
 
 TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity. 
+
 TIP: *After the coursework* Github is free for open source projects; however, as a student, you are entitled to a free Github Micro account, allowing up to 5 closed source projects at once; Apply https://github.com/edu[here].
 
 == Environment Setup
