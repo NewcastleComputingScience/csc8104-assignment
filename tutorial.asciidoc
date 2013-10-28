@@ -121,14 +121,38 @@ Discussion Boards will also be available for CSC8104 in Blackboard (http://bb.nc
 TIP: If you see a question on the discussion boards you know how to answer, we strongly encourage you to assist your colleagues!
 
 
-== Alocation List
+== Allocation List
 
 [options="header"]
 |=====
-|Student     |Service    |Repository URL
-|student1    |Taxi       |
-|student2    |Hotel      |
-|student3    |Service    |
+| Student name | Studnet number | Service
+|	Anirudh Agarwal	|	130626361	|	Taxi
+|	Kyriaki Argyrou	|	93733306	|	Hotel
+|	Simon Bain	|	130607267	|	Flight
+|	Richard J.D. Bone	|	130587305	|	Taxi
+|	James R. Brealey	|	130489331	|	Hotel
+|	Anders L. Breilid	|	130607717	|	Flight
+|	Ibrahim El-sanosi	|	69156546	|	Taxi
+|	Ibragim Gapuraev	|	130544179	|	Hotel
+|	Jiapeng Guo	|	130011947	|	Flight
+|	Yifei Jia	|	130128968	|	Taxi
+|	Wenqi Jin	|	130008637	|	Hotel
+|	David Jones	|	101642075	|	Flight
+|	Omar R. Khurshid	|	130526256	|	Taxi
+|	Jaydip P. Kulkarni	|	130446840	|	Hotel
+|	Jie Lan	|	130192291	|	Flight
+|	Fanchen Li	|	130534516	|	Taxi
+|	Mingyang Li	|	130043041	|	Hotel
+|	Zequn Li	|	130254496	|	Flight
+|	Yang Lu	|	120190658	|	Taxi
+|	Eyad A.M. Marei	|	130618377	|	Hotel
+|	Yuan Miao	|	120359749	|	Flight
+|	Saleh Mohamed	|	103543457	|	Taxi
+|	Thai H. Nguyen	|	120315848	|	Hotel
+|	Niu Niu	|	130185592	|	Flight
+|	Ashish Patil	|	130536325	|	Taxi
+|	Sean J.M. Simpson	|	104792416	|	Hotel
+|	Xin Wen	|	130120939	|	Flight
 |=====
 
 IMPORTANT: If your name does not appear in the allocation list please contact Matt Forshaw at m.j.forshaw@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
