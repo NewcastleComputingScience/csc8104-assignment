@@ -73,7 +73,7 @@ You will need three REST services:
 3. Booking. Creates and cancels bookings.
 
 === Persistence Layer
-You will probably need three Entity Beans.
+You will probably need three Entitys.
 
 1. Customer. A bean to hold the data you wish to collect about each customer.
 2. Taxi/Flight/Hotel. A bean to hold the data you wish to collect about each item you have available for booking.
