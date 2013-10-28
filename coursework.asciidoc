@@ -37,11 +37,7 @@ The easiest way to work, is to deploy your application to a local version of JBo
 
 == Part 1 
 
-Produce a web site selling ONE of the services from the following list. Your website *must* be developed using HTML5 and Angular.js technologies. You should now be familiar with these technologies after completing the provided tutorial.
-
-* Taxi 
-* Flight 
-* Hotel 
+Produce a web site offering either Taxi, hotel or flight bookings. You have been alocated a specific service type (see the end of the tutorial document). Your website *must* be developed using HTML5 and Angular.js technologies. You should now be familiar with these technologies after completing the provided tutorial.
 
 IMPORTANT: You have been allocated a service to implement. See the allocation list in the tutorial document for details. You MUST implement the service that you have been allocated. 
 
