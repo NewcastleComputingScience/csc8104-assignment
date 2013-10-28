@@ -125,7 +125,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 
 [options="header"]
 |=====
-| Student name | Studnet number | Service
+| Student name | Student number | Service
 |	Anirudh Agarwal	|	130626361	|	Taxi
 |	Kyriaki Argyrou	|	93733306	|	Hotel
 |	Simon Bain	|	130607267	|	Flight
