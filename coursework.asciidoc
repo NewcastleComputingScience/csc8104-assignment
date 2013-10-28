@@ -14,9 +14,8 @@ This coursework covers a large number of technologies. The challenge here is to 
 * *Bean Validation*. This technology allows you to specify constraints on your data and assists with validation.
 * *Arquillian*. With this tool you will be able to write tests that run inside the application server.
 * *Maven*. Your application will be built and deployed with this tool.
-* *EJB Session beans*. TODO 
 * *Openshift*. This is the Platform as a Service (PaaS) that you will use to deploy your application to the Cloud.
-* *REST*. This technology will be used for communication between your web interface (running in the web browser) and your service (running in the Cloud).
+* *JAX-RS*. This technology provides the Java EE API for developing REST services. You will use this technology to communicate between your web interface (running in the web browser) and your service (running in the Cloud). 
 * *Git*. This is a distributed version control system and will be used to backup your code and for deploying it to OpenShift.
 
 == Project Specification
