@@ -85,7 +85,7 @@ During development of your application you may find it very useful to be able to
 === Deploying h2console
 . Copy the h2console WAR file into the "deployments" directory of your repository. Change directory into your deployments directory and run the following command.
 
-    copy "[some location]/jboss-as-quickstart/h2-console/h2console.war" h2console.war
+    copy "[some location]/jboss-wfk-quickstarts/h2-console/h2console.war" h2console.war
 
 . Add this file to your git repository, commit and push.
 
