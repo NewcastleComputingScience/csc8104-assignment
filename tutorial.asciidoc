@@ -38,7 +38,7 @@ Now you should run through the Angular.js tutorial. It can be found here: http:/
 
 * *Web Server*. When executing the tutorial examples, you should use the node.js webserver that is provided with the tutorial code.
 
-* *Testing*. From http://docs.angularjs.org/tutorial/step_02[step 2] onwards, the tutorial includes a heavy focus on testing. Whilst a useful feature of the framework, testing your AngularJS code will not be a focus of this course and you may ignore these sections of each step.
+* *Testing*. From http://docs.angularjs.org/tutorial/step_02[Step 2] onwards, the tutorial includes a heavy focus on testing. Whilst a useful feature of the framework, testing your AngularJS code will not be a focus of this course and you may ignore these sections of each step.
 
 TIP: If you are having problems with your JavaScript, you can use Chrome's JavaScript console to see what's happening. To show it go to: View -> Developer -> JavaScript Console.
 
