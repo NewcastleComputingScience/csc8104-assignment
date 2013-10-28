@@ -45,6 +45,8 @@ The following diagram shows the architecture you will need to implement for your
 
 image:images/architecture-p1.png["Part 1 architechture diagram",align="center"]
 
+Through this architecture you can easily support multiple clients to the service. Here you have a Web Browser as a client, but you could quite easily also develop a mobile application using the same REST services. It's also possible to write other applications, in your chosen language, that can invoke this and other services.
+
 * *Web-site*. This is implemented with HTML5 and Angular.js. The code here is responsible for providing the user-interface and runs entirely in the user's web browser. It communicates with your server in the Cloud (or locally during development) when invoking operations, such as making a booking or listing users. This is done using...
 * *REST Services*. These are implemented using JAX-RS and provide a service interface to your application. These services are responsible for managing bookings, users and taxis/hotels/flights. 
 * *Persistence layer*. This layer provides a Java interface for accessing the data in the database, using the Java Persistence API (JPA).
@@ -58,7 +60,8 @@ Your web-site should provide an interface to:
 2. Create & List items (taxis, rooms or flights)
 3. Create, Cancel & list bookings
 
-IMPORTANT: You will be marked purely on how well your site works. No marks will be given for how the site looks.
+IMPORTANT: You will be marked purely on how well your site works. No marks will be given for how the site looks or for any additional functionality than that stated above. For example, you are not required to offer user login features. 
+
 
 === REST Services
 You will need three REST services:
