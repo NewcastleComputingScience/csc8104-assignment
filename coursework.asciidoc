@@ -72,6 +72,10 @@ You will need three REST services:
 2. Taxi/Hotel/Flight. Lists and creates items.
 3. Booking. Creates and cancels bookings.
 
+You must document your REST service. This is essential for any third-party who wishes to use your service. In particular, you will need to make this available to any colleagues using your service in part 3. 
+
+IMPORTANT: Instructions on how to document your REST service will apear here soon.
+
 === Persistence Layer
 You will probably need three Entitys.
 
