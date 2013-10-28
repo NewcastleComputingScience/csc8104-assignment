@@ -26,8 +26,6 @@ If you don't already have an account you will need to:
 
 TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity. 
 
-TIP: *After the coursework* Github is free for open source projects; however, as a student, you are entitled to a free Github Micro account, allowing up to 5 closed source projects at once; Apply https://github.com/edu[here].
-
 == Environment Setup
 
 Once you have confirmed (as mentioned above) your email address with OpenShift, you will be directed to a web page titled https://www.openshift.com/get-started["Get Started"]. On this page you will need to select the *Command Line* option at the top of the page and follow the first two steps of the instructions subsequently listed.
