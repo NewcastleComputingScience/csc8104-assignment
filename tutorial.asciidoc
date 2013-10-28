@@ -28,9 +28,11 @@ TIP: GitHub is a very popular service, and you are quite likely to use it in you
 
 == Environment Setup
 
-Once you have confirmed (as mentioned above) your email address with OpenShift, you will be directed to a web page titled https://www.openshift.com/get-started["Get Started"]. On this page you will need to select the *Command Line* option at the top of the page and follow the first two steps of the instructions subsequently listed.
+Once you have confirmed (as mentioned above) your email address with OpenShift, you will be directed to a web page titled https://www.openshift.com/get-started["Get Started"]. On this page you will need to select the *Command Line* option at the top of the page and follow the first two steps of the instructions subsequently listed. Once you have completed these steps you should have successfully created an OpenShift account, installed Ruby and the Openshift RHC Client Tools on your computer.
 
 * *Setup*. When running the `rhc setup` command you will be asked for your openshift *login* and *password*. Your login details are those used to register for OpenShift. When asked to provide a namespace for your projects, you should provide your student number (e.g 100826753). 
+
+IMPORTANT: If you encounter an "Access is denied" warning when running the RubyInstaller setup program, you should copy the installer into C:/temp, right click the executable and select "Run as Administrator". You will be prompted for your admin password for your machine, and Ruby should then install successfully.
 
 == Angular.js Tutorial
 
