@@ -73,9 +73,9 @@ TIP: If you are new to Git, you should read Pro Git.  Chapters 1-3 should cover 
 During development you may find it very useful to be able to inspect the contents of your database. To do this you will use h2console, which is provided as part of the quickstarts.
 
 === Deploying h2console
-. Copy the h2console WAR file into the "deployments" directory of your repository.
+. Copy the h2console WAR file into the "deployments" directory of your repository. Change directory into your deployments directory and run the following command.
 
-    cp ~/[some location]/jboss-as-quickstart/h2-console/h2console.war . (where "." refers to your current directory)
+    copy "[some location]/jboss-as-quickstart/h2-console/h2console.war" h2console.war
 
 . Add this file to your git repository, commit and push.
 
