@@ -1,7 +1,9 @@
 = CSC8104: Enterprise Middleware Coursework, November 2013
 
 == Outline
-This coursework is designed to give you experience with building Java EE 6 applications and deploying them to the Cloud. In part one you will build a service with a web front end, hosted on a Platform as a Service Cloud. In part two you will create a more complex service by orchestrating your colleagues' services into a bigger application.
+This coursework is designed to give you experience with building Java EE 6 applications and deploying them to the Cloud. You will build a real-world application using real enterprise technologies. You will also be building the entire application from the web front-end, through to the data-storage. As a result you will need to become familiar with a wide range of technologies. It is important that you start the work early and ask for help when needed. By completing this coursework, you will gain some useful experience and skills.
+
+In part one you will build a service with a web front end, hosted on a Platform as a Service Cloud. In part two you will create a more complex service by orchestrating your colleagues' services into a bigger application.
 
 You must complete the provided Tutorial before attempting this coursework. There are a number of prerequisite steps in the tutorial that must be done for the coursework to work.
 
