@@ -113,6 +113,15 @@ TIP: Your persistence.xml is the configuration file used to specify the connecti
 
 *Hugo Firth* is a first year PhD student with the Systems research group. Studying at Newcastle University since 2010, Hugo graduated with a BSc in Computer Science (1st Class) earlier this year. Since 2009 Hugo has offered freelance development services, providing API-centric web development to clients ranging from Web hosts to Game developers; he has recently completed a number of projects using AngularJS.
 
+
+== Finally
+Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
+
+Discussion Boards will also be available for CSC8104 in Blackboard (http://bb.ncl.ac.uk). You may post any questions about the tutorial or coursework assignment here, and the discussion boards will be monitored by Course Demonstrators. Before posting you should use the discussion boards' search facilities to see if somebody has already encountered the same problem.
+
+TIP: If you see a question on the discussion boards you know how to answer, we strongly encourage you to assist your colleagues!
+
+
 == Alocation List
 
 [options="header"]
