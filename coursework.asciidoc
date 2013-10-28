@@ -77,13 +77,17 @@ You must document your REST service. This is essential for any third-party who w
 IMPORTANT: Instructions on how to document your REST service will apear here soon.
 
 === Persistence Layer
-You will probably need three Entitys.
+You will probably need three Entities.
 
 1. Customer. A bean to hold the data you wish to collect about each customer.
 2. Taxi/Flight/Hotel. A bean to hold the data you wish to collect about each item you have available for booking.
 3. Booking. A bean representing the booking and linking to the customer who made the booking and to the item being booked.
 
 TIP: Keep these entities simple. Just provide the minimum information required to fullfil the requirements. 
+
+TIP: When you are testing your application you may find it useful to pre-populate your database with a number of example entities and bookings. One way to achieve this is to add SQL insert statements into src/main/resources/import.sql.
+
+TIP: When you are testing your application you will find it useful to view the queries run against your database. You can enable logging of this information by setting the "hibernate.show_sql" property to true in src/main/resources/META-INF/persistence.xml.
 
 === Report Hints
 * Describe the composition of your service, including each of the JAX-RS services and how they interact. You might like to draw a diagram like the one above to help explain your architecture.
@@ -93,7 +97,7 @@ You will now need to integrate three services into a simple travel agent applica
 The services you need to integrate are: 
 
 * 1 x Hotel service 
-* 1 x Taxi services 
+* 1 x Taxi service
 * 1 x Flight service 
 
 You must ensure that either every part of a booking is made, or no parts of the booking are made. Remember, each part of the booking can be cancelled using the provided cancel operation. For example, the user would not want to book a flight, if they didn't have somewhere to stay at the destination.
