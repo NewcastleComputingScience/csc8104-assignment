@@ -44,6 +44,7 @@ Now you should run through the Angular.js tutorial. It can be found here: http:/
 
 TIP: If you are having problems with your JavaScript, you can use Chrome's JavaScript console to see what's happening. To show it go to: View -> Developer -> JavaScript Console.
 
+TIP: For further information on JavaScript development you may find the following guide useful; https://developer.mozilla.org/en-US/docs/Web/JavaScript.
 
 == Run Example
 Now you will run a simple example. This example provides you with a starting point that you will build on when you come to doing the coursework. Therefore, it is very important that you get this working and become familiar with the code.
