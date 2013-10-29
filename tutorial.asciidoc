@@ -22,9 +22,11 @@ If you don't already have an account you will need to:
 
 1. Go to: https://github.com/
 2. Fill in your details and select "Sign up for GitHub."
-3. Forward your Github account registration email to Matt Forshaw at (m.j.forshaw@ncl.ac.uk). Matt will then create your private repository, grant you access, and email you with the details.
+3. Forward your Github account registration email to Matt Forshaw at (m.j.forshaw@ncl.ac.uk), including your name and university email address.
 
-If you already have an account, email Matt Forshaw at (m.j.forshaw@ncl.ac.uk) with your name, email address and Github username.
+If you already have an account, email Matt Forshaw at (m.j.forshaw@ncl.ac.uk) with your name, email address and Github username. 
+
+Matt will then create your private repository and grant you access. You will then receive an email notification from Github containing details of your new repository. This will be sent to the email address you registered with Github.
 
 TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity. 
 
