@@ -36,6 +36,8 @@ Once you have confirmed (as mentioned above) your email address with OpenShift, 
 
 IMPORTANT: If you encounter an "Access is denied" warning when running the RubyInstaller setup program, you should copy the installer into C:/temp, right click the executable and select "Run as Administrator". You will be prompted for your admin password for your machine, and Ruby should then install successfully.
 
+IMPORTANT: If you encounter a "Permission denied" warning when installing the rhc gem, you should run the Command Prompt as an administrator (right click the shortcut and select "Run As Administrator") and retry. You will be prompted for your admin password for your machine, and the rhc gem should then install successfully.
+
 == Angular.js Tutorial
 
 Now you should run through the Angular.js tutorial. It can be found here: http://docs.angularjs.org/tutorial. After running through this, you should understand the technology well enough to understand how the example (see next section) works.
