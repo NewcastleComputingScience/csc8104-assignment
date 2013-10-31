@@ -60,7 +60,32 @@ Now you will run a simple example. This example provides you with a starting poi
 * *Maven Repositories*. For this quickstart, you need to specify some additional maven repositories for downloading the required dependencies. To do this, follow https://github.com/jboss-developer/jboss-wfk-quickstarts/blob/master/README.md#configure-maven-to-build-and-deploy-the-quickstarts[these] instructions on how to "Configure Maven to Build and Deploy the Quickstarts". IMPORTANT: you must use the settings.xml from https://github.com/NewcastleComputingScience/csc8104-assignment/blob/master/settings.xml[here].
 * *Run kitchensink-angularjs locally*. Download the JBoss Web Framework Kit (WFK) Quickstarts from here: https://github.com/jboss-developer/jboss-wfk-quickstarts. Then run the kitchensink-angularjs quickstart by following the instructions at kitchensink-angularjs/README.md.
 * *Run the tests*. Follow the testing instructions in kitchensink-angularjs/README.md. Specifically, the section titled "Run the Arquillian Tests". These tests allow you to check that your service is working, without having to manually drive it via the web interface. You will build on these tests when writing your service in the coursework.
-* *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section.
+* *Run kitchensink-angularjs on Openshift*. Now follow the "Build and Deploy the Quickstart - to OpenShift" section. *Note:* To deploy to OpenShift you need to add a number of maven repositories to your pom.xml file. At the end of the "Migrate the Quickstart Source" section, you should edit your pom.xml to include the following in the "openshift" profile at the bottom of the pom.xml document. An example excerpt showing these repositories added can be seen updatedexcerpt_pom.xml[here]
+
+   <repositories>
+      <repository>
+         <id>jboss-temp-repository</id>
+         <url>http://jboss-developer.github.io/temp-maven-repo/</url>
+            <releases>
+               <enabled>true</enabled>
+            </releases>
+            <snapshots>
+               <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>jboss-temp-plugin-repository</id>
+            <url>http://jboss-developer.github.io/temp-maven-repo/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </pluginRepository>
+    </pluginRepositories>
 
 == Eclipse Setup
 If you want to use Eclipse to edit the kitchensink-angularjs example (and your coursework), you must follow these steps:
