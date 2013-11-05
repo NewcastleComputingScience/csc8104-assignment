@@ -1,4 +1,4 @@
-During the CSC8104 coursework practicals, demonstrators will collect frequently asked questions which will then appear here.
+During the CSC8104 coursework practicals, demonstrators will collect frequently asked questions which will then appear here. If you are encountering an issue should also consult the Blackboard discussion boards to see if your issue has already been raised by one of your colleagues.
 
 == Can I use the version of Eclipse IDE provided as part of CS Portable Apps?
 No. The version of Eclipse IDE provided as part of CS Portable Apps is an old version which does not support the m2eclipse plugin. We suggest you download a copy of the latest version of Eclipse (Kepler) from http://eclipse.org. The version you should download is "Eclipse IDE for Java EE Developers".
