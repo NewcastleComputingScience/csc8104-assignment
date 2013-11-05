@@ -1,0 +1,7 @@
+During the CSC8104 coursework practicals, demonstrators will collect frequently asked questions which will then appear here.
+
+== Can I use the version of Eclipse IDE provided as part of CS Portable Apps?
+No. The version of Eclipse IDE provided as part of CS Portable Apps is an old version which does not support the m2eclipse plugin. We suggest you download a copy of the latest version of Eclipse (Kepler) from http://eclipse.org. The version you should download is "Eclipse IDE for Java EE Developers".
+
+== I can't see the .m2 folder mentioned in the tutorial for configuring Maven.
+Don't worry. If you do not already have a ".m2" folder, you can simply create one and place the new settings.xml file inside.
