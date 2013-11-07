@@ -99,7 +99,7 @@ You will be using Git in the coursework for regular checkpoint and backup of you
 * Build on top of the kitchensink-angularjs example, by moving your clone of the OpenShift git repository at kitchensink-angularjs/kitchensinkangularjs to some other location on your disk, where you want to develop your coursework submission.
 * Now you need to be able to push your code to your git repository on GitHub. To do this, you will need the url of the repository created by Matt on your earlier request. 
 
-    git remote add github https://github.com/NewcastleComputingScience/<YOUR ID>.git
+    git remote add github https://github.com/NewcastleComputingScience/csc8104-<YOUR ID>.git
     git push github master -f
     
 WARNING: The -f flag for git push should not be used after this initial setup. Doing so may result in the loss of commits in the remote repository.
