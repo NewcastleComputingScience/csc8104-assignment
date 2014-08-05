@@ -6,14 +6,14 @@ This tutorial guides you through the necessary preparation required to begin you
 To complete this coursework you will need accounts on OpenShift and GitHub.
 
 === OpenShift
-OpenShift is a Platform as a Service (PaaS) Cloud offered by Red Hat. It can host many types of applications, but for this coursework you will be using it to host Java EE 6 applications on JBoss EAP 6.1. OpenShift has a free tier of membership, which you will use for the coursework. 
+OpenShift is a Platform as a Service (PaaS) Cloud offered by Red Hat. It can host many types of applications, but for this coursework you will be using it to host Java EE 6 applications on JBoss EAP 6.1. OpenShift has a free tier of membership, which you will use for the coursework.
 
 To create an account:
 
 . Go to: https://www.openshift.com
 . Select "Signup for Free" under the "Online" option.
 . Fill in your details and select "Sign Up".
-. You should now receive an email containing a link to confirm your registration.  Click this link and confirm that you agree to OpenShift's terms of use.  
+. You should now receive an email containing a link to confirm your registration.  Click this link and confirm that you agree to OpenShift's terms of use.
 
 === GitHub
 GitHub offers the Git version control system as a service. You will use it to host your code and to make it available to the demonstrators. GitHub is very popular in the open-source community and works best when you make your code available to others to view, clone and contribute towards. However, given the confidential nature of your coursework, you will need to use a private repository only accessible by yourself and the demonstrators.
@@ -24,17 +24,17 @@ If you don't already have an account you will need to:
 2. Fill in your details and select "Sign up for GitHub."
 3. Forward your Github account registration email to Matt Forshaw at (m.j.forshaw@ncl.ac.uk), including your name and university email address.
 
-If you already have an account, email Matt Forshaw at (m.j.forshaw@ncl.ac.uk) with your name, email address and Github username. 
+If you already have an account, email Matt Forshaw at (m.j.forshaw@ncl.ac.uk) with your name, email address and Github username.
 
 Matt will then create your private repository and grant you access. You will then receive an email notification from Github containing details of your new repository. This will be sent to the email address you registered with Github.
 
-TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity. 
+TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity.
 
 == Environment Setup
 
 Once you have confirmed (as mentioned above) your email address with OpenShift, you will be directed to a web page titled https://www.openshift.com/get-started["Get Started"]. On this page you will need to select the *Command Line* option at the top of the page and follow the first two steps of the instructions subsequently listed. Once you have completed these steps you should have successfully created an OpenShift account, installed Ruby and the Openshift RHC Client Tools on your computer.
 
-* *Setup*. When running the `rhc setup` command you will be asked for your openshift *login* and *password*. Your login details are those used to register for OpenShift. When asked to provide a namespace for your projects, you should provide your student number (e.g 100826753). 
+* *Setup*. When running the `rhc setup` command you will be asked for your openshift *login* and *password*. Your login details are those used to register for OpenShift. When asked to provide a namespace for your projects, you should provide your student number (e.g 100826753).
 
 IMPORTANT: If you encounter an "Access is denied" warning when running the RubyInstaller setup program, you should copy the installer into C:/temp, right click the executable and select "Run as Administrator". You will be prompted for your admin password for your machine, and Ruby should then install successfully.
 
@@ -91,26 +91,30 @@ Now you will run a simple example. This example provides you with a starting poi
 If you want to use Eclipse to edit the kitchensink-angularjs example (and your coursework), you must follow these steps:
 
 . *Install m2eclipse*. Google "Install m2eclipse <your Eclipse version>". Note: the procedure differs between eclipse versions
-. *Import the maven project into eclipse*. https://docs.jboss.org/author/display/AS7/Importing+the+quickstarts+into+Eclipse
+. *Import the maven project into eclipse*.
+  .. Within a new workspace, click 'File' -> 'Import...'
+  .. Select 'Maven' -> 'Existing Maven Projects'
+  .. Click on 'Browse' and select the quickstart you wish to import.
+  .. Click 'Finish'
 
 == Working with Git
 You will be using Git in the coursework for regular checkpoint and backup of your code to GitHub. You will also use Git to deploy new versions of your application to OpenShift. This section will show you how to create a copy of the 'kitchensik-angularjs' example, ready fo you to extend in the coursework, and also how to push the code to GitHub and OpenShift.
 
 * Build on top of the kitchensink-angularjs example, by moving your clone of the OpenShift git repository at kitchensink-angularjs/kitchensinkangularjs to some other location on your disk, where you want to develop your coursework submission.
-* Now you need to be able to push your code to your git repository on GitHub. To do this, you will need the url of the repository created by Matt on your earlier request. 
+* Now you need to be able to push your code to your git repository on GitHub. To do this, you will need the url of the repository created by Matt on your earlier request.
 
     git remote add github https://github.com/NewcastleComputingScience/csc8104-<YOUR ID>.git
     git push github master -f
-    
+
 WARNING: The -f flag for git push should not be used after this initial setup. Doing so may result in the loss of commits in the remote repository.
-    
+
 * When you work with Git there are often files you wish for Git to ignore and exclude from your repository. These may include confidential data or files generated by your IDE. This is achieved using a .gitignore file which specifies the files and/or directories you wish to exclude. We suggest you use the .gitignore file provided in this csc8104-assignment repository. Copy this file into your repository and commit the file using the following commands.
 
    git add .gitignore
    git commit -m 'Adding .gitignore file.'
-    
+
 TIP: If you are new to Git, you should read Pro Git.  Chapters 1-3 should cover all the functionality required for this coursework.  Available at: http://git-scm.com/book
-    
+
 == Viewing your datasource
 During development of your application you may find it very useful to be able to inspect the contents of your database. To do this you will use h2console, which is provided as part of the quickstarts.
 
@@ -198,4 +202,3 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |=====
 
 IMPORTANT: If your name does not appear in the allocation list please contact Matt Forshaw at m.j.forshaw@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
-
