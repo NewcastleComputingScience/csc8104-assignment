@@ -1,30 +1,35 @@
-= CSC8104: Enterprise Middleware Coursework, November 2013
+= CSC8104: Enterprise Middleware Coursework, November 2014
 
 == Outline
-This coursework is designed to give you experience building Java EE 6 applications and deploying them to the Cloud. You will build a real-world application using real enterprise technologies. You will also be building the entire application from the web front-end, through to the data-storage. As a result you will need to become familiar with a wide range of technologies. It is important that you start the work early and ask for help when needed. By completing this coursework, you will gain some useful experience and skills.
+This coursework is designed to give you experience building Java EE 6 applications and deploying them to the Cloud. You will build a real-world application using real enterprise technologies. This coursework provides you with an opportunity to work on an entire application, from the data-storage through to the web frontend. As a result you will need to become familiar with a wide range of technologies. It is important that you start the work early and ask for help when needed. By completing this coursework, you will gain some useful experience and skills.
 
-In Part One you will build a service with a web front end, hosted on a Platform as a Service Cloud. In Part Two you will create a more complex service by orchestrating your colleagues' services into a bigger application.
+In Part One you will build a simple service, hosted on a Platform as a Service Cloud. The service should be accessible through a RESTful Json api and accompanied by a selection of unit tests to demonstrate that it satisfies the provided requirements.
+
+In Part Two you will create a more complex service, building upon the simple services built by yourself and your colleagues' services in Part One. This service should also be accompanied by unit tests and Json endpoints.
+
+Parts Three and Four, if you have time to attempt them, involve modifying the frontend component of the base application to work with your new services. 
 
 You must complete the provided Tutorial before attempting this coursework. There are a number of pre-requisite steps in the tutorial that must be done for the coursework to work.
 
 == Technologies
 This coursework covers a large number of technologies. The challenge here is to learn the right bits of each technology in order to complete the coursework.
 
-* *Angular.js*. This is the technology you will use for the web-interface to your application.
-* *Java EE 6*. Java Enterprise Edition is the technology you will use to develop the server-side part of your application.
-* *JPA*. Java Persistence API provides a Java API onto your application's data.
+* *Java EE 6*. Java Enterprise Edition is the technology you will use to develop your application.
+* *JPA*. The Java Persistence API provides a Java API onto your application's data.
 * *Bean Validation*. This technology allows you to specify constraints on your data and assists with validation.
 * *Arquillian*. With this tool you will be able to write tests that run inside the application server.
 * *Maven*. Your application will be built and deployed with this tool.
 * *Openshift*. This is the Platform as a Service (PaaS) that you will use to deploy your application to the Cloud.
 * *JAX-RS*. This technology provides the Java EE API for developing REST services. You will use this technology to communicate between your web interface (running in the web browser) and your service (running in the Cloud). 
 * *Git*. This is a distributed version control system and will be used to backup your code and for deploying it to OpenShift.
+* *Angular.js*. This is a Javascript technology used to construct the web-interfaces to your application.
+* *Json*. This is the data serialization and interchange format used by Javascript and commonly returned by HTTP APIs.
+ 
+=== Project Specification
 
-== Project Specification
+IMPORTANT: You must write all the elements of the coursework yourself. You must NOT use tools/wizards (such as Eclipse) to write them for you! However, you are encouraged to use Eclipse as your IDE.
 
-IMPORTANT: You must write all the elements of the coursework yourself. You must NOT use tools/wizards (such as Eclipse) to write them for you! However, you are encouraged to use Eclipse as your IDE. 
-
-For this project you must use a Maven build for your application. You must also produce Arquillian tests for testing your application; these tests must also run from Maven. At the end of the project you will submit to NESS, a zip file containing the source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project. 
+For this project you **must** use a Maven build for your application. You must also produce Arquillian tests for testing your application; these tests must also run from Maven. At the end of the project you will submit to NESS, a zip file containing the source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project. 
 
 TIP: You will be awarded a considerable number of marks for your distribution and use of version control.
 
@@ -37,9 +42,11 @@ You should build on the kitchensink-angularjs example from the tutorial. You do 
 
 The easiest way to work, is to deploy your application to a local version of JBoss during development. Push your code to OpenShift periodically, when you have a new set of features working. This is especially important for part 2, as you will cause your colleagues problems if your service becomes unavailable.
 
+During Parts One & Two of the coursework you are not expected to have a functional frontend. You should instead test your API through Arquillian tests and one of the other methods presented to you during the tutorial (The command line and CURL, or Chrome and Postman).
+
 == Part 1 
 
-Produce a web site offering either Taxi, Hotel or Flight bookings. You have been alocated a specific service type (see the end of the tutorial document). Your website *must* be developed using HTML5 and Angular.js technologies. You should now be familiar with these technologies after completing the provided tutorial.
+Produce an API offering either Taxi, Hotel or Flight bookings. You have been alocated a specific service type (see the end of the tutorial document). Your website *must* be developed using HTML5 and Angular.js technologies. You should now be familiar with these technologies after completing the provided tutorial.
 
 IMPORTANT: You have been allocated a service to implement. See the allocation list in the tutorial document for details. You MUST implement the service that you have been allocated. 
 
