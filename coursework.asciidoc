@@ -3,48 +3,63 @@
 == Outline
 This coursework is designed to give you experience building Java EE 6 applications and deploying them to the Cloud. You will build a real-world application using real enterprise technologies. This coursework provides you with an opportunity to work on an entire application, from the data-storage through to the web frontend. As a result you will need to become familiar with a wide range of technologies. It is important that you start the work early and ask for help when needed. By completing this coursework, you will gain some useful experience and skills.
 
-In Part One you will build a simple service, hosted on a Platform as a Service Cloud. The service should be accessible through a RESTful Json api and accompanied by a selection of unit tests to demonstrate that it satisfies the provided requirements.
+In Part One you will build a simple service, hosted on a Platform as a Service Cloud. The service should be accessible through a RESTful Json api and accompanied by a selection of tests to demonstrate that it satisfies the provided requirements.
 
-In Part Two you will create a more complex service, building upon the simple services built by yourself and your colleagues' services in Part One. This service should also be accompanied by unit tests and Json endpoints.
+In Part Two you will create a more complex service, building upon the simple services built by yourself and your colleagues' services in Part One. This service should also be accompanied by tests and Json endpoints.
 
-Parts Three and Four, if you have time to attempt them, involve modifying the frontend component of the base application to work with your new services. 
+Parts Three and Four involve modifying the frontend component of the base application to work with your new services. 
 
-You must complete the provided Tutorial before attempting this coursework. There are a number of pre-requisite steps in the tutorial that must be done for the coursework to work.
+You must complete the provided Tutorial before attempting this coursework. There are a number of pre-requisite steps in the tutorial that must be done for the coursework to function.
 
 == Technologies
 This coursework covers a large number of technologies. The challenge here is to learn the right bits of each technology in order to complete the coursework.
 
 * *Java EE 6*. Java Enterprise Edition is the technology you will use to develop your application.
 * *JPA*. The Java Persistence API provides a Java API onto your application's data.
+* *JSON*. This is the data serialization and interchange format used by Javascript and commonly returned by HTTP APIs.
 * *Bean Validation*. This technology allows you to specify constraints on your data and assists with validation.
 * *Arquillian*. With this tool you will be able to write tests that run inside the application server.
 * *Maven*. Your application will be built and deployed with this tool.
 * *Openshift*. This is the Platform as a Service (PaaS) that you will use to deploy your application to the Cloud.
 * *JAX-RS*. This technology provides the Java EE API for developing REST services. You will use this technology to communicate between distributed components of your application (web-interfaces & other services). 
 * *Git*. This is a distributed version control system and will be used to backup your code and for deploying it to OpenShift.
-* *Angular.js*. This is a Javascript technology used to construct the web-interfaces to your application.
-* *JSON*. This is the data serialization and interchange format used by Javascript and commonly returned by HTTP APIs.
+* *Angular.js*. This is a Javascript technology used to construct the web-interfaces to your application. _Understanding this is only required for parts 3 & 4._
  
-== Project Specification
+== Project Requirements
 
 IMPORTANT: You must write all the elements of the coursework yourself. You must NOT use tools/wizards (such as Eclipse) to write them for you! However, you are encouraged to use Eclipse as your IDE.
 
-For this project you **must** use a Maven build for your application. You must also produce Arquillian tests for testing your application; these tests must also run from Maven. At the end of the project you will submit to NESS, a zip file containing the source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project. 
+*Building your work* 
+==========================
+For this project you *must* use a link:http://maven.apache.org/[Maven] build for your application. You may use the Maven build file (pom.xml) provided as part of the tutorial.
+==========================
 
-TIP: You will be awarded a considerable number of marks for your distribution and use of version control.
+*Storing your work*
+==========================
+You should save your work using the link:http://git-scm.com/[Git] version control system, regularly commiting changes and pushing to the provided link:http://github.com/[Github] repositoy.  
 
 You should push commits of your coursework regularly to your GitHub repo. It is a good idea to do so every time you get a small piece of functionality working. This ensures that you can move back to a working state if you get in a mess. It also ensures that you have a backup and that the demonstrators can view your code and track progress.
 
-IMPORTANT: You will receive marks for your use of GitHub. We expect to see a steady flow of sensible commits over the coursework period.
+TIP: You will be awarded a considerable number of marks for your distribution and use of version control. We expect to see a steady flow of sensible commits to Github over the coursework period.
+==========================
 
+*Testing your work*
+==========================
+You *must* produce link:http://arquillian.org/[Arquillian] tests for testing your application. These tests will be executed as part of your Maven build.
+==========================
+ 
 == General Process
-You should build on the kitchensink-angularjs example from the tutorial. You do not have time to create this application from scratch. Don't worry about renaming the packages or the OpenShift application name, doing so is likely to get you into a mess.
+You should build on the _kitchensink-angularjs_ example from the tutorial. You do not have time to create a new application from scratch. Don't worry about renaming the packages or the OpenShift application name, doing so is likely to get you into a mess.
 
-The easiest way to work, is to deploy your application to a local version of JBoss during development. Push your code to OpenShift periodically, when you have a new set of features working. This is especially important for part 2, as you will cause your colleagues problems if your service becomes unavailable.
+The easiest way to work, is to deploy your application to a local version of JBoss EAP during development. Push your code to OpenShift periodically, when you have a new set of features working and all your tests pass. This is especially important for part 2, as you will cause your colleagues problems if your service becomes unavailable.
 
-During Parts One & Two of the coursework you are not expected to have a functional frontend. You should instead test your API through Arquillian tests and one of the other methods presented to you during the tutorial (The command line and CURL, or Chrome and Postman).
+== Notes
 
-== Part 1 
+During parts 1 & 2 of the coursework you must not work on any frontend. You should instead test your API through Arquillian tests and one of the other methods presented to you during the tutorial (The command line and CURL, or Chrome and Postman).
+
+Before undertaking parts 3 & 4 of the coursework you will need to familiarise yourself with the link:https://angularjs.org/[Angular.js] framework. We suggest going through the link:https://code.angularjs.org/1.2.8/docs/tutorial[official tutorial] to achieve this.
+
+== Part 1 - Weight (40 %)
 
 Produce an API offering either Taxi, Hotel or Flight bookings. You have been alocated a specific service type (see the end of the tutorial document). Your API *must* conform to link:http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api[RESTful design principles] and should return link:http://json.org/example[JSON]. Finally you must construct Arquillian tests to demonstrate that your service satisfies those link:#[user stories] relevant to your allocated service.
 
@@ -57,34 +72,36 @@ image:images/architecture-p1.png["Part 1 architechture diagram",align="center"]
 Through this architecture you can support multiple different forms of client to the service. Here your automated tests act as the primary example, but you could quite easily also develop a mobile application or website using the same REST services.
 
 * *Unit Tests*. These are implemented using the Arquillian testing framework and send requests to your REST services, validating the responses against some expected response.
-* *REST Services*. These are implemented using JAX-RS and provide a service interface to your application. These services are responsible for managing bookings, users and taxis/hotels/flights. 
+* *REST Services*. These are implemented using link:http://docs.jboss.org/resteasy/docs/2.3.7.Final/userguide/html/index.html[RESTEasy] (a JBoss implementation of the JAX-RS JSR) and provide a service interface to your application. These services are responsible for managing bookings, users and taxis/hotels/flights. 
 * *Persistence layer*. This layer provides a Java interface for accessing the data in the database, using the Java Persistence API (JPA).
 * *Database*. This is where your data is stored. Your application won't access this directly as it will use JPA to interface with the data. 
 
+=== RESTful Resources
+You will need to produce three RESTful resources:
 
-=== API
-Your API should provide endpoints to:
+1. Customer. (A user)
+2. Taxi/Hotel/Flight. (A commodity)
+3. Booking. (A relationship between a user and a commodity, with additional attributes)
 
-1. Create & List customers
-2. Create & List items (taxis, rooms or flights)
-3. Create, Cancel & list bookings
+Your API should provide endpoints to perform the following actions on the your resources:
 
-IMPORTANT: You will be marked purely on how well your site works. No marks will be given for how the site looks or for any additional functionality than that stated above. For example, you are not required to offer user login features. 
+* Create & List Customers.
+* Create & List Taxis, Rooms or Flights.
+* Create, List & Cancel Bookings.
 
+You must document your endpoints, including:
 
-=== REST Services
-You will need three REST services:
+* Their URL structure.
+* Their expected request format.
+* Their expected response format.
 
-1. Customer. Lists and creates customers.
-2. Taxi/Hotel/Flight. Lists and creates items.
-3. Booking. Creates and cancels bookings.
+This is essential for any third-party who wishes to use your service. In particular, you will need to make this available to any colleagues using your service in Part 2. An example of good REST documentation can be found link:#[here].
 
-You must document your REST service. This is essential for any third-party who wishes to use your service. In particular, you will need to make this available to any colleagues using your service in Part 2. 
-
-IMPORTANT: Instructions on how to document your REST service will apear here soon.
+TIP: If you are unfamiliar with the specifics of RESTful APIs there are some good resources available link:http://docs.oracle.com/javaee/6/tutorial/doc/giepu.html[here] & link:http://www.restapitutorial.com/[here].
 
 === Persistence Layer
-You will probably need three Entities.
+
+You will probably need an Entity for each of your resources.
 
 1. Customer. A bean to hold the data you wish to collect about each customer.
 2. Taxi/Flight/Hotel. A bean to hold the data you wish to collect about each item you have available for booking.
@@ -92,14 +109,14 @@ You will probably need three Entities.
 
 TIP: Keep these entities simple. Just provide the minimum information required to fullfil the requirements. 
 
-TIP: When you are testing your application you may find it useful to pre-populate your database with a number of example entities and bookings. One way to achieve this is to add SQL insert statements into src/main/resources/import.sql.
+TIP: When you are testing your application from the commandline you may find it useful to pre-populate your database with a number of example entities. One way to achieve this is to add SQL insert statements into src/main/resources/import.sql.
 
 TIP: When you are testing your application you will find it useful to view the queries run against your database. You can enable logging of this information by setting the "hibernate.show_sql" property to true in src/main/resources/META-INF/persistence.xml.
 
 === Report Hints
 * Describe the composition of your service, including each of the JAX-RS services and how they interact. You might like to draw a diagram like the one above to help explain your architecture.
 
-== Part 2
+== Part 2 - Weight (30 %)
 You will now need to integrate three services into a simple travel agent application; which you will update your web site to support. You will use your own service and two other services provided by your colleagues.
 The services you need to integrate are: 
 
@@ -133,7 +150,8 @@ Prior to submission you will provide a 10-15 minute demonstration to one of the 
 A sign-up sheet for demonstration slots will be made available in the Computer clusters during the first week of practical sessions.
 
 === Coursework submission
-You must submit all code via the coursework submission system (NESS). As stated above, we must be able to build and test your submission using your Maven build. 
+You must submit all work via the coursework submission system (NESS).
+This should constitute a zip file containing the project source code and Maven build scripts. We will use this zip file to test your submission, so it should contain everything necessary to build and test your project.
 
 You should also submit a short report via NESS (roughly three pages) summarising the work carried out on this project, and an evaluation of how much you achieved. We are particularly interested in any assumptions you made, and how they motivated particular design decisions. You should also provide a brief discussion of your personal experience of the development process; e.g. which aspects of the project did find particularly easy/hard?
 
