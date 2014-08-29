@@ -61,11 +61,6 @@ Now you will run a simple example. This example provides you with a starting poi
 3. Download the zip distribution of JBoss EAP 6.2.0.GA. _Note:_ You need to make sure you use this version of JBoss EAP as this matches the version you will be using on OpenShift. You will be required to register for the https://community.jboss.org/[JBoss community] website as part of the download process.
 4. Unzip JBoss EAP to somewhere on your computer.
 
-=== Configure Maven
-For this quickstart, you need to specify some additional maven repositories for downloading the required dependencies. To do this:
-
-1. Follow https://github.com/jboss-developer/jboss-wfk-quickstarts/#configure-maven-to-build-and-deploy-the-quickstarts[these] instructions on how to "Configure Maven to Build and Deploy the Quickstarts". IMPORTANT: In step 4 you must use the settings.xml from https://raw.githubusercontent.com/NewcastleComputingScience/csc8104-assignment/master/settings.xml[here].
-
 === Obtain the kitchensink-angularjs Quickstart
 
 1. Visit the KitchenSink-AngularJS quickstart page http://www.jboss.org//quickstarts/wfk/kitchensink-angularjs/index.html[here].
@@ -75,36 +70,10 @@ For this quickstart, you need to specify some additional maven repositories for 
 4. Open a terminal and go to the `kitchensink-angularjs` directory in the quickstart bundle you just unzipped.
 
 
-=== Run the Tests
-Follow the testing instructions on the KitchenSink-AngularJS quickstart page. Specifically, the section titled "Run the Arquillian Tests". These tests allow you to check that your service is working, without having to manually drive it via the web interface. You will build on these tests when writing your service in the coursework.
+=== Run the Quickstart
+1. Step through the instructions on the KitchenSink-AngularJS quickstart page, upto and including section "Run the Arquillian Functional Tests". Make sure you follow the "Configure Maven" section correctly as these instructions are important.
+2. Now follow the section "Build and Deploy the Quickstart to OpenShift" including all the sub-sections that take you to the end of the page.
 
-=== Run kitchensink-angularjs on Openshift
-Now follow the "Build and Deploy the Quickstart - to OpenShift" section. *Note:* To deploy to OpenShift you need to add a number of maven repositories to your pom.xml file. At the end of the "Migrate the Quickstart Source" section, you should edit your pom.xml to include the following in the "openshift" profile at the bottom of the pom.xml document. An example excerpt showing these repositories added can be seen https://github.com/NewcastleComputingScience/csc8104-assignment/blob/master/updatedexcerpt_pom.xml[here]
-
-   <repositories>
-      <repository>
-         <id>jboss-temp-repository</id>
-         <url>http://jboss-developer.github.io/temp-maven-repo/</url>
-            <releases>
-               <enabled>true</enabled>
-            </releases>
-            <snapshots>
-               <enabled>false</enabled>
-            </snapshots>
-        </repository>
-    </repositories>
-    <pluginRepositories>
-        <pluginRepository>
-            <id>jboss-temp-plugin-repository</id>
-            <url>http://jboss-developer.github.io/temp-maven-repo/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-        </pluginRepository>
-    </pluginRepositories>
 
 == Eclipse Setup
 If you want to use Eclipse to edit the kitchensink-angularjs example (and your coursework), you must follow these steps:
