@@ -20,12 +20,12 @@ This coursework covers a large number of technologies. The challenge here is to 
 * *Arquillian*. With this tool you will be able to write tests that run inside the application server.
 * *Maven*. Your application will be built and deployed with this tool.
 * *Openshift*. This is the Platform as a Service (PaaS) that you will use to deploy your application to the Cloud.
-* *JAX-RS*. This technology provides the Java EE API for developing REST services. You will use this technology to communicate between your web interface (running in the web browser) and your service (running in the Cloud). 
+* *JAX-RS*. This technology provides the Java EE API for developing REST services. You will use this technology to communicate between distributed components of your application (web-interfaces & other services). 
 * *Git*. This is a distributed version control system and will be used to backup your code and for deploying it to OpenShift.
 * *Angular.js*. This is a Javascript technology used to construct the web-interfaces to your application.
-* *Json*. This is the data serialization and interchange format used by Javascript and commonly returned by HTTP APIs.
+* *JSON*. This is the data serialization and interchange format used by Javascript and commonly returned by HTTP APIs.
  
-=== Project Specification
+== Project Specification
 
 IMPORTANT: You must write all the elements of the coursework yourself. You must NOT use tools/wizards (such as Eclipse) to write them for you! However, you are encouraged to use Eclipse as your IDE.
 
@@ -46,24 +46,24 @@ During Parts One & Two of the coursework you are not expected to have a function
 
 == Part 1 
 
-Produce an API offering either Taxi, Hotel or Flight bookings. You have been alocated a specific service type (see the end of the tutorial document). Your website *must* be developed using HTML5 and Angular.js technologies. You should now be familiar with these technologies after completing the provided tutorial.
+Produce an API offering either Taxi, Hotel or Flight bookings. You have been alocated a specific service type (see the end of the tutorial document). Your API *must* conform to link:http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api[RESTful design principles] and should return link:http://json.org/example[JSON]. Finally you must construct Arquillian tests to demonstrate that your service satisfies those link:#[user stories] relevant to your allocated service.
 
-IMPORTANT: You have been allocated a service to implement. See the allocation list in the tutorial document for details. You MUST implement the service that you have been allocated. 
+IMPORTANT: You have been allocated a service to implement. See the allocation list in the tutorial document for details. You MUST implement the service that you have been allocated.
 
 The following diagram shows the architecture you will need to implement for your application:
 
 image:images/architecture-p1.png["Part 1 architechture diagram",align="center"]
 
-Through this architecture you can easily support multiple clients to the service. Here you have a Web Browser as a client, but you could quite easily also develop a mobile application using the same REST services. It's also possible to write other applications, in your chosen language, that can invoke this and other services.
+Through this architecture you can support multiple different forms of client to the service. Here your automated tests act as the primary example, but you could quite easily also develop a mobile application or website using the same REST services.
 
-* *Web-site*. This is implemented with HTML5 and Angular.js. The code here is responsible for providing the user-interface and runs entirely in the user's web browser. It communicates with your server in the Cloud (or locally during development) when invoking operations, such as making a booking or listing users. This is done using...
+* *Unit Tests*. These are implemented using the Arquillian testing framework and send requests to your REST services, validating the responses against some expected response.
 * *REST Services*. These are implemented using JAX-RS and provide a service interface to your application. These services are responsible for managing bookings, users and taxis/hotels/flights. 
 * *Persistence layer*. This layer provides a Java interface for accessing the data in the database, using the Java Persistence API (JPA).
 * *Database*. This is where your data is stored. Your application won't access this directly as it will use JPA to interface with the data. 
 
 
-=== Web-site
-Your web-site should provide an interface to:
+=== API
+Your API should provide endpoints to:
 
 1. Create & List customers
 2. Create & List items (taxis, rooms or flights)
