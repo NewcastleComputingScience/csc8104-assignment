@@ -117,15 +117,15 @@ TIP: When you are testing your application you will find it useful to view the q
 * Describe the composition of your service, including each of the JAX-RS services and how they interact. You might like to draw a diagram like the one above to help explain your architecture.
 
 == Part 2 - Weight (30 %)
-You will now need to integrate three services into a simple travel agent application; which you will update your web site to support. You will use your own service and two other services provided by your colleagues.
-The services you need to integrate are: 
+You will now need to integrate three REST resources to produce a fourth, aggregate, resource: a TravelAgent resoure. You will use your own resources and along with two more made available through the APIs of your colleagues.
+The resources you need to integrate are: 
 
-* 1 x Hotel service 
-* 1 x Taxi service
-* 1 x Flight service 
+* 1 x Hotel resource
+* 1 x Taxi resource
+* 1 x Flight resource 
 
 You must ensure that either every part of a booking is made, or no parts of the booking are made. Remember, each part of the booking can be cancelled using the provided cancel operation. For example, the user would not want to book a flight, if they didn't have somewhere to stay at the destination.
-You should provide a mechanism that allows a booking to fail. For example, you could fail a booking if the date is too far in the future. This will allow you to easily control which booking fails and which succeeds. You should then be able to set up a scenario where the first two bookings succeed and the remaining booking fails. Your web application should detect this failure and cancel the previous bookings that succeeded.
+You should provide a mechanism that allows a booking to fail. For example, you could fail a booking if the date is too far in the future. This will allow you to easily control which booking fails and which succeeds. You should then be able to set up a scenario where the first two bookings succeed and the remaining booking fails. Your TravelAgent resource should detect this failure and cancel the previous bookings that succeeded.
 
 IMPORTANT: It is very important that the user does not end up with a partial booking. Otherwise they may end up paying for a flight, without having a hotel to stay in.
 
@@ -137,10 +137,58 @@ TIP: You may find that you are ready to use your colleagues’ services before t
 
 TIP: You may also find it hard to utilize the exact service types specified above, due to the progress of your colleagues. In this case you may duplicate the service types; for example, two Taxi services and one Flight service. However, you must make sure that the two services you select are offered by two different colleagues!
 
+=== RESTful Resource
+
+Your TravelAgent resource should provide endpoints to perform the following actions:
+
+* Create, List & Cancel aggregate Bookings.
+
+As with Part 1, you should document your API endpoints. You should take care to detail your chosen mechanism of failure, so that error handling may be tested.
+
 === Report Hints
 * What problems did you have utilising your colleagues’ services? How would these problems be exacerbated had the producers of these services not been in the same room?
 * What problems did you have offering your service to your colleagues?
 
+== Part 3 - Weight(20%)
+
+You should return to the frontend component of your application, written in Javascript using the link:https://angularjs.org/[Angular.js] framework. This code should be the same as that found in the original _kitchensink-angularjs_ application, unedited throughout the project so far.
+
+You must modify this frontend application to correctly interact with, and act as a client for, the API you produced in Part 1. Your application should be what is known as a **S**ingle **P**age **A**pplication: communicating asynchronously with APIs via link:http://en.wikipedia.org/wiki/Ajax_(programming)[AJAX], rather than requiring a page refresh.
+
+image:images/architecture-p3.png["Part 3 architecture diagram",align="center"]
+
+The diagram above gives a high level overview of application architecture from a _clientside centric_ perspective.
+
+* *Views*. These consitute the user interface markup, written in HTML.
+* *Controllers*. These define the actions and interactions of a View, written in Javascript. 
+* *ngResource*. The Angular link:https://docs.angularjs.org/api/ngResource/service/$resource[module] you must use for communication with your RESTful server side resources.
+
+=== Pages & Actions
+Your frontend application should provide the ability to perform the following actions:
+
+* Record a new Customer, with a: *Name*, an *Email* and a *Phone number*.
+* View a list of all currently stored Customer records.
+* Record a new Commodity (Taxi, Flight or Hotel) along with the appropriate identifying information (eg. *Registration* and *number of seats* for a Taxi).
+* View a list of all currently stored Commodity records.
+* Record a new Booking, with a: *Customer id* and a *Commodity id*.
+* View and manage a list of all currently stored Booking records associated with a particular customer.
+
+Your application should also generally provide appropriate visual indication of the success or failure of actions taken.
+
+IMPORTANT: You do *not* need to worry about providing automated tests of your frontend application.
+
+== Page 4 - Weight(10%)
+
+For the final part of this coursework you must further modify the frontend component of your application to interact with your TravelAgent resource and those resources of your Colleagues' upon which it depends.
+
+=== Pages & Actions 
+Your frontend application, in its final form, should provide the ability to perform the following additional actions:
+
+* View a list of all currently stored records for all three basic commodities.
+* Record a new TravelAgent Booking, with a: *Customer id* and all appropriate **Commodity id**s.
+* View and manage a list of all currently stored TravelAgent Booking records associated with a particular customer.
+
+IMPORTANT: You are being assessed *only* upon the functionality of your front end application. *No* marks will be awarded for non-functional visual changes.
 
 == Submission Guidelines
 
