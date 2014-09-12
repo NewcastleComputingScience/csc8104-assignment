@@ -107,7 +107,7 @@ You will probably need an Entity for each of your resources.
 2. Taxi/Flight/Hotel. A bean to hold the data you wish to collect about each item you have available for booking.
 3. Booking. A bean representing the booking and linking to the customer who made the booking and to the item being booked.
 
-TIP: Keep these entities simple. Just provide the minimum information required to fullfil the requirements. 
+TIP: Keep these entities simple. Just provide the minimum information required to fullfil the requirements. Use @Annotations, like those found in the base _kitchensink-angularjs_, to specify validation constraints on your information (like the minimum length of a name). 
 
 TIP: When you are testing your application from the commandline you may find it useful to pre-populate your database with a number of example entities. One way to achieve this is to add SQL insert statements into src/main/resources/import.sql.
 
@@ -125,7 +125,9 @@ The resources you need to integrate are:
 * 1 x Flight resource 
 
 You must ensure that either every part of a booking is made, or no parts of the booking are made. Remember, each part of the booking can be cancelled using the provided cancel operation. For example, the user would not want to book a flight, if they didn't have somewhere to stay at the destination.
-You should provide a mechanism that allows a booking to fail. For example, you could fail a booking if the date is too far in the future. This will allow you to easily control which booking fails and which succeeds. You should then be able to set up a scenario where the first two bookings succeed and the remaining booking fails. Your TravelAgent resource should detect this failure and cancel the previous bookings that succeeded.
+This will allow you to easily control which booking fails and which succeeds. You should set up a scenario where the first two bookings succeed and the remaining booking fails. Your TravelAgent resource should detect this failure and cancel the previous bookings that succeeded.
+
+If there is 
 
 IMPORTANT: It is very important that the user does not end up with a partial booking. Otherwise they may end up paying for a flight, without having a hotel to stay in.
 
@@ -136,6 +138,8 @@ The diagram above shows the type of interaction that you should have achieved by
 TIP: You may find that you are ready to use your colleagues’ services before they are ready to make them available. If this happens then you can temporarily use your own service three times and then switch to your colleagues’ services when they become available.
 
 TIP: You may also find it hard to utilize the exact service types specified above, due to the progress of your colleagues. In this case you may duplicate the service types; for example, two Taxi services and one Flight service. However, you must make sure that the two services you select are offered by two different colleagues!
+
+TIP: You should create a Customer record in each of your colleague's applications to represent your travel agent.
 
 === RESTful Resource
 

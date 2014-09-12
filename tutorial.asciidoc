@@ -40,18 +40,6 @@ IMPORTANT: If you encounter an "Access is denied" warning when running the RubyI
 
 IMPORTANT: If you encounter a "Permission denied" warning when installing the rhc gem, you should run the Command Prompt as an administrator (right click the shortcut and select "Run As Administrator") and retry. You will be prompted for your admin password for your machine, and the rhc gem should then install successfully.
 
-== Angular.js Tutorial
-
-Now you should run through the Angular.js tutorial. It can be found here: http://docs.angularjs.org/tutorial. After running through this, you should understand the technology well enough to understand how the example (see next section) works.
-
-* *Web Server*. When executing the tutorial examples, you should use the node.js webserver that is provided with the tutorial code.
-
-* *Testing*. From http://docs.angularjs.org/tutorial/step_02[Step 2] onwards, the tutorial includes a heavy focus on testing. Whilst a useful feature of the framework, testing your AngularJS code will not be a focus of this course and you may ignore these sections of each step.
-
-TIP: If you are having problems with your JavaScript, you can use Chrome's JavaScript console to see what's happening. To show it go to: View -> Developer -> JavaScript Console.
-
-TIP: For further information on JavaScript development you may find the following guide useful; https://developer.mozilla.org/en-US/docs/Web/JavaScript.
-
 == Run Example
 Now you will run a simple example. This example provides you with a starting point that you will build on when you come to doing the coursework. Therefore, it is very important that you get this working and become familiar with the code.
 
@@ -144,6 +132,27 @@ To log into the datasource for your application, use the following details.
 
 TIP: Your persistence.xml is the configuration file used to specify the connection details to your database. Your persistence.xml file can be found in src/main/resources/META-INF.
 
+== Testing your API
+
+Besides the Arquillian tests run through maven, you will occasionally want to test your API in a more manual fashion, in order to clearly see what information is being sent and received.
+
+One common method for sending network requests from the command line is a tool called link:http://curl.haxx.se/[cURL].
+
+cURL should already be installed on your machines, if it is not, please contact Hugo Firth (h.firth@ncl.ac.uk) as soon as possible.
+
+To give you an example of how you might use cURL to see what your API is doing, once the QuickStart is running (either locally or on OpenShift) you could execute the following commands (in cmd.exe):
+
+* to see a list of all members returned, formatted as JSON and accompanied by all HTTP headers.
+
+    curl -v http://localhost:8080/members/
+
+* to create a new member.
+
+    curl -v -X POST http://localhost:8080/members/ -d '{"name":"Joe Bloggs", "phonenumber":"01234567891"}'
+
+The *-v* switch instructs curl to display all possible information, whilst the *-X* switch allows you to specify the HTTP method to be used and *-d* the data to be sent.
+
+TIP: If you would like to learn more about how to use cURL, you can refer to the link:http://curl.haxx.se/docs/manpage.html[official documentation] or link:http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340[this] useful tutorial.
 
 == Course Demonstrator Profiles
 
@@ -171,34 +180,6 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 [options="header"]
 |=====
 | Student name | Student number | Service
-|	Anirudh Agarwal	|	130626361	|	Taxi
-|	Kyriaki Argyrou	|	93733306	|	Hotel
-|	Simon Bain	|	130607267	|	Flight
-|	Richard J.D. Bone	|	130587305	|	Taxi
-|	James R. Brealey	|	130489331	|	Hotel
-|	Anders L. Breilid	|	130607717	|	Flight
-|	Ibrahim El-sanosi	|	69156546	|	Taxi
-|	Ibragim Gapuraev	|	130544179	|	Hotel
-|	Jiapeng Guo	|	130011947	|	Flight
-|	Yifei Jia	|	130128968	|	Taxi
-|	Wenqi Jin	|	130008637	|	Hotel
-|	David Jones	|	101642075	|	Flight
-|	Omar R. Khurshid	|	130526256	|	Taxi
-|	Jaydip P. Kulkarni	|	130446840	|	Hotel
-|	Jie Lan	|	130192291	|	Flight
-|	Fanchen Li	|	130534516	|	Taxi
-|	Mingyang Li	|	130043041	|	Hotel
-|	Zequn Li	|	130254496	|	Flight
-|	Yang Lu	|	120190658	|	Taxi
-|	Eyad A.M. Marei	|	130618377	|	Hotel
-|	Yuan Miao	|	120359749	|	Flight
-|	Saleh Mohamed	|	103543457	|	Taxi
-|	Thai H. Nguyen	|	120315848	|	Hotel
-|	Niu Niu	|	130185592	|	Flight
-|	Ashish Patil	|	130536325	|	Taxi
-|	Sean J.M. Simpson	|	104792416	|	Hotel
-|	Xin Wen	|	130120939	|	Flight
-|   Marvin Wereko | 101013758 | Taxi
 |=====
 
-IMPORTANT: If your name does not appear in the allocation list please contact Matt Forshaw at m.j.forshaw@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
+IMPORTANT: If your name does not appear in the allocation list please contact Hugo Firth at h.firth@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.

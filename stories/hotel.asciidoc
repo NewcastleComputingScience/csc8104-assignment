@@ -1,0 +1,25 @@
+== Hotel User Stories
+
+A consumer of your hotel booking api should:
+
+* Be able to create a Customer record with a name, an email and a phonenumber. 
+* Be able to retrieve a collection of all customers (and associated information) with a single request.
+* Be able to create a Hotel record with a name, a phonenumber and a postcode.
+* Be able to retrieve a collection of all hotels (and associated information) with a single request.
+* Be able to create a Booking record, with a Customer id and a Hotel id.
+* Be able to retrieve a collection of all bookings made by a particular Customer, with a single request.
+* Be able to delete a Booking record.
+* *Not* be able to delete Customer or Hotel records (these are unsupported operations).
+* *Not* be able to make create a Customer/Hotel/Booking record with incomplete or invalid information.
+
+=== Validation
+
+The validation requirements for your application's data are up to you, though for simplicities sake we suggest something like the following:
+
+* Customer *name*: a non-empty alphabetical string less than 50 characters in length.
+* Customer *email*: a non-empty string which is a valid email address.
+* Customer *phonenumber* : a non-empty string which starts with a 0, contains only digits and is 11 characters in length.
+* Hotel *name*: a non-empty alphabetical string less than 50 characters in length.
+* Hotel *phonenumber*: a non-empty string which starts with a 0, contains only digits and is 11 characters in length.
+* Hotel *postcode*: a non-empty alpha-numerical string which is 6 characters in length. 
+* Customer/Hotel/Booking *id*: a Long, which should be settable or changable by an api consumer.
