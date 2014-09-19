@@ -32,3 +32,6 @@ local.properties
 
 ## Java-specific ignore files from https://github.com/github/gitignore/blob/master/Java.gitignore
 *.class
+
+##Operating system specific
+.DS_Store

@@ -1,0 +1,24 @@
+== Taxi User Stories
+
+A consumer of your taxi booking api should:
+
+* Be able to create a Customer record with a name, an email and a phonenumber 
+* Be able to retrieve a collection of all customers (and associated information) with a single request.
+* Be able to create a Taxi record with a registration, and a number of seats.
+* Be able to retrieve a collection of all taxis (and associated information) with a single request.
+* Be able to create a Booking record, with a Customer id and a Taxi id.
+* Be able to retrieve a collection of all bookings made by a particular Customer, with a single request.
+* Be able to delete a Booking record.
+* *Not* be able to delete Customer or Taxi records (these are unsupported operations).
+* *Not* be able to make create a Customer/Taxi/Booking record with incomplete or invalid information.
+
+=== Validation
+
+The validation requirements for your application's data are up to you, though for simplicities sake we suggest something like the following:
+
+* Customer *name*: a non-empty alphabetical string less than 50 characters in length.
+* Customer *email*: a non-empty string which is a valid email address.
+* Customer *phonenumber* : a non-empty string which starts with a 0, contains only digits and is 11 characters in length.
+* Taxi *registration*: a non-empty alpha-numerical string which is 7 characters in length.
+* Taxi *number of seats*: a non-zero integer, in the range of 2-20.
+* Customer/Taxi/Booking *id*: a Long, which should be settable or changable by an api consumer.
