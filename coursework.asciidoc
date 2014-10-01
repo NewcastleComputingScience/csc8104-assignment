@@ -49,7 +49,7 @@ You *must* produce link:http://arquillian.org/[Arquillian] tests for testing you
 ==========================
  
 == General Process
-You should build on the _kitchensink-angularjs_ example from the tutorial. You do not have time to create a new application from scratch. Don't worry about renaming the packages or the OpenShift application name, doing so is likely to get you into a mess.
+You should build on the _contacts-angularjs_ example from the tutorial. You do not have time to create a new application from scratch. Don't worry about renaming the packages or the OpenShift application name, doing so is likely to get you into a mess.
 
 The easiest way to work, is to deploy your application to a local version of JBoss EAP during development. Push your code to OpenShift periodically, when you have a new set of features working and all your tests pass. This is especially important for part 2, as you will cause your colleagues problems if your service becomes unavailable.
 
@@ -107,7 +107,7 @@ You will probably need an Entity for each of your resources.
 2. Taxi/Flight/Hotel. A bean to hold the data you wish to collect about each item you have available for booking.
 3. Booking. A bean representing the booking and linking to the customer who made the booking and to the item being booked.
 
-TIP: Keep these entities simple. Just provide the minimum information required to fullfil the requirements. Use @Annotations, like those found in the base _kitchensink-angularjs_, to specify validation constraints on your information (like the minimum length of a name). 
+TIP: Keep these entities simple. Just provide the minimum information required to fullfil the requirements. Use @Annotations, like those found in the base _contacts-angularjs_, to specify validation constraints on your information (like the minimum length of a name). 
 
 TIP: When you are testing your application from the commandline you may find it useful to pre-populate your database with a number of example entities. One way to achieve this is to add SQL insert statements into src/main/resources/import.sql.
 
@@ -155,7 +155,7 @@ As with Part 1, you should document your API endpoints. You should take care to 
 
 == Part 3 - Weight(20%)
 
-You should return to the frontend component of your application, written in Javascript using the link:https://angularjs.org/[Angular.js] framework. This code should be the same as that found in the original _kitchensink-angularjs_ application, unedited throughout the project so far.
+You should return to the frontend component of your application, written in Javascript using the link:https://angularjs.org/[Angular.js] framework. This code should be the same as that found in the original _contacts-angularjs_ application, unedited throughout the project so far.
 
 You must modify this frontend application to correctly interact with, and act as a client for, the API you produced in Part 1. Your application should be what is known as a **S**ingle **P**age **A**pplication: communicating asynchronously with APIs via link:http://en.wikipedia.org/wiki/Ajax_(programming)[AJAX], rather than requiring a page refresh.
 

@@ -22,9 +22,9 @@ If you don't already have an account you will need to:
 
 1. Go to: https://github.com/
 2. Fill in your details and select "Sign up for GitHub."
-3. Forward your Github account registration email to Matt Forshaw at (m.j.forshaw@ncl.ac.uk), including your name and university email address.
+3. Forward your Github account registration email to Hugo Firth at (h.firth@ncl.ac.uk), including your name and university email address.
 
-If you already have an account, email Matt Forshaw at (m.j.forshaw@ncl.ac.uk) with your name, email address and Github username.
+If you already have an account, email Hugo Firth at (h.firth@ncl.ac.uk) with your name, email address and Github username.
 
 Matt will then create your private repository and grant you access. You will then receive an email notification from Github containing details of your new repository. This will be sent to the email address you registered with Github.
 
@@ -43,28 +43,27 @@ IMPORTANT: If you encounter a "Permission denied" warning when installing the rh
 == Run Example
 Now you will run a simple example. This example provides you with a starting point that you will build on when you come to doing the coursework. Therefore, it is very important that you get this working and become familiar with the code.
 
-=== Download JBoss EAP 6.2.0
-1. Go here: http://www.jboss.org/products/eap/download/.
-2. Click "View Older Downloads"
-3. Download the zip distribution of JBoss EAP 6.2.0.GA. _Note:_ You need to make sure you use this version of JBoss EAP as this matches the version you will be using on OpenShift. You will be required to register for the https://community.jboss.org/[JBoss community] website as part of the download process.
-4. Unzip JBoss EAP to somewhere on your computer.
+=== Download JBoss EAP 6.3.0
+1. Go link:http://www.jboss.org/products/eap/download/[here].
+2. Download the zip distribution of JBoss EAP 6.3.0.GA. _Note:_ You need to make sure you use this version of JBoss EAP as this matches the version you will be using on OpenShift. You will be required to register for the https://community.jboss.org/[JBoss community] website as part of the download process.
+3. Unzip JBoss EAP to somewhere on your computer.
 
-=== Obtain the kitchensink-angularjs Quickstart
+=== Obtain the Contacts-Angularjs Quickstart
 
-1. Visit the KitchenSink-AngularJS quickstart page http://www.jboss.org//quickstarts/wfk/kitchensink-angularjs/index.html[here].
+1. Visit the NewcastleComputingScience/jboss-wfk-quickstarts github repo link:http://www.jboss.org//quickstarts/wfk/kitchensink-angularjs/index.html[here].
 
-2. CLick on the `Download` link to obtain all the Quickstarts
-3. Unzip the download to somewher eon your computer.
-4. Open a terminal and go to the `kitchensink-angularjs` directory in the quickstart bundle you just unzipped.
+2. Click on the *Download ZIP* link to obtain all the Quickstarts
+3. Unzip the download to somewhere on your computer.
+4. Open a terminal and go to the `contacts-angularjs` directory in the quickstart bundle you just unzipped.
 
 
 === Run the Quickstart
-1. Step through the instructions on the KitchenSink-AngularJS quickstart page, upto and including section "Run the Arquillian Functional Tests". Make sure you follow the "Configure Maven" section correctly as these instructions are important.
+1. Step through the instructions on the Contacts-AngularJS quickstart page link:https://github.com/NewcastleComputingScience/jboss-wfk-quickstarts/tree/2.7.x-develop/contacts-angularjs[here], upto and including section "Run the Arquillian Functional Tests". Make sure you follow the "Configure Maven" section correctly as these instructions are important.
 2. Now follow the section "Build and Deploy the Quickstart to OpenShift" including all the sub-sections that take you to the end of the page.
 
 
 == Eclipse Setup
-If you want to use Eclipse to edit the kitchensink-angularjs example (and your coursework), you must follow these steps:
+If you want to use Eclipse to edit the contacts-angularjs example (and your coursework), you must follow these steps:
 
 . *Install m2eclipse*. Google "Install m2eclipse <your Eclipse version>". Note: the procedure differs between eclipse versions
 . *Import the maven project into eclipse*.
@@ -74,10 +73,10 @@ If you want to use Eclipse to edit the kitchensink-angularjs example (and your c
   .. Click 'Finish'
 
 == Working with Git
-You will be using Git in the coursework for regular checkpoint and backup of your code to GitHub. You will also use Git to deploy new versions of your application to OpenShift. This section will show you how to create a copy of the 'kitchensik-angularjs' example, ready fo you to extend in the coursework, and also how to push the code to GitHub and OpenShift.
+You will be using Git in the coursework for regular checkpoint and backup of your code to GitHub. You will also use Git to deploy new versions of your application to OpenShift. This section will show you how to create a copy of the 'contacts-angularjs' example, ready fo you to extend in the coursework, and also how to push the code to GitHub and OpenShift.
 
-* Build on top of the kitchensink-angularjs example, by moving your clone of the OpenShift git repository at kitchensink-angularjs/kitchensinkangularjs to some other location on your disk, where you want to develop your coursework submission.
-* Now you need to be able to push your code to your git repository on GitHub. To do this, you will need the url of the repository created by Matt on your earlier request.
+* Build on top of the contacts-angularjs example, by moving your clone of the OpenShift git repository at contacts-angularjs/contactsangularjs to some other location on your disk, where you want to develop your coursework submission.
+* Now you need to be able to push your code to your git repository on GitHub. To do this, you will need the url of the repository created by Hugo on your earlier request.
 
     git remote add github https://github.com/NewcastleComputingScience/csc8104-<YOUR ID>.git
     git push github master -f
@@ -128,15 +127,15 @@ One common method for sending network requests from the command line is a tool c
 
 cURL should already be installed on your machines, if it is not, please contact Hugo Firth (h.firth@ncl.ac.uk) as soon as possible.
 
-To give you an example of how you might use cURL to see what your API is doing, once the QuickStart is running (either locally or on OpenShift) you could execute the following commands (in cmd.exe):
+To give you an example of how you might use cURL to see what your API is doing, once the QuickStart is running (locally) you could execute the following commands (in cmd.exe):
 
-* to see a list of all members returned, formatted as JSON and accompanied by all HTTP headers.
+* to see a list of all contacts returned, formatted as JSON and accompanied by all HTTP headers.
 
-    curl -v http://localhost:8080/members/
+    curl -v http://localhost:8080/rest/contacts/
 
-* to create a new member.
+* to create a new contacts.
 
-    curl -v -X POST http://localhost:8080/members/ -d '{"name":"Joe Bloggs", "phonenumber":"01234567891"}'
+    curl -v -X POST http://localhost:8080/rest/contacts/ -d '{"name":"Joe Bloggs", "phonenumber":"01234567891"}'
 
 The *-v* switch instructs curl to display all possible information, whilst the *-X* switch allows you to specify the HTTP method to be used and *-d* the data to be sent.
 
@@ -146,13 +145,9 @@ TIP: If you would like to learn more about how to use cURL, you can refer to the
 
 *Dr Paul Robinson* is a Senior Software Engineer at Red Hat and a Visiting Research Fellow at the University. Paul develops software for the JBoss application server and in particular for the Transaction Service component. Paul has lead the Enterprise Distributed Computing coursework for 9 years. He also supervises students for their Masters dissertation through industrial placements at Red Hat.
 
-*Matt Forshaw* is a fourth year PhD student at Newcastle University. After completing his BSc and MSc ITEC (with Distinction) at Newcastle University, Matt has demonstrated and assessed on CSC8104 for the past four years. Matt is a member of the Systems research group investigating energy efficient operating policies for large computing environments. He also supervises student research projects and dissertations in the areas of energy-efficiency and green computing.
+*Ryan Emerson* is a final year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.
 
-*Becky Simmonds* is a third year PhD student researching into Twitter analysis using online and offline techniques. She demonstrated on CSC8104 the last two years and completed it herself the year before. Becky demonstrates on other modules and helps supervise a final year dissertation.
-
-*Ryan Emerson* is a third year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.
-
-*Hugo Firth* is a first year PhD student with the Systems research group. Studying at Newcastle University since 2010, Hugo graduated with a BSc in Computer Science (1st Class) earlier this year. Since 2009 Hugo has offered freelance development services, providing API-centric web development to clients ranging from Web hosts to Game developers; he has recently completed a number of projects using AngularJS.
+*Hugo Firth* is a second year PhD student with the Digital Insitute who has studied at Newcastle University since 2010. Hugo has previously worked as a web developer, and is currently conducting research into horizontally scalable databases.
 
 
 == Finally
