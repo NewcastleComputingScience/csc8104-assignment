@@ -74,7 +74,7 @@ If you want to use Eclipse to edit the kitchensink-angularjs example (and your c
   .. Click 'Finish'
 
 == Working with Git
-You will be using Git in the coursework for regular checkpoint and backup of your code to GitHub. You will also use Git to deploy new versions of your application to OpenShift. This section will show you how to create a copy of the 'kitchensik-angularjs' example, ready fo you to extend in the coursework, and also how to push the code to GitHub and OpenShift.
+You will be using Git in the coursework for regular checkpoint and backup of your code to GitHub. You will also use Git to deploy new versions of your application to OpenShift. This section will show you how to create a copy of the 'kitchensik-angularjs' example, ready for you to extend in the coursework, and also how to push the code to GitHub and OpenShift.
 
 * Build on top of the kitchensink-angularjs example, by moving your clone of the OpenShift git repository at kitchensink-angularjs/kitchensinkangularjs to some other location on your disk, where you want to develop your coursework submission.
 * Now you need to be able to push your code to your git repository on GitHub. To do this, you will need the url of the repository created by Hugo on your earlier request.
@@ -96,7 +96,7 @@ During development of your application you may find it very useful to be able to
 
 === Deploying h2console
 
-Obtain the `h2console.war` file from here: https://github.com/jboss-developer/jboss-eap-quickstarts/tree/master/h2-console and copy it into the "deployments" directory of your repository.
+Obtain the `h2console.war` file from here: https://github.com/jboss-developer/jboss-eap-quickstarts/tree/6.3.0.GA/h2-console and copy it into the "deployments" directory of your repository.
 
 Add this file to your git repository, commit and push.
 
@@ -144,15 +144,11 @@ TIP: If you would like to learn more about how to use cURL, you can refer to the
 
 == Course Demonstrator Profiles
 
-*Dr Paul Robinson* is a Senior Software Engineer at Red Hat and a Visiting Research Fellow at the University. Paul develops software for the JBoss application server and in particular for the Transaction Service component. Paul has lead the Enterprise Distributed Computing coursework for 9 years. He also supervises students for their Masters dissertation through industrial placements at Red Hat.
+*Hugo Firth* is a first year PhD student with the Systems research group. Studying at Newcastle University since 2010, Hugo graduated with a BSc in Computer Science (1st Class) earlier this year. Since 2009 Hugo has offered freelance development services, providing API-centric web development to clients ranging from Web hosts to Game developers; he has recently completed a number of projects using AngularJS.
 
-*Matt Forshaw* is a fourth year PhD student at Newcastle University. After completing his BSc and MSc ITEC (with Distinction) at Newcastle University, Matt has demonstrated and assessed on CSC8104 for the past four years. Matt is a member of the Systems research group investigating energy efficient operating policies for large computing environments. He also supervises student research projects and dissertations in the areas of energy-efficiency and green computing.
-
-*Becky Simmonds* is a third year PhD student researching into Twitter analysis using online and offline techniques. She demonstrated on CSC8104 the last two years and completed it herself the year before. Becky demonstrates on other modules and helps supervise a final year dissertation.
+*Dr Paul Robinson* is a Principal Software Engineer at Red Hat and a Visiting Research Fellow at the University. Paul leads the JBoss Developer team who execute on Red Hat's middleware developer programme (www.jboss.org). Paul has lead the Enterprise Distributed Computing coursework for over 10 years. He also supervises students for their Masters dissertation through industrial placements at Red Hat.
 
 *Ryan Emerson* is a third year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.
-
-*Hugo Firth* is a first year PhD student with the Systems research group. Studying at Newcastle University since 2010, Hugo graduated with a BSc in Computer Science (1st Class) earlier this year. Since 2009 Hugo has offered freelance development services, providing API-centric web development to clients ranging from Web hosts to Game developers; he has recently completed a number of projects using AngularJS.
 
 
 == Finally
