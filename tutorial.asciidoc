@@ -1,9 +1,24 @@
 = CSC8104: Enterprise Middleware Tutorial
 
-This tutorial guides you through the necessary preparation required to begin your coursework for this module. It is very important that you have completed this and are comfortable with the examples, before the beginning of the first coursework week.
+This tutorial guides you through the necessary preparation required to begin your coursework for this module. It is very important that you have completed this and are comfortable with the example, before the beginning of the first coursework week.
 
 == Create Accounts
-To complete this coursework you will need accounts on OpenShift and GitHub.
+To complete this coursework you will need accounts on GitHub and OpenShift.
+
+=== GitHub
+GitHub offers the Git version control system as a service. You will use it to host your code and to make it available to the demonstrators. GitHub is very popular in the open-source community and works best when you make your code available to others to view, clone and contribute towards. However, given the confidential nature of your coursework, you will need to use a private repository only accessible by yourself and the demonstrators.
+
+If you don't already have an account you will need to:
+
+1. Go to: https://github.com/
+2. Fill in your details and select "Sign up for GitHub."
+3. Forward your Github account registration email to Hugo Firth at h.firth@newcastle.ac.uk, including your name and university email address.
+
+If you already have an account, email Hugo Firth at h.firth@newcastle.ac.uk with your name, email address and Github username.
+
+Hugo will then create your private repository and grant you access. You will then receive an email notification from Github containing details of your new repository. This will be sent to the email address you registered with Github.
+
+TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity.
 
 === OpenShift
 OpenShift is a Platform as a Service (PaaS) Cloud offered by Red Hat. It can host many types of applications, but for this coursework you will be using it to host Java EE 6 applications on JBoss EAP 6.1. OpenShift has a free tier of membership, which you will use for the coursework.
@@ -14,21 +29,6 @@ To create an account:
 . Select "Signup for Free" under the "Online" option.
 . Fill in your details and select "Sign Up".
 . You should now receive an email containing a link to confirm your registration.  Click this link and confirm that you agree to OpenShift's terms of use.
-
-=== GitHub
-GitHub offers the Git version control system as a service. You will use it to host your code and to make it available to the demonstrators. GitHub is very popular in the open-source community and works best when you make your code available to others to view, clone and contribute towards. However, given the confidential nature of your coursework, you will need to use a private repository only accessible by yourself and the demonstrators.
-
-If you don't already have an account you will need to:
-
-1. Go to: https://github.com/
-2. Fill in your details and select "Sign up for GitHub."
-3. Forward your Github account registration email to Matt Forshaw at (m.j.forshaw@ncl.ac.uk), including your name and university email address.
-
-If you already have an account, email Matt Forshaw at (m.j.forshaw@ncl.ac.uk) with your name, email address and Github username.
-
-Matt will then create your private repository and grant you access. You will then receive an email notification from Github containing details of your new repository. This will be sent to the email address you registered with Github.
-
-TIP: GitHub is a very popular service, and you are quite likely to use it in your profesional career; especially if you work with open source software in some capacity.
 
 == Environment Setup
 
@@ -77,7 +77,7 @@ If you want to use Eclipse to edit the kitchensink-angularjs example (and your c
 You will be using Git in the coursework for regular checkpoint and backup of your code to GitHub. You will also use Git to deploy new versions of your application to OpenShift. This section will show you how to create a copy of the 'kitchensik-angularjs' example, ready fo you to extend in the coursework, and also how to push the code to GitHub and OpenShift.
 
 * Build on top of the kitchensink-angularjs example, by moving your clone of the OpenShift git repository at kitchensink-angularjs/kitchensinkangularjs to some other location on your disk, where you want to develop your coursework submission.
-* Now you need to be able to push your code to your git repository on GitHub. To do this, you will need the url of the repository created by Matt on your earlier request.
+* Now you need to be able to push your code to your git repository on GitHub. To do this, you will need the url of the repository created by Hugo on your earlier request.
 
     git remote add github https://github.com/NewcastleComputingScience/csc8104-<YOUR ID>.git
     git push github master -f
