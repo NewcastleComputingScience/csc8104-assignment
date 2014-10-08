@@ -3,13 +3,13 @@
 == Outline
 This coursework is designed to give you experience building Java EE 6 applications and deploying them to the Cloud. You will build a real-world application using real enterprise technologies. This coursework provides you with an opportunity to work on an entire application, from the data-storage through to the web frontend. As a result you will need to become familiar with a wide range of technologies. It is important that you start the work early and ask for help when needed. By completing this coursework, you will gain some useful experience and skills.
 
-In Part One you will build a simple service, hosted on a Platform as a Service Cloud. The service should be accessible through a RESTful Json api and accompanied by a selection of tests to demonstrate that it satisfies the provided requirements.
+In Part One you will build a simple service, hosted on a Platform as a Service Cloud. The service should be accessible through a RESTful JSON api and accompanied by a selection of tests to demonstrate that it satisfies the provided requirements.
 
-In Part Two you will create a more complex service, building upon the simple services built by yourself and your colleagues' services in Part One. This service should also be accompanied by tests and Json endpoints.
+In Part Two you will create a more complex service, building upon the simple services built by yourself and your colleagues' services in Part One. This service should also be accompanied by tests and JSON endpoints.
 
 Parts Three and Four involve modifying the frontend component of the base application to work with your new services. 
 
-You must complete the provided Tutorial before attempting this coursework. There are a number of pre-requisite steps in the tutorial that must be done for the coursework to function.
+IMPORTANT: You must complete the provided Tutorial before attempting this coursework. There are a number of pre-requisite steps in the tutorial that must be done for the coursework to function.
 
 == Technologies
 This coursework covers a large number of technologies. The challenge here is to learn the right bits of each technology in order to complete the coursework.
@@ -27,7 +27,6 @@ This coursework covers a large number of technologies. The challenge here is to 
  
 == Project Requirements
 
-IMPORTANT: You must write all the elements of the coursework yourself. You must NOT use tools/wizards (such as Eclipse) to write them for you! However, you are encouraged to use Eclipse as your IDE.
 
 *Building your work* 
 ==========================
@@ -109,7 +108,7 @@ You will probably need an Entity for each of your resources.
 
 TIP: Keep these entities simple. Just provide the minimum information required to fullfil the requirements. Use @Annotations, like those found in the base _contacts-angularjs_, to specify validation constraints on your information (like the minimum length of a name). 
 
-TIP: When you are testing your application from the commandline you may find it useful to pre-populate your database with a number of example entities. One way to achieve this is to add SQL insert statements into src/main/resources/import.sql.
+TIP: When you are testing your application from the command line you may find it useful to pre-populate your database with a number of example entities. One way to achieve this is to add SQL insert statements into src/main/resources/import.sql.
 
 TIP: When you are testing your application you will find it useful to view the queries run against your database. You can enable logging of this information by setting the "hibernate.show_sql" property to true in src/main/resources/META-INF/persistence.xml.
 
@@ -126,8 +125,6 @@ The resources you need to integrate are:
 
 You must ensure that either every part of a booking is made, or no parts of the booking are made. Remember, each part of the booking can be cancelled using the provided cancel operation. For example, the user would not want to book a flight, if they didn't have somewhere to stay at the destination.
 This will allow you to easily control which booking fails and which succeeds. You should set up a scenario where the first two bookings succeed and the remaining booking fails. Your TravelAgent resource should detect this failure and cancel the previous bookings that succeeded.
-
-If there is 
 
 IMPORTANT: It is very important that the user does not end up with a partial booking. Otherwise they may end up paying for a flight, without having a hotel to stay in.
 
@@ -153,7 +150,7 @@ As with Part 1, you should document your API endpoints. You should take care to 
 * What problems did you have utilising your colleagues’ services? How would these problems be exacerbated had the producers of these services not been in the same room?
 * What problems did you have offering your service to your colleagues?
 
-== Part 3 - Weight(20%)
+== Part 3 - Weight (20%)
 
 You should return to the frontend component of your application, written in Javascript using the link:https://angularjs.org/[Angular.js] framework. This code should be the same as that found in the original _contacts-angularjs_ application, unedited throughout the project so far.
 
@@ -181,7 +178,7 @@ Your application should also generally provide appropriate visual indication of 
 
 IMPORTANT: You do *not* need to worry about providing automated tests of your frontend application.
 
-== Page 4 - Weight(10%)
+== Page 4 - Weight (10%)
 
 For the final part of this coursework you must further modify the frontend component of your application to interact with your TravelAgent resource and those resources of your Colleagues' upon which it depends.
 
