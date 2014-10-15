@@ -132,13 +132,15 @@ To give you an example of how you might use cURL to see what your API is doing, 
 
 * to see a list of all contacts returned, formatted as JSON and accompanied by all HTTP headers.
 
-    curl -v http://localhost:8080/rest/contacts/
+    curl -v http://localhost:8080/jboss-contacts-angularjs/rest/contacts/
 
 * to create a new contacts.
 
-    curl -v -X POST http://localhost:8080/rest/contacts/ -d '{"name":"Joe Bloggs", "phonenumber":"01234567891"}'
+    curl -v -X POST http://localhost:8080/jboss-contacts-angularjs/rest/contacts/ -d '{"name":"Joe Bloggs", "phonenumber":"01234567891"}'
 
 The *-v* switch instructs curl to display all possible information, whilst the *-X* switch allows you to specify the HTTP method to be used and *-d* the data to be sent.
+
+NOTE: In the above URLs "jboss-contacts-angularjs" is the name of the deployed .war file.
 
 TIP: If you would like to learn more about how to use cURL, you can refer to the link:http://curl.haxx.se/docs/manpage.html[official documentation] or link:http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340[this] useful tutorial.
 
