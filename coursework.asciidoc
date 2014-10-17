@@ -98,6 +98,37 @@ This is essential for any third-party who wishes to use your service. In particu
 
 TIP: If you are unfamiliar with the specifics of RESTful APIs there are some good resources available link:http://docs.oracle.com/javaee/6/tutorial/doc/giepu.html[here] & link:http://www.restapitutorial.com/[here].
 
+=== REST Service Documentation
+During the lecture content you should have covered the concept of
+RESTful api design: modelling your api as a series of CRUD (Create,
+Read, Update & Delete) operations upon resources.
+
+One of the purposes of RESTful api design is to make an api discoverable
+and intuitive for other developers. However, it is also a good idea to
+produce some simple documentation during part 1 of the coursework, so
+that your colleagues may refer to it when integrating in part 2.
+
+For reference, we have produced some simple documentation for the
+resource found in the `kitchensink-angularjs` quickstart.
+
+[[documentation-for-members-resource]]
+Documentation for `Members` resource
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[cols="<,^,<,^,<",options="header",]
+|=======================================================================
+|Route |HTTP Verb |Request Params |Response Type |Description
+|`/members` |GET |-- |JSON |Returns a JSON representation of all member
+objects
+
+|`/members/{id}` |GET |-- |JSON |Returns a JSON representation of a
+single member object ( where member.id == \{id} )
+
+|`/members` |POST |`{email:"…",  name:"…",  phoneNumber:"…"}` |--
+|Creates a member object with specified params in the application's
+persistence layer.
+|=======================================================================
+
 === Persistence Layer
 
 You will probably need an Entity for each of your resources.
