@@ -21,4 +21,4 @@ The validation requirements for your application's data are up to you, though fo
 * Customer *phonenumber* : a non-empty string which starts with a 0, contains only digits and is 11 characters in length.
 * Taxi *registration*: a non-empty alpha-numerical string which is 7 characters in length.
 * Taxi *number of seats*: a non-zero integer, in the range of 2-20.
-* Customer/Taxi/Booking *id*: a Long, which should be settable or changable by an api consumer.
+* Customer/Taxi/Booking *id*: a Long, which should **not** be settable or changable by an api consumer.
