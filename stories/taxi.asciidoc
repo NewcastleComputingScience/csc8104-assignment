@@ -10,7 +10,7 @@ A consumer of your taxi booking api should:
 * Be able to retrieve a collection of all bookings made by a particular Customer, with a single request.
 * Be able to delete a Booking record.
 * *Not* be able to delete Customer or Taxi records (these are unsupported operations).
-* *Not* be able to make create a Customer/Taxi/Booking record with incomplete or invalid information.
+* *Not* be able to create a Customer/Taxi/Booking record with incomplete or invalid information.
 
 === Validation
 
