@@ -50,7 +50,7 @@ Now you will run a simple example. This example provides you with a starting poi
 
 === Obtain the Contacts-Angularjs Quickstart
 
-1. Visit the NewcastleComputingScience/jboss-wfk-quickstarts github repo link:http://www.jboss.org//quickstarts/wfk/kitchensink-angularjs/index.html[here].
+1. Visit the NewcastleComputingScience/jboss-wfk-quickstarts github repo release page link:https://github.com/NewcastleComputingScience/jboss-wfk-quickstarts/releases/tag/v2.7.0-SNAPSHOT%2BNCL201415[here].
 
 2. Click on the *Download ZIP* link to obtain all the Quickstarts
 3. Unzip the download to somewhere on your computer.
