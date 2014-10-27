@@ -136,7 +136,7 @@ To give you an example of how you might use cURL to see what your API is doing, 
 
 * to create a new contacts.
 
-    curl -v -X POST http://localhost:8080/jboss-contacts-angularjs/rest/contacts/ -d '{"firstName":"John","lastName":"Doe","email":"john.doe@mailinator.com","phoneNumber":"(212) 666-4444","birthDate":"1986-07-20"}'
+    curl -v -H "Content-Type:application/json"  -X POST http://localhost:8080/jboss-contacts-angularjs/rest/contacts/ -d '{"firstName":"John","lastName":"Doe","email":"john.doe@mailinator.com","phoneNumber":"(212) 666-4444","birthDate":"1986-07-20"}'
 
 The *-v* switch instructs curl to display all possible information, whilst the *-X* switch allows you to specify the HTTP method to be used and *-d* the data to be sent.
 
