@@ -58,7 +58,7 @@ Now you will run a simple example. This example provides you with a starting poi
 
 
 === Run the Quickstart
-1. Step through the instructions on the Contacts-AngularJS quickstart page link:https://github.com/NewcastleComputingScience/jboss-wfk-quickstarts#configure-maven[here], upto and including section "Run the Arquillian Functional Tests". Make sure you follow the "Configure Maven" section correctly as these instructions are important.
+1. Step through the instructions on the Contacts-AngularJS quickstart page link:https://github.com/NewcastleComputingScience/jboss-wfk-quickstarts/tree/v2.7.0-SNAPSHOT%2BNCL201415/contacts-angularjs[here], upto and including section "Run the Arquillian Functional Tests". Make sure you follow the "Configure Maven" section correctly as these instructions are important.
 2. Now follow the section "Build and Deploy the Quickstart to OpenShift" including all the sub-sections that take you to the end of the page.
 
 
