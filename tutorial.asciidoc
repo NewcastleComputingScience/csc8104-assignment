@@ -29,7 +29,7 @@ To create an account:
 . Select "Signup for Free" under the "Online" option.
 . Fill in your details and select "Sign Up".
 . You should now receive an email containing a link to confirm your registration.  Click this link and confirm that you agree to OpenShift's terms of use.
-. Later on, when you are ready to deploy to Openshit - click link:https://github.com/NewcastleComputingScience/jboss-wfk-quickstarts/blob/v2.7.0-SNAPSHOT+NCL201415/README.md#build-and-deploy-the-quickstart---to-openshift[here]
+. Later on, when you are ready to deploy to Openshift - click link:https://github.com/NewcastleComputingScience/jboss-wfk-quickstarts/blob/v2.7.0-SNAPSHOT+NCL201415/README.md#build-and-deploy-the-quickstart---to-openshift[here]
 
 == Environment Setup
 
