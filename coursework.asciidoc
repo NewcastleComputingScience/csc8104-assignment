@@ -94,7 +94,7 @@ You must document your endpoints, including:
 * Their expected request format.
 * Their expected response format.
 
-This is essential for any third-party who wishes to use your service. In particular, you will need to make this available to any colleagues using your service in Part 2. An example of good REST documentation can be found link:#[here].
+This is essential for any third-party who wishes to use your service. In particular, you will need to make this available to any colleagues using your service in Part 2. An example of good REST documentation is included in the base quickstart and can be found link:https://github.com/NewcastleComputingScience/jboss-wfk-quickstarts/blob/ncl-specific-contacts-fixes/contacts-angularjs/SERVICES.md[here].
 
 TIP: If you are unfamiliar with the specifics of RESTful APIs there are some good resources available link:http://docs.oracle.com/javaee/6/tutorial/doc/giepu.html[here] & link:http://www.restapitutorial.com/[here].
 
