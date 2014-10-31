@@ -22,4 +22,14 @@ The validation requirements for your application's data are up to you, though fo
 * Flight *number*: a non-empty alpha-numerical string which is 5 characters in length.
 * Flight *point of departure*: a non-empty alphabetical string, which is upper case and 3 characters in length.
 * Flight *destination*: a non-empty alphabetical string, which is upper case, 3 characters in length and *different* from its point of departure.
-* Customer/Flight/Booking *id*: a Long, which should be settable or changable by an api consumer.
+* Customer/Flight/Booking *id*: a Long, which should *not* be settable or changable by an api consumer.
+
+=== Uniqueness
+
+The following are the variables, or sets of variables, which should be unique for each Object of each Entity type in your system:
+
+* Customer *email*: A customer's email address should be unique to that customer.
+* Flight *number*: A flight's flight number should be unique to that flight.
+* Booking *flight & date*: A combination of the flight for which a booking is made and the date for which it is made should be unique *.
+
+Yes this *does* mean that for simplicities sake you should only have one customer per flight/date combination.

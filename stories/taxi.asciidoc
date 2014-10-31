@@ -22,3 +22,13 @@ The validation requirements for your application's data are up to you, though fo
 * Taxi *registration*: a non-empty alpha-numerical string which is 7 characters in length.
 * Taxi *number of seats*: a non-zero integer, in the range of 2-20.
 * Customer/Taxi/Booking *id*: a Long, which should **not** be settable or changable by an api consumer.
+
+=== Uniqueness
+
+The following are the variables, or sets of variables, which should be unique for each Object of each Entity type in your system:
+
+* Customer *email*: A customer's email address should be unique to that customer.
+* Taxi *registration*: A taxi's registration should be unique to that taxi.
+* Booking *taxi & date*: A combination of the taxi for which a booking is made and the date for which it is made should be unique *.
+
+Yes this *does* mean that for simplicities sake you should only have one customer per taxi/date combination.

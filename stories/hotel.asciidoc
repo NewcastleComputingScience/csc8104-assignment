@@ -22,4 +22,14 @@ The validation requirements for your application's data are up to you, though fo
 * Hotel *name*: a non-empty alphabetical string less than 50 characters in length.
 * Hotel *phonenumber*: a non-empty string which starts with a 0, contains only digits and is 11 characters in length.
 * Hotel *postcode*: a non-empty alpha-numerical string which is 6 characters in length. 
-* Customer/Hotel/Booking *id*: a Long, which should be settable or changable by an api consumer.
+* Customer/Hotel/Booking *id*: a Long, which should *not* be settable or changable by an api consumer.
+
+=== Uniqueness
+
+The following are the variables, or sets of variables, which should be unique for each Object of each Entity type in your system:
+
+* Customer *email*: A customer's email address should be unique to that customer.
+* Hotel *phonenumber*: A hotel's phone number should be unique to that hotel.
+* Booking *hotel & date*: A combination of the hotel for which a booking is made and the date for which it is made should be unique *.
+
+Yes this *does* mean that for simplicities sake you should only have one customer per hotel/date combination.
