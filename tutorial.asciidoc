@@ -153,6 +153,8 @@ TIP: If you would like to learn more about how to use cURL, you can refer to the
 
 *Hugo Firth* is a second year PhD student with the Digital Insitute who has studied at Newcastle University since 2010. Hugo has previously worked as a web developer, and is currently conducting research into horizontally scalable databases.
 
+*Sami Alajrami* is a second year PhD student who has obtained his Masters (ITEC) in 2012 with Distinction. Sami is currently conducting research into using cloud-based software process enactment.
+
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
 
@@ -166,6 +168,20 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 [options="header"]
 |=====
 | Student name | Student number | Service
+| 130657804 | R. Chang | Flight
+| 140474091 | P. Chatzimanolis | Hotel
+| 140460441 | M. Daniilakis | Taxi
+| 140643284 | R.A. Jm Gining | Flight
+| 140563052 | S. Mukherjee | Hotel
+| 140464025 | M.A. Ramlan | Taxi
+| 140293816 | Z. Zhong | Flight
+| 140521096 | S.M. Coe | Hotel
+| 081776252 | A.N. Lekkas | Taxi
+| 140349858 | Z. Zhang | Flight
+| 110267229 | M.J.H. Phillips | Hotel
+| 110060653 | M. Sutula | Taxi
+| 110336260 | D. Daubaras | Flight
+| 110205379 | G.S. Prytherch | Hotel
 |=====
 
 IMPORTANT: If your name does not appear in the allocation list please contact Hugo Firth at h.firth@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
