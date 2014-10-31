@@ -147,7 +147,7 @@ TIP: If you would like to learn more about how to use cURL, you can refer to the
 
 == Course Demonstrator Profiles
 
-*Dr Paul Robinson* is a Senior Software Engineer at Red Hat and a Visiting Research Fellow at the University. Paul develops software for the JBoss application server and in particular for the Transaction Service component. Paul has lead the Enterprise Distributed Computing coursework for 9 years. He also supervises students for their Masters dissertation through industrial placements at Red Hat.
+*Dr Paul Robinson* is a Principal Software Engineer at Red Hat and he Leads the JBoss Developer team who provide Red Hat's Middleware developer programme. Paul is also a Visiting Research Fellow at the University. Paul has lead the Enterprise Distributed Computing coursework for over 10 years. He also supervises students for their Masters dissertation through industrial placements at Red Hat.
 
 *Ryan Emerson* is a final year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.
 
