@@ -1,0 +1,60 @@
+= CSC8104 Introduction
+
+The module learning outcomes, and intended skill outcomes can be found on the link:http://www.ncl.ac.uk/computing/study/module/CSC8104[Enterprise Middleware page]. 
+
+To complete this coursework you *MUST* first complete the tutorial document and then move onto the coursework document. 
+
+== Tutorial
+
+Follow https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[this document]
+
+You can also https://youtu.be/YK_YZNBz97A[watch this video] to see the steps in action.
+
+IMPORTANT: Immediately after you create your Github account, send your registration email to Hugo Firth at (h.firth@ncl.ac.uk), including your name and university email address.
+If you already have an account, email Hugo Firth at (h.firth@ncl.ac.uk) with your name, email address and Github username.
+Hugo will then create your private repository and grant you access. You will then receive an email notification from Github containing details of your new repository.
+This will be sent to the email address you registered with Github.
+
+
+== Coursework
+
+Follow https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/coursework.asciidoc[this document].
+
+IMPORTANT: You must use the allocation list below to decide which service type to implement.
+
+
+== Course Teacher Profiles
+
+*Module (Course) Leader*: *Dr Ellis Solaiman* is the Enterprise Middelware module (course) leader, and also leads a number of courses at the school of Computing Science, Newcastle University including the MSc final Project and Dissertation. He obtained his PhD in Computing Science from Newcastle University in 2004. His research interests are related mainly to the management of distributed systems (Cloud and IoT), trust, and Computer Science Education. 
+
+*Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Principal Software Engineer at Red Hat and Leads the JBoss Developer team who provide Red Hat's Middleware developer programme. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Middleware coursework for over 10 years. He also supervises students for their Masters dissertation through industrial placements at Red Hat.
+
+//*Ryan Emerson* is a final year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.
+
+*Head Demonstrator:* *Hugo Firth* is a third year PhD student with the Digital Insitute who has studied at Newcastle University since 2010. Hugo has previously worked as a web developer, and is currently conducting research into horizontally scalable databases. He is currently the head demonstrator on the Enterprise Middleware course. 
+
+*Demonstrator:* *Sami Alajrami* is a third year PhD student who has obtained his Masters (ITEC) in 2012 with Distinction. Sami is currently conducting research into using cloud-based software process enactment.
+
+*Demonstrator:* *Ioannis Sfyrakis* is a third year PhD student who obtained his Masters (ACS) in 2012 with Distinction. 
+
+*Demonstrator:* *Saleh Mohamed* is a first year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching on distributed run-time infrastructure for Internet of Things (IoT). He previously received his MSc in Computer Science (Cloud Computing) from Newcastle University.
+
+*Demonstrator:* *Peter Michalak* graduated with a bachelor degree in Computer Engineering from University of Zilina, Slovakia and a double degree in Software Engineering from University of Jyväskylä, Finland. After his studies he worked as a Software developer in Tieto Finland Oy, an IT company, in R&D department developing Telco grade cloud solutions. Currently, Peter is a PhD student in CDT Cloud Computing for Big Data, Digital Institute at Newcastle University, with focus on distributed stream management systems for healthcare data.
+
+
+== Finally
+Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
+
+Discussion Boards will also be available for CSC8104 in Blackboard (http://bb.ncl.ac.uk). You may post any questions about the tutorial or coursework assignment here, and the discussion boards will be monitored by Course Demonstrators. Before posting you should use the discussion boards' search facilities to see if somebody has already encountered the same problem.
+
+TIP: If you see a question on the discussion boards you know how to answer, we strongly encourage you to assist your colleagues!
+
+
+== Allocation List
+
+[options="header"]
+|=====
+| Student name | Student number | Service
+|=====
+
+IMPORTANT: If your name does not appear in the allocation list please contact Hugo Firth at h.firth@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
