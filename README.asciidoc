@@ -13,7 +13,7 @@ You may also https://youtu.be/YK_YZNBz97A[watch this video], prepared for last y
 Many steps of the tutorial and video concern the environment setup necessary to undertake the coursework on your own machines. This year much of this setup has been performed for you on university machines. 
 If you are solely using a university machine to perform the coursework, you should complete only the subsections of the https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[tutorial] which are highlighted as neccessary for *all students*.
 
-TIP: Because the video was prepared last year, there are some minor changes (software versions etc...). It is recommended as a supplement to the tutorial document, not a replacement.
+TIP: Because the video was prepared last year, there are some minor changes (software versions etc...). It is recommended as a supplement to the tutorial document, not a replacement. Additionally, much of the video is concerned with environmental setup unnecessary on University machines.
 
 IMPORTANT: Immediately after you create your Github account, send your registration email to Hugo Firth at (h.firth@ncl.ac.uk), including your name and university email address.
 If you already have an account, email Hugo Firth at (h.firth@ncl.ac.uk) with your name, email address and Github username.
