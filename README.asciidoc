@@ -38,7 +38,7 @@ IMPORTANT: You must use the allocation list below to decide which service type t
 
 *Demonstrator:* *Saleh Mohamed* is a second year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching on distributed run-time infrastructure for Internet of Things (IoT). He previously received his MSc in Computer Science (Cloud Computing) from Newcastle University.
 
-*Demonstrator:* *Priyaa Thavasimani* is a ...
+*Demonstrator:* *Priyaa Thavasimani* is a second year PhD student working on the ReComp Project in the School of Computing Science under the supervision of Dr Paolo Missier.  She completed her Bachelor’s degree in Information Technology and Master’s Degree in Computer Science and Engineering from India. She worked as Software Engineer at Torry Harris Business Solutions. Further she worked as Assistant Professor in India. Her area of passion includes Reproducible Research, Big/Meta Data Analytics, Statistical Computing, Green Computing, Mobile Application Development, and Service Oriented Architecture.
 
 *Demonstrator* *Yinhao Li* is a first year PhD student in the scalable computing group. His research interests are Internet of Things (IoT), Cloud Computing and Edge Computing. He previously received his MSc in Computer Science from the China University of Geoscience. 
 
