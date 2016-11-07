@@ -83,5 +83,6 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Shaun Barney | 810423 | Hotel
 | Patrick Burke | 810424 | Taxi
 | Joshua Knauer | 801425 | Flight 
+|=======
 
 IMPORTANT: If your name does not appear in the allocation list please contact Hugo Firth at h.firth@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
