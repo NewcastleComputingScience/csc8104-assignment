@@ -70,8 +70,8 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Jay Gao | 810411 | Hotel
 | Konstantinos Georgopolous | 810412 | Taxi
 | Aleksander Antoniewicz | 810413 | Flight
-| Elliot Lewandowski | 810414 | Hotel
-| Kirst Webb | 801415 | Taxi
+| Elliott Lewandowski | 810414 | Hotel
+| Kirsty Webb | 801415 | Taxi
 | Ed Spooner | 810416 | Flight
 | Jonathan Carlton | 810417 | Hotel
 | Stephen Shephard | 810418 | Taxi
