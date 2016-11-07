@@ -57,7 +57,6 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 [options="header"]
 |=====
 | Student name | Service Number | Service
-|=====
 | Alper Akin | 810401 | Flight
 | Mahfuz Ali | 810402 | Hotel
 | Ruoson Wu | 810403 | Taxi
