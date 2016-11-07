@@ -58,5 +58,30 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |=====
 | Student name | Service Number | Service
 |=====
+| Alper Akin | 810401 | Flight
+| Mahfuz Ali | 810402 | Hotel
+| Ruoson Wu | 810403 | Taxi
+| Yue Yan | 810404 | Flight
+| Steve Cathcart | 810405 | Hotel 
+| Ryan Halliburton | 810406 | Taxi
+| Zayyad Gaya | 810407 | Flight
+| An Zhang | 810408 | Hotel
+| Huan Xu | 810409 | Taxi
+| Ploy Songsang | 810410 | Flight
+| Jay Gao | 810411 | Hotel
+| Konstantinos Georgopolous | 810412 | Taxi
+| Aleksander Antoniewicz | 810413 | Flight
+| Elliot Lewandowski | 810414 | Hotel
+| Kirst Webb | 801415 | Taxi
+| Ed Spooner | 810416 | Flight
+| Jonathan Carlton | 810417 | Hotel
+| Stephen Shephard | 810418 | Taxi
+| Cameron Trotter | 810419 | Flight
+| Maryam Al Hooti | 810420 | Hotel
+| Ahmed Al-Naabi | 810421 | Taxi
+| Georgios Rovolis | 810422 | Flight
+| Shaun Barney | 810423 | Hotel
+| Patrick Burke | 810424 | Taxi
+| Joshua Knauer | 801425 | Flight 
 
 IMPORTANT: If your name does not appear in the allocation list please contact Hugo Firth at h.firth@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
