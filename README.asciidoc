@@ -70,7 +70,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Jay Gao | 810411 | Hotel
 | Konstantinos Georgopolous | 810412 | Taxi
 | Aleksander Antoniewicz | 810413 | Flight
-| Elliott Lewandowski | 810414 | Hotel
+| Elliott Lewandowski | 810414 | http://contactswagger-810414.rhcloud.com[Hotel]
 | Kirsty Webb | 801415 | Taxi
 | Ed Spooner | 810419 | http://flightsswagger-810419.rhcloud.com/[Flight]
 | Jonathan Carlton | 810417 | Hotel
