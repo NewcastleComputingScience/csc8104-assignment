@@ -59,7 +59,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Student name | Service Number | Service 
 | Alper Akin | 810401 | Flight
 | Mahfuz Ali | 810402 | Hotel
-| Ruoson Wu | 810403 | Taxi
+| Ruoson Wu | 810403 | http://contact2-810403.rhcloud.com[Taxi]
 | Yue Yan | 810404 | Flight
 | Steve Cathcart | 810405 | http://coursework-810405.rhcloud.com/[Hotel] 
 | Ryan Halliburton | 810406 | Taxi
