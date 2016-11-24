@@ -56,12 +56,12 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 
 [options="header"]
 |=====
-| Student name | Service Number | Service
+| Student name | Service Number | Service 
 | Alper Akin | 810401 | Flight
 | Mahfuz Ali | 810402 | Hotel
 | Ruoson Wu | 810403 | Taxi
 | Yue Yan | 810404 | Flight
-| Steve Cathcart | 810405 | Hotel 
+| Steve Cathcart | 810405 | http://coursework-810405.rhcloud.com/[Hotel] 
 | Ryan Halliburton | 810406 | Taxi
 | Zayyad Gaya | 810407 | Flight
 | An Zhang | 810408 | Hotel
@@ -72,9 +72,9 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Aleksander Antoniewicz | 810413 | Flight
 | Elliott Lewandowski | 810414 | Hotel
 | Kirsty Webb | 801415 | Taxi
-| Ed Spooner | 810419 | Flight
+| Ed Spooner | 810419 | http://flightsswagger-810419.rhcloud.com/[Flight]
 | Jonathan Carlton | 810417 | Hotel
-| Stephen Shephard | 810418 | Taxi
+| Stephen Shephard | 810418 | http://mycontactswagger-810418.rhcloud.com/[Taxi]
 | Cameron Trotter | 810416 | Flight
 | Maryam Al Hooti | 810420 | Hotel
 | Ahmed Al-Naabi | 810421 | Taxi
