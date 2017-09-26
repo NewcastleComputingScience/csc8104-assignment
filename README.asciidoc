@@ -1,23 +1,21 @@
 = CSC8104 Introduction
 
-The module learning outcomes, and intended skill outcomes can be found on the link:http://www.ncl.ac.uk/computing/study/module/CSC8104[Enterprise Middleware page]. 
+The module learning outcomes, and intended skill outcomes can be found on the link:http://www.ncl.ac.uk/undergraduate/modules/csc8104/[Enterprise Middleware page].
 
-To complete this coursework you *MUST* first complete the tutorial document and then move onto the coursework document. 
+To complete this coursework you *MUST* first complete the tutorial document and then move onto the coursework document.
 
 == Tutorial
 
 Follow https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[this document]
 
-You may also https://youtu.be/YK_YZNBz97A[watch this video], prepared for last year's tutorial, to see the steps in action. 
+You may also https://youtu.be/YK_YZNBz97A[watch this video], prepared for last year's tutorial, to see the steps in action.
 
-Many steps of the tutorial and video concern the environment setup necessary to undertake the coursework on your own machines. This year much of this setup has been performed for you on university machines. 
-If you are solely using a university machine to perform the coursework, you should complete only the subsections of the https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[tutorial] which are highlighted as neccessary for *all students*.
+Many steps of the tutorial and video concern the environment setup necessary to undertake the coursework on your own machines. This year much of this setup has been performed for you on university machines.
+If you are solely using a university machine to perform the coursework, you should complete only the subsections of the https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[tutorial] which are highlighted as necessary for *all students*.
 
-TIP: Because the video was prepared last year, there are some minor changes (software versions etc...). It is recommended as a supplement to the tutorial document, not a replacement. Additionally, much of the video is concerned with environmental setup unnecessary on University machines.
-
-IMPORTANT: Immediately after you create your Github account, send your registration email to Hugo Firth at (h.firth@ncl.ac.uk), including your name and university email address.
-If you already have an account, email Hugo Firth at (h.firth@ncl.ac.uk) with your name, email address and Github username.
-Hugo will then create your private repository and grant you access. You will then receive an email notification from Github containing details of your new repository.
+IMPORTANT: Immediately after you create your Github account, send your registration email to Adam Cattermole at (a.cattermole@ncl.ac.uk), including your name and university email address.
+If you already have an account, email Adam Cattermole at (a.cattermole@ncl.ac.uk) with your name, email address and Github username.
+Adam will then create your private repository and grant you access. You will then receive an email notification from Github containing details of your new repository.
 This will be sent to the email address you registered with Github.
 
 
@@ -25,29 +23,33 @@ This will be sent to the email address you registered with Github.
 
 Follow https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/coursework.asciidoc[this document].
 
-IMPORTANT: You must use the allocation list below to decide which service type to implement.
+IMPORTANT: You must use the allocation list below to determine which service type you will implement.
 
 
 == Course Teacher Profiles
 
-*Module (Course) Leader*: *Dr Ellis Solaiman* is the Enterprise Middelware module (course) leader, and also leads a number of courses at the school of Computing Science, Newcastle University including the MSc final Project and Dissertation. He obtained his PhD in Computing Science from Newcastle University in 2004. His research interests are related mainly to the management of distributed systems (Cloud and IoT), trust, and Computer Science Education. 
+*Module (Course) Leader*: *Dr Ellis Solaiman* is the Enterprise Middleware module (course) leader, and also leads a number of courses at the school of Computing Science, Newcastle University including the MSc final Project and Dissertation. He obtained his PhD in Computing Science from Newcastle University in 2004. His research interests are related mainly to the management of distributed systems (Cloud and IoT), trust, and Computer Science Education.
 
 *Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Principal Software Engineer at Red Hat and Leads the JBoss Developer team who provide Red Hat's Middleware developer programme. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Middleware coursework for over 10 years. He also supervises students for their Masters dissertation through industrial placements at Red Hat.
 
-*Head Demonstrator:* *Hugo Firth* is a fourth year PhD student with the Digital Insitute who has studied at Newcastle University since 2010. Hugo has previously worked as a web developer, and is currently conducting research into horizontally scalable databases. He is currently the head demonstrator on the Enterprise Middleware course. 
+*Head Demonstrator:* *Adam Cattermole* is a first year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching functional stream processing. Adam has studied at Newcastle University since 2012, undertaking CSC8104 as an undergraduate. He is currently the head demonstrator on the Enterprise Middleware course.
 
 *Demonstrator:* *Saleh Mohamed* is a second year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching on distributed run-time infrastructure for Internet of Things (IoT). He previously received his MSc in Computer Science (Cloud Computing) from Newcastle University.
 
-*Demonstrator:* *Priyaa Thavasimani* is a second year PhD student working on the ReComp Project in the School of Computing Science under the supervision of Dr Paolo Missier.  She completed her Bachelor’s degree in Information Technology and Master’s Degree in Computer Science and Engineering from India. She worked as Software Engineer at Torry Harris Business Solutions. Further she worked as Assistant Professor in India. Her area of passion includes Reproducible Research, Big/Meta Data Analytics, Statistical Computing, Green Computing, Mobile Application Development, and Service Oriented Architecture.
+*Demonstrator* *Yinhao Li* is a first year PhD student in the scalable computing group. His research interests are Internet of Things (IoT), Cloud Computing and Edge Computing. He previously received his MSc in Computer Science from the China University of Geoscience.
 
-*Demonstrator* *Yinhao Li* is a first year PhD student in the scalable computing group. His research interests are Internet of Things (IoT), Cloud Computing and Edge Computing. He previously received his MSc in Computer Science from the China University of Geoscience. 
+// *Demonstrator:* *Devki Jha*
+
+// *Demonstrator:* *Pedro Pinto Da Silva*
+
+// *Demonstrator:* *George Stamatiadis*
 
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
 
 Discussion Boards will also be available for CSC8104 in Blackboard (http://bb.ncl.ac.uk). You may post any questions about the tutorial or coursework assignment here, and the discussion boards will be monitored by Course Demonstrators. Also, any question which demonstrators encounter frequently (either on Blackboard or in practical) will be placed in a *Frequently Asked Questions* document which we maintain https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/frequentlyaskedquestions.asciidoc[here]. Before asking a question we encourage you to check both these places to see if it has already been answered.
 
-In particular, notice the https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/frequentlyaskedquestions.asciidoc#i-cant-work-out-how-to-do-[answer] which refers to documentation. The use of 3rd party documentation is absolutely *essential* throughout this coursework, and demonstrators may often answer questions by pointing you to the relevant websites. 
+In particular, notice the https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/frequentlyaskedquestions.asciidoc#i-cant-work-out-how-to-do-[answer] which refers to documentation. The use of 3rd party documentation is absolutely *essential* throughout this coursework, and demonstrators may often answer questions by pointing you to the relevant websites.
 
 TIP: If you see a question on the discussion boards you know how to answer, we strongly encourage you to assist your colleagues!
 
@@ -56,32 +58,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 
 [options="header"]
 |=====
-| Student name | Service Number | Service 
-| Alper Akin | 810401 | Flight
-| Mahfuz Ali | 810402 | Hotel
-| Ruoson Wu | 810403 | http://contact2-810403.rhcloud.com[Taxi]
-| Yue Yan | 810404 | Flight
-| Steve Cathcart | 810405 | http://coursework-810405.rhcloud.com/[Hotel] 
-| Ryan Halliburton | 810406 | Taxi
-| Zayyad Gaya | 810407 | Flight
-| An Zhang | 810408 | Hotel
-| Huan Xu | 810409 | Taxi
-| Ploy Songsang | 810410 | Flight
-| Jay Gao | 810411 | Hotel
-| Konstantinos Georgopolous | 810412 | Taxi
-| Aleksander Antoniewicz | 810413 | Flight
-| Elliott Lewandowski | 810414 | http://contactswagger-810414.rhcloud.com[Hotel]
-| Kirsty Webb | 801415 | Taxi
-| Ed Spooner | 810419 | http://flightsswagger-810419.rhcloud.com/[Flight]
-| Jonathan Carlton | 810417 | Hotel
-| Stephen Shephard | 810418 | http://mycontactswagger-810418.rhcloud.com/[Taxi]
-| Cameron Trotter | 810416 | Flight
-| Maryam Al Hooti | 810420 | Hotel
-| Ahmed Al-Naabi | 810421 | Taxi
-| Georgios Rovolis | 810422 | Flight
-| Shaun Barney | 810423 | Hotel
-| Patrick Burke | 810424 | Taxi
-| Joshua Knauer | 801425 | Flight 
+| Student name | Service Number | Service
 |=======
 
-IMPORTANT: If your name does not appear in the allocation list please contact Hugo Firth at h.firth@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
+IMPORTANT: If your name does not appear in the allocation list please contact Adam Cattermole at a.cattermole@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
