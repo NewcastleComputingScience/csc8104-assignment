@@ -34,9 +34,9 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Head Demonstrator:* *Adam Cattermole* is a first year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching functional stream processing. Adam has studied at Newcastle University since 2012, undertaking CSC8104 as an undergraduate. He is currently the head demonstrator on the Enterprise Middleware course.
 
-*Demonstrator:* *Saleh Mohamed* is a second year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching on distributed run-time infrastructure for Internet of Things (IoT). He previously received his MSc in Computer Science (Cloud Computing) from Newcastle University.
+*Demonstrator:* *Saleh Mohamed* is a third year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching on distributed run-time infrastructure for Internet of Things (IoT). He previously received his MSc in Computer Science (Cloud Computing) from Newcastle University.
 
-*Demonstrator* *Yinhao Li* is a first year PhD student in the scalable computing group. His research interests are Internet of Things (IoT), Cloud Computing and Edge Computing. He previously received his MSc in Computer Science from the China University of Geoscience.
+*Demonstrator* *Yinhao Li* is a second year PhD student in the scalable computing group. His research interests are Internet of Things (IoT), Cloud Computing and Edge Computing. He previously received his MSc in Computer Science from the China University of Geoscience.
 
 // *Demonstrator:* *Devki Jha*
 
