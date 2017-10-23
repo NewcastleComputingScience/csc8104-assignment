@@ -8,7 +8,7 @@ To complete this coursework you *MUST* first complete the tutorial document and 
 
 Follow https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[this document]
 
-You may also https://youtu.be/YK_YZNBz97A[watch this video], prepared for last year's tutorial, to see the steps in action.
+You may also https://youtu.be/X0HlR40DkxI[watch this video], prepared for for this years tutorial, to see the steps in action.
 
 Many steps of the tutorial and video concern the environment setup necessary to undertake the coursework on your own machines. This year much of this setup has been performed for you on university machines.
 If you are solely using a university machine to perform the coursework, you should complete only the subsections of the https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[tutorial] which are highlighted as necessary for *all students*.
@@ -38,11 +38,9 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Demonstrator* *Yinhao Li* is a second year PhD student in the scalable computing group. His research interests are Internet of Things (IoT), Cloud Computing and Edge Computing. He previously received his MSc in Computer Science from the China University of Geoscience.
 
-// *Demonstrator:* *Devki Jha*
+*Demonstrator:* *George Stamatiadis* is a first year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching crash-tolerant stream processing. George has previously completed a BEng Computer Networks degree at University of Essex.
 
-// *Demonstrator:* *Pedro Pinto Da Silva*
-
-// *Demonstrator:* *George Stamatiadis*
+*Demonstrator:* *Pedro Silva* is a first year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data. Pedro has a Masters degree in Electrical Engineering from the University of Porto, where he worked as a postgraduate researcher before he joined Newcastle University. His current research interests include distributed algorithms and machine learning applied to intelligent transportation systems.
 
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
