@@ -56,7 +56,35 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 
 [options="header"]
 |=====
-| Student name | Service Number | Service
+| Student Name | Service Type | Service Location
+| Altabtabai S.H.T.S.H.S | Flight |
+| Burke J. | Hotel |
+| Chen Y. | Taxi |
+| Cheng X. | Flight |
+| Chowdhury A.H. | Hotel |
+| De Leon Pena L.M. | Taxi |
+| Dearden L.M. | Flight |
+| Dixon J.A. | Hotel |
+| Du Y. | Taxi |
+| Gao Y. | Flight |
+| Herndez Coronado E.J. | Hotel |
+| Huang X. | Taxi |
+| Lopez Molina E.G. | Flight |
+| Ma H. | Hotel |
+| Mahmood U. | Taxi |
+| Peckham W.M. | Flight |
+| Psaltis A. | Hotel |
+| Rodriguez Collado R.J. | Taxi |
+| Trendafilova E.D. | Flight |
+| Urena Hernandez M.E. | Hotel |
+| Wang Z. | Taxi |
+| Wei Y. | Flight |
+| Xu W. | Hotel |
+| Young E. | Taxi |
+| Zhan B. | Flight |
+| Corne J.A. | Hotel |
+| Hussaini J.K. | Taxi |
+| Rickayzen L. | Flight |
 |=======
 
 IMPORTANT: If your name does not appear in the allocation list please contact Adam Cattermole at a.cattermole@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
