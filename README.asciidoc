@@ -58,22 +58,22 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |=====
 | Student Name | Service Type | Service Location
 | Altabtabai S.H.T.S.H.S | Flight |
-| Burke J. | Hotel |
+| Burke J. | Hotel | link:http://api-deployment-csc8104-b4044651.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Chen Y. | Taxi |
 | Cheng X. | Flight |
-| Chowdhury A.H. | Hotel |
+| Chowdhury A.H. | Hotel | link:http://api-deployment-csc8104-140207385.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | De Leon Pena L.M. | Taxi |
 | Dearden L.M. | Flight |
-| Dixon J.A. | Hotel |
+| Dixon J.A. | Hotel | link:http://api-deployment1-csc8104-140044403.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Du Y. | Taxi |
 | Gao Y. | Flight |
 | Herndez Coronado E.J. | Hotel |
 | Huang X. | Taxi |
-| Lopez Molina E.G. | Flight |
+| Lopez Molina E.G. | Flight | link:http://api-deployment-csc8104-160710982.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Ma H. | Hotel |
-| Mahmood U. | Taxi |
+| Mahmood U. | Taxi | link:http://api-deployment-csc8104-b3034776.7e14.starter-us-west-2.openshiftapps.com[Service]
 | Peckham W.M. | Flight |
-| Psaltis A. | Hotel |
+| Psaltis A. | Hotel | link:http://api-deployment-csc8104-120434002.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Rodriguez Collado R.J. | Taxi |
 | Trendafilova E.D. | Flight |
 | Urena Hernandez M.E. | Hotel |
@@ -81,9 +81,9 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Wei Y. | Flight |
 | Xu W. | Hotel |
 | Young E. | Taxi |
-| Zhan B. | Flight |
+| Zhan B. | Flight | link:http://api-deployment-csc8104-170199003.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Corne J.A. | Hotel |
-| Hussaini J.K. | Taxi |
+| Hussaini J.K. | Taxi | link:http://api-deployment-csc8104-130277853.7e14.starter-us-west-2.openshiftapps.com[Service]
 | Rickayzen L. | Flight |
 |=======
 
