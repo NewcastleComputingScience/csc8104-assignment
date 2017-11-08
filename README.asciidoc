@@ -67,22 +67,22 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Dixon J.A. | Hotel | link:http://api-deployment1-csc8104-140044403.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Du Y. | Taxi |
 | Gao Y. | Flight |
-| Herndez Coronado E.J. | Hotel |
-| Huang X. | Taxi |
+| Herndez Coronado E.J. | Hotel | link:http://hernandez-api-deployment-csc8104-b170612029.7e14.starter-us-west-2.openshiftapps.com/[Service]
+| Huang X. | Taxi | link:http://xhcoursework-javacoursework.7e14.starter-us-west-2.openshiftapps.com[Service]
 | Lopez Molina E.G. | Flight | link:http://api-deployment-csc8104-160710982.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Ma H. | Hotel |
 | Mahmood U. | Taxi | link:http://api-deployment-csc8104-b3034776.7e14.starter-us-west-2.openshiftapps.com[Service]
-| Peckham W.M. | Flight |
+| Peckham W.M. | Flight | link:http://api-deployment-csc8104-130227940.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Psaltis A. | Hotel | link:http://api-deployment-csc8104-120434002.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Rodriguez Collado R.J. | Taxi |
-| Trendafilova E.D. | Flight |
-| Urena Hernandez M.E. | Hotel |
+| Trendafilova E.D. | Flight | link:http://api-deployment-cs8104-b1026968.7e14.starter-us-west-2.openshiftapps.com[Service]
+| Urena Hernandez M.E. | Hotel | link:http://api-csc8104-hotel-booking-app.1d35.starter-us-east-1.openshiftapps.com/[Service]
 | Wang Z. | Taxi |
 | Wei Y. | Flight |
 | Xu W. | Hotel |
 | Young E. | Taxi |
 | Zhan B. | Flight | link:http://api-deployment-csc8104-170199003.7e14.starter-us-west-2.openshiftapps.com/[Service]
-| Corne J.A. | Hotel |
+| Corne J.A. | Hotel | link:http://api-deployment-csc8104-130167853.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Hussaini J.K. | Taxi | link:http://api-deployment-csc8104-130277853.7e14.starter-us-west-2.openshiftapps.com[Service]
 | Rickayzen L. | Flight |
 |=======
