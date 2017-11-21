@@ -63,7 +63,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Cheng X. | Flight | link:http://api-deployment-csc8104-xinchao-cheng.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Chowdhury A.H. | Hotel | link:http://api-deployment-csc8104-140207385.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | De Leon Pena L.M. | Taxi |
-| Dearden L.M. | Flight |
+| Dearden L.M. | Flight | link:http://api-deployment-csc8104-lee-dearden.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Dixon J.A. | Hotel | link:http://api-deployment1-csc8104-140044403.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Du Y. | Taxi |
 | Gao Y. | Flight | link:http://api-deployment-csc8104-150124643.7e14.starter-us-west-2.openshiftapps.com[Service]
@@ -84,7 +84,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Zhan B. | Flight | link:http://api-deployment-csc8104-170199003.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Corne J.A. | Hotel | link:http://api-deployment-csc8104-130167853.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Hussaini J.K. | Taxi | link:http://api-deployment-csc8104-130277853.7e14.starter-us-west-2.openshiftapps.com[Service]
-| Rickayzen L. | Flight |
+| Rickayzen L. | Flight | link:http://api-deployment-enterprise-middleware.7e14.starter-us-west-2.openshiftapps.com/[Service]
 |=======
 
 IMPORTANT: If your name does not appear in the allocation list please contact Adam Cattermole at a.cattermole@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
