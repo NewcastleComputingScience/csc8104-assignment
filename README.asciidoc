@@ -30,7 +30,7 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Module (Course) Leader*: *Dr Ellis Solaiman* is the Enterprise Middleware module (course) leader, and also leads a number of courses at the school of Computing Science, Newcastle University including the MSc final Project and Dissertation. He obtained his PhD in Computing Science from Newcastle University in 2004. His research interests are related mainly to the management of distributed systems (Cloud and IoT), trust, and Computer Science Education.
 
-*Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Principal Software Engineer at Red Hat and Leads the JBoss Developer team who provide Red Hat's Middleware developer programme. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Middleware coursework for over 10 years. He also supervises students for their Masters dissertation through industrial placements at Red Hat.
+*Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Software Engineering Manager at Red Hat and manages the Engineering team for Red Hat's Developer Program. Prior to this role, Paul was a Principal Software Engineer on JBoss EAP working on the Transaction Manager service. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Middleware coursework for over 10 years.
 
 *Head Demonstrator:* *Adam Cattermole* is a first year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching functional stream processing. Adam has studied at Newcastle University since 2012, undertaking CSC8104 as an undergraduate. He is currently the head demonstrator on the Enterprise Middleware course.
 
