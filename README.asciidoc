@@ -64,7 +64,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Chowdhury A.H. | Hotel | link:http://api-deployment-csc8104-140207385.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | De Leon Pena L.M. | Taxi |
 | Dearden L.M. | Flight | link:http://api-deployment-csc8104-lee-dearden.7e14.starter-us-west-2.openshiftapps.com/[Service]
-| Dixon J.A. | Hotel | link:http://api-deployment1-csc8104-140044403.7e14.starter-us-west-2.openshiftapps.com/[Service]
+| Dixon J.A. | Hotel | link:http://api-deployment-csc8104-140044403.7e14.starter-us-west-2.openshiftapps.com/[Service]
 | Du Y. | Taxi |
 | Gao Y. | Flight | link:http://api-deployment-csc8104-150124643.7e14.starter-us-west-2.openshiftapps.com[Service]
 | Hernandez Coronado E.J. | Hotel | link:http://hernandez-api-deployment-csc8104-b170612029.7e14.starter-us-west-2.openshiftapps.com/[Service]
