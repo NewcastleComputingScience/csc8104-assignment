@@ -38,6 +38,8 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Demonstrator:* *Ali Alzubaidi* is a Second Year PhD student who is researching Blockchain technology as potential underlying solution for Service Level Agreement (SLA). He has a Master Degree in Computer Science from Adelaide University (Australia), with a focus on Internet of Things (IoT). He also holds a teaching assistant position at Umm Al-Qura University since 2010.
 
+*Demonstrator:* *Ridwan Suleiman* is a second year PhD student who is researching resource usage prediction in the cloud   with the goal of reducing energy wastage. Ridwan completed his MSC in Software Engineering Management at Durham University. 
+
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
 
