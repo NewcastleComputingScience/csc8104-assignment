@@ -62,7 +62,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |Chen Y.|Hotel|
 |Clark C.|Taxi|
 |Dalbehera A.|Flight|
-|Dyer P.A.|Hotel|
+|Dyer P.A.|Hotel|http://api-deployment-csc8104-140216561.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |He K.|Taxi|
 |Jamathi Chidananda P.|Flight|
 |Khan A.|Hotel|
@@ -81,8 +81,8 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |Zhong S.|Taxi|
 |Zhou T.|Flight|
 |Zhu R.|Hotel|
-|Brown J.K.|Taxi|
-|Robertson J.E.|Flight|
+|Brown J.K.|Taxi|http://csc8104-build-stream-csc8104-150229018.b9ad.pro-us-east-1.openshiftapps.com/[Service]
+|Robertson J.E.|Flight|http://api-deployment-csc8104-140230305.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Vydra V.|Hotel|
 |=======
 
