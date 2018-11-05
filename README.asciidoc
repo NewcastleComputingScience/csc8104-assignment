@@ -70,20 +70,20 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |Li X.|Flight|
 |Li Z.|Hotel|
 |Liang Y.|Taxi|
-|Lin K.|Flight|
+|Lin K.|Flight|http://api-deployment-csc8104-180074796.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Liu L.|Hotel|
 |Sham W.H.|Taxi|
-|Shao S.|Flight|
-|Tang A.H.W.|Hotel|
+|Shao S.|Flight|http://api-deployment-csc8104-170513449.b9ad.pro-us-east-1.openshiftapps.com[Service]
+|Tang A.H.W.|Hotel|http://api-deployment-csc8104-130426093.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Towers J.A.|Taxi|
 |Wang J.|Flight|
-|Yang W.|Hotel|
+|Yang W.|Hotel|http://api-deployment-csc8104-170152145.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Zhong S.|Taxi|
-|Zhou T.|Flight|
+|Zhou T.|Flight|http://api-deployment-csc8104-180275186.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Zhu R.|Hotel|
 |Brown J.K.|Taxi|http://csc8104-build-stream-csc8104-150229018.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Robertson J.E.|Flight|http://api-deployment-csc8104-140230305.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Vydra V.|Hotel|
+|Vydra V.|Hotel|http://api-deployment-csc8104-150082206.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |=======
 
 IMPORTANT: If your name does not appear in the allocation list please contact Adam Cattermole at a.cattermole@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
