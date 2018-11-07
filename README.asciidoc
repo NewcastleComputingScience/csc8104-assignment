@@ -58,9 +58,9 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |=====
 | Student Name | Service Type | Service Location
 |Alhawas A.|Taxi|
-|Booth A.D.|Flight|
+|Booth A.D.|Flight|http://api-deployment-csc8104-130236469.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Chen Y.|Hotel|
-|Clark C.|Taxi|
+|Clark C.|Taxi|http://api-deployment-csc8104-180614318.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Dalbehera A.|Flight|
 |Dyer P.A.|Hotel|http://api-deployment-csc8104-140216561.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |He K.|Taxi|
