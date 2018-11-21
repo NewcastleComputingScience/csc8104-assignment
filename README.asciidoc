@@ -67,7 +67,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |Jamathi Chidananda P.|Flight|http://api-deployment-csc8104-180524154.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Khan A.|Hotel|http://api-deployment-csc8104-160712894.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Lei H.|Taxi|http://openjdk-app-csc8104-180342330.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Li X.|Flight|
+|Li X.|Flight|http://api-deployment-csc8104-170609524.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Li Z.|Hotel|http://csc8104-csc8104-170781277.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Liang Y.|Taxi|
 |Lin K.|Flight|http://api-deployment-csc8104-180074796.b9ad.pro-us-east-1.openshiftapps.com[Service]
@@ -76,7 +76,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |Shao S.|Flight|http://api-deployment-csc8104-170513449.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Tang A.H.W.|Hotel|http://api-deployment-csc8104-130426093.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Towers J.A.|Taxi|http://api-deployment-csc8104-140213191.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Wang J.|Flight|
+|Wang J.|Flight|http://api-deployment-csc8104-170127567.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Yang W.|Hotel|http://api-deployment-csc8104-170152145.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Zhong S.|Taxi|
 |Zhou T.|Flight|http://api-deployment-csc8104-180275186.b9ad.pro-us-east-1.openshiftapps.com[Service]
