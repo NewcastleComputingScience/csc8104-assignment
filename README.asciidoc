@@ -66,10 +66,10 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |He K.|Taxi|http://api-deployment-csc8104-180571930.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Jamathi Chidananda P.|Flight|http://api-deployment-csc8104-180524154.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Khan A.|Hotel|http://api-deployment-csc8104-160712894.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Lei H.|Taxi|http://openjdk-app-csc8104-180342330.b9ad.pro-us-east-1.openshiftapps.com[Service]
+|Lei H.|Taxi|http://api-deployment-csc8104-180342330.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Li X.|Flight|http://api-deployment-csc8104-170609524.b9ad.pro-us-east-1.openshiftapps.com/[Service]
 |Li Z.|Hotel|http://csc8104-csc8104-170781277.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Liang Y.|Taxi|
+|Liang Y.|Taxi|api-deployment-csc8104-180210800.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Lin K.|Flight|http://api-deployment-csc8104-180074796.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Liu L.|Hotel|http://api-deployment-csc8104-180080742.b9ad.pro-us-east-1.openshiftapps.com[Service]
 |Sham W.H.|Taxi|http://csc8104-api-deploy-csc8104-150006154.b9ad.pro-us-east-1.openshiftapps.com/[Service]
