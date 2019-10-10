@@ -8,7 +8,7 @@ To complete this coursework you *MUST* first complete the tutorial document and 
 
 Follow https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[this document]
 
-You may also https://youtu.be/X0HlR40DkxI[watch this video], prepared for for last years tutorial, to see the steps in action. It should be noted that there are some minor differences in OpenShift usage this year (Pro instead of Starter), which the video does not reflect.
+You may also https://youtu.be/X0HlR40DkxI[watch this video], prepared for a previous years tutorial, to see the steps in action. It should be noted that there are some differences in OpenShift usage (Pro instead of Starter), which the video does not reflect.
 
 Many steps of the tutorial and video concern the environment setup necessary to undertake the coursework on your own machines. This year much of this setup has been performed for you on university machines.
 If you are solely using a university machine to perform the coursework, you should complete only the subsections of the https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[tutorial] which are highlighted as necessary for *all students*.
@@ -30,17 +30,15 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Software Engineering Manager at Red Hat and manages the Engineering team for Red Hat's Developer Program. Prior to this role, Paul was a Principal Software Engineer on JBoss EAP working on the Transaction Manager service. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Middleware coursework for over 10 years.
 
-*Head Demonstrator:* *Adam Cattermole* is a second year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching functional stream processing. Adam has studied at Newcastle University since 2012, undertaking CSC8104 as an undergraduate. He is currently the head demonstrator on the Enterprise Middleware course.
+*Head Demonstrator:* *Adam Cattermole* is a third year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching functional stream processing. Adam has studied at Newcastle University since 2012, undertaking CSC8104 as an undergraduate. He is currently the head demonstrator on the Enterprise Middleware course.
 
-*Demonstrator:* *George Stamatiadis* is a second year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching crash-tolerant stream processing. George has previously completed a BEng Computer Networks degree at University of Essex.
+*Demonstrator:* *George Stamatiadis* is a third year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching crash-tolerant stream processing. George has previously completed a BEng Computer Networks degree at University of Essex.
 
-*Demonstrator:* *Pedro Silva* is a second year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data. Pedro has a Masters degree in Electrical Engineering from the University of Porto, where he worked as a postgraduate researcher before he joined Newcastle University. His current research interests include distributed algorithms and machine learning applied to intelligent transportation systems.
+*Demonstrator:* *Ali Alzubaidi* is a third year PhD student who is researching Blockchain technology as potential underlying solution for Service Level Agreement (SLA). He has a Master Degree in Computer Science from Adelaide University (Australia), with a focus on Internet of Things (IoT). He also holds a teaching assistant position at Umm Al-Qura University since 2010.
 
-*Demonstrator:* *Ali Alzubaidi* is a Second Year PhD student who is researching Blockchain technology as potential underlying solution for Service Level Agreement (SLA). He has a Master Degree in Computer Science from Adelaide University (Australia), with a focus on Internet of Things (IoT). He also holds a teaching assistant position at Umm Al-Qura University since 2010.
+*Demonstrator:* *Bakri Awaji* is a second year PhD student who is researching in using Blockchain and Smart Contract to provide an infrastructure for online education. He received his Master Degree in Computer Science from University of Colorado at Denver (U.S.A). Bakri is a teaching assistant in Computer Science College at Najran University. K.S.A.
 
-*Demonstrator:* *Ridwan Suleiman* is a second year PhD student who is researching resource usage prediction in the cloud   with the goal of reducing energy wastage. Ridwan completed his MSC in Software Engineering Management at Durham University.
-
-*Demonstrator:* *Bakri Awaji* is a First Year PhD student who is researching in using Blockchain and Smart Contract to provide an infrastructure for online education. I have received my Master Degree in Computer Science from University of Colorado at Denver (U.S.A). Bakri is a teaching assistant in Computer Science College at Najran University. K.S.A.
+*Demonstrator:* *Jack Waudby* is a second year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching distributed graph databases. Jack is a member of the Linked Data Benchmark Council and a part of the Social Network Benchmark Task Force. Jack has previously completed a MSc Statistics at Lancaster University.
 
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
@@ -57,33 +55,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 [options="header"]
 |=====
 | Student Name | Service Type | Service Location
-|Alhawas A.|Taxi|http://api-deployment-csc8104-180332308.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Booth A.D.|Flight|http://api-deployment-csc8104-130236469.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Chen Y.|Hotel|
-|Clark C.|Taxi|http://api-deployment-csc8104-180614318.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Dalbehera A.|Flight|
-|Dyer P.A.|Hotel|http://api-deployment-csc8104-140216561.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|He K.|Taxi|http://api-deployment-csc8104-180571930.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Jamathi Chidananda P.|Flight|http://api-deployment-csc8104-180524154.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Khan A.|Hotel|http://api-deployment-csc8104-160712894.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Lei H.|Taxi|http://api-deployment-csc8104-180342330.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Li X.|Flight|http://api-deployment-csc8104-170609524.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Li Z.|Hotel|http://csc8104-csc8104-170781277.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Liang Y.|Taxi|http://api-deployment-csc8104-180210800.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Lin K.|Flight|http://api-deployment-csc8104-180074796.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Liu L.|Hotel|http://api-deployment-csc8104-180080742.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Sham W.H.|Taxi|http://csc8104-api-deploy-csc8104-150006154.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Shao S.|Flight|http://api-deployment-csc8104-170513449.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Tang A.H.W.|Hotel|http://api-deployment-csc8104-130426093.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Towers J.A.|Taxi|http://api-deployment-csc8104-140213191.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Wang J.|Flight|http://api-deployment-csc8104-170127567.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Yang W.|Hotel|http://api-deployment-csc8104-170152145.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Zhong S.|Taxi|
-|Zhou T.|Flight|http://api-deployment-csc8104-180275186.b9ad.pro-us-east-1.openshiftapps.com[Service]
-|Zhu R.|Hotel|
-|Brown J.K.|Taxi|http://csc8104-build-stream-csc8104-150229018.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Robertson J.E.|Flight|http://api-deployment-csc8104-140230305.b9ad.pro-us-east-1.openshiftapps.com/[Service]
-|Vydra V.|Hotel|http://api-deployment-csc8104-150082206.b9ad.pro-us-east-1.openshiftapps.com/[Service]
+|||
 |=======
 
 IMPORTANT: If your name does not appear in the allocation list please contact Adam Cattermole at a.cattermole@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
