@@ -30,15 +30,13 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Software Engineering Manager at Red Hat and manages the Engineering team for Red Hat's Developer Program. Prior to this role, Paul was a Principal Software Engineer on JBoss EAP working on the Transaction Manager service. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Middleware coursework for over 10 years.
 
-*Head Demonstrator:* *Adam Cattermole* is a third year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching functional stream processing. Adam has studied at Newcastle University since 2012, undertaking CSC8104 as an undergraduate. He is currently the head demonstrator on the Enterprise Middleware course.
+*Head Demonstrator:* *Adam Booth* is a first year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching the application of machine learning and blockchain technologies to geospatial systems. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Middleware course.
 
-*Demonstrator:* *George Stamatiadis* is a third year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching crash-tolerant stream processing. George has previously completed a BEng Computer Networks degree at University of Essex.
+*Demonstrator:* *Iain Dixon* ...
 
-*Demonstrator:* *Ali Alzubaidi* is a third year PhD student who is researching Blockchain technology as potential underlying solution for Service Level Agreement (SLA). He has a Master Degree in Computer Science from Adelaide University (Australia), with a focus on Internet of Things (IoT). He also holds a teaching assistant position at Umm Al-Qura University since 2010.
+*Demonstrator:* *Adel Albshri* ...
 
-*Demonstrator:* *Bakri Awaji* is a second year PhD student who is researching in using Blockchain and Smart Contract to provide an infrastructure for online education. He received his Master Degree in Computer Science from University of Colorado at Denver (U.S.A). Bakri is a teaching assistant in Computer Science College at Najran University. K.S.A.
-
-*Demonstrator:* *Jack Waudby* is a second year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data and is currently researching distributed graph databases. Jack is a member of the Linked Data Benchmark Council and a part of the Social Network Benchmark Task Force. Jack has previously completed a MSc Statistics at Lancaster University.
+*Demonstrator:* *Chris Dillon* ...
 
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
