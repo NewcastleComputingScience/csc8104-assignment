@@ -53,33 +53,55 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 [options="header"]
 |=====
 | Student Name | Service Type | Service Location
-|Jackson Abraham|Flight|http://apideployment-csc8104-190450621.b9ad.pro-us-east-1.openshiftapps.com
-|Kyae S. Chung|Taxi|http://api-deployment-csc8104-160527885.b9ad.pro-us-east-1.openshiftapps.com
-|Ziqi Cui|Hotel|
-|Jeremy D. Doski|Flight|http://api-deployment-csc8104-190583837.b9ad.pro-us-east-1.openshiftapps.com
-|Jmanuel Finelli|Taxi|http://api-deployment-csc8104-190562418.b9ad.pro-us-east-1.openshiftapps.com
-|Christos Grigoriadis|Hotel|http://api-deployment-csc8104-160346002.b9ad.pro-us-east-1.openshiftapps.com
-|Yuchen Guo|Flight|http://api-deployment-csc8104-190218087.b9ad.pro-us-east-1.openshiftapps.com
-|Anastasija Jadrevska|Taxi|http://api-deployment-csc8104-160508666.b9ad.pro-us-east-1.openshiftapps.com
-|Runzeng Liu|Hotel|
-|Baizel Mathew|Flight|http://api-deployment-csc8104-150143482.b9ad.pro-us-east-1.openshiftapps.com
-|Glenn O.J. Mcavoy|Taxi|http://api-deployment-csc8104-160062814.b9ad.pro-us-east-1.openshiftapps.com
-|Alexander G. McClelland|Hotel|http://api-deployment-csc8104-190468327.b9ad.pro-us-east-1.openshiftapps.com
-|Shiwei Mo|Flight|http://csc8104-build-stream-csc8104-190271244.b9ad.pro-us-east-1.openshiftapps.com
-|Alexandros Rantos Charisopoulos|Taxi|http://api-deployment-csc8104-190587101.b9ad.pro-us-east-1.openshiftapps.com
-|Mark J. Redman|Hotel|http://csc8104-api-deployment-csc8104-160208238.b9ad.pro-us-east-1.openshiftapps.com
-|Martin Robinson|Flight|http://api-deployment-csc8104-150259244.b9ad.pro-us-east-1.openshiftapps.com
-|Yuhan Shen|Taxi|http://api-deployment-csc8104-190345626.b9ad.pro-us-east-1.openshiftapps.com
-|Joseph D. Straw|Hotel|
-|Jinliang Wang|Flight|http://api-deployment-csc8104-190102074.b9ad.pro-us-east-1.openshiftapps.com
-|Sebastian Wojtkowiak|Taxi|http://api-deployment-csc8104-150510787.b9ad.pro-us-east-1.openshiftapps.com
-|Zhiniu Wu|Hotel|http://api-deployment-csc8104-180682719.b9ad.pro-us-east-1.openshiftapps.com
-|Jie Xu|Flight|http://api-deployment-csc8104-190130033.b9ad.pro-us-east-1.openshiftapps.com
-|Zhijie Xu|Taxi|http://api-deployment-csc8104-190517902.b9ad.pro-us-east-1.openshiftapps.com
-|Chao Zhai|Hotel|http://api-deployment-csc8104-170684048.b9ad.pro-us-east-1.openshiftapps.com
-|Jiahan Zhang|Flight|http://api-deployment-csc8104-190515986.b9ad.pro-us-east-1.openshiftapps.com
-|Yancheng Zhao|Taxi|http://api-development-csc8104-190346313.b9ad.pro-us-east-1.openshiftapps.com
-|Matthew Rodrick|Hotel|http://api-deployment-csc8104-160202203.b9ad.pro-us-east-1.openshiftapps.com
+| Simileoluwa Aluko |Flight| -
+| Bao Chen |Taxi| -
+| Yeqin Chen |Hotel| -
+| Hao Duan |Flight| -
+| Cynthia Sandhanakumar |Taxi| -
+| Aayushi Gupta |Hotel| -
+| Jacob Hankey |Flight| -
+| Haoyuan He |Taxi| -
+| Jinjin He |Hotel| -
+| Yanpeng Hu |Flight| -
+| Shubham Jakhmola |Taxi| -
+| Bowen Jin |Hotel| -
+| Xiao Jin |Flight| -
+| Aswin Veettil |Taxi| -
+| Weipeng Kang |Hotel| -
+| Sonu Kumar |Flight| -
+| Fiona Katharina Lapp |Taxi| -
+| Chenjie Li |Hotel| -
+| Chongyao Li |Flight| -
+| Nan Li |Taxi| -
+| Xiaoxia Li |Hotel| -
+| Xinkai Li |Flight| -
+| Dingkai Liu |Taxi| -
+| Shuofei Liu |Hotel| -
+| Moulish Mahendiran |Flight| -
+| Aidar Mamytov |Taxi| -
+| Akshaya Mathur |Hotel| -
+| Xueyu Ni |Flight| -
+| Muhammad Rosli |Taxi| -
+| Baohua Shen |Hotel| -
+| Yingying Sheng |Flight| -
+| Viktor Soendergaard |Taxi| -
+| Haoyu Sun |Hotel| -
+| Minghao Tian |Flight| -
+| Yaming Wang |Taxi| -
+| Igor Wieczorek |Hotel| -
+| Boyuan Wu |Flight| -
+| Yixiang Xia |Taxi| -
+| Jiaxuan Xu |Hotel| -
+| Weijun Xue |Flight| -
+| Shuning Yang |Taxi| -
+| Wei Yu |Hotel| -
+| Fanxin Zeng |Flight| -
+| Bangyi Zhang |Taxi| -
+| Hanyue Zhang |Hotel| -
+| Chen Zhou |Flight| -
+| Michael Zhou |Taxi| -
+| Guofang Zhu |Hotel| -
+| Wei Zhu |Flight| -
 |=======
 
-IMPORTANT: If your name does not appear in the allocation list please contact Adam Cattermole at a.cattermole@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
+IMPORTANT: If your name does not appear in the allocation list please contact Adam Booth at a.booth2@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
