@@ -32,9 +32,9 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Head Demonstrator:* *Adam Booth* is a first year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching the application of machine learning and blockchain technologies to geospatial systems. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Middleware course.
 
-*Demonstrator:* *Iain Dixon* is a first year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data. He is currently researching intelligent automated pre-allocation and pre-deallocation of cloud resources. Iain has participated as a postgraduate demonstrator before, but this is his first time for CSC8104. 
+*Demonstrator:* *Iain Dixon* is a first year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data. He is currently researching intelligent automated pre-allocation and pre-deallocation of cloud resources. 
 
-*Demonstrator:* *Adel Albshri* ...
+*Demonstrator:* *Adel Albshri is a second-year PhD student in Computer Science at Newcastle University, UK. Adel’s interests lie in the areas of Blockchain, IoT, and Modelling. He earned a Master of Science in Computer and Information Science from Newcastle University, the UK in 2019.* 
 
 *Demonstrator:* *Chris Dillon* is a first year PhD student in the Secure & Resilient Systems Group and is currently researching the integration of Autonomous Agents with Blockchain Technology. He has an experience with a multitude of technologies and programming languages and has worked as a Professional Software Engineer before returning to higher level academics.
 
