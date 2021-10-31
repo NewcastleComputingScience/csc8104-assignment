@@ -102,6 +102,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Michael Zhou |Taxi| -
 | Guofang Zhu |Hotel| -
 | Wei Zhu |Flight| -
+| David McAlle | Taxi | -
 |=======
 
 IMPORTANT: If your name does not appear in the allocation list please contact Adam Booth at a.booth2@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
