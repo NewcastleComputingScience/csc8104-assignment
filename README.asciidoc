@@ -53,14 +53,14 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 [options="header"]
 |=====
 | Student Name | Service Type | Service Location
-| Simileoluwa Aluko |Flight| -
-| Bao Chen |Taxi| -
+| Simileoluwa Aluko |Flight| http://csc8104-build-stream-simialuko24-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+| Bao Chen |Taxi| http://csc8104-build-stream-chenbryan0707-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Yeqin Chen |Hotel| -
-| Hao Duan |Flight| -
-| Cynthia Sandhanakumar |Taxi| -
-| Aayushi Gupta |Hotel| -
+| Hao Duan |Flight| http://csc8104-build-stream-haoduan-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
+| Cynthia Sandhanakumar |Taxi| http://csc8104-build-stream-cynthiadorothy-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+| Aayushi Gupta |Hotel| http://csc8104-build-stream-gupta-aayuship-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Jacob Hankey |Flight| -
-| Haoyuan He |Taxi| -
+| Haoyuan He |Taxi| http://csc8104-build-stream-hy75750514-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Jinjin He |Hotel| -
 | Yanpeng Hu |Flight| -
 | Shubham Jakhmola |Taxi| -
@@ -70,39 +70,39 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Weipeng Kang |Hotel| -
 | Sonu Kumar |Flight| -
 | Fiona Katharina Lapp |Taxi| -
-| Chenjie Li |Hotel| -
+| Chenjie Li |Hotel| http://csc8104-build-stream-jotaro001-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Chongyao Li |Flight| -
-| Nan Li |Taxi| -
+| Nan Li |Taxi| http://csc8104-build-stream-aimeelee-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/api/swagger.json
 | Xiaoxia Li |Hotel| -
-| Xinkai Li |Flight| -
-| Dingkai Liu |Taxi| -
+| Xinkai Li |Flight| http://csc8104-build-stream-xanderlee-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
+| Dingkai Liu |Taxi| http://csc8104-build-stream-purchee-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Shuofei Liu |Hotel| -
-| Moulish Mahendiran |Flight| -
+| Moulish Mahendiran |Flight| http://csc8104-build-stream-mouli-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Aidar Mamytov |Taxi| -
-| Akshaya Mathur |Hotel| -
+| Akshaya Mathur |Hotel| http://csc8104-build-stream-akshayamathur-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Xueyu Ni |Flight| -
 | Muhammad Rosli |Taxi| -
-| Baohua Shen |Hotel| -
-| Yingying Sheng |Flight| -
-| Viktor Soendergaard |Taxi| -
-| Haoyu Sun |Hotel| -
-| Minghao Tian |Flight| -
+| Baohua Shen |Hotel| http://csc8104-build-stream-sbhlearner-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
+| Yingying Sheng |Flight| http://csc8104-build-stream-yingying111-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
+| Viktor Soendergaard |Taxi| http://csc8104-build-stream-viktorsondergaardncl-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+| Haoyu Sun |Hotel| http://csc8104-build-stream-haoyusun2612-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+| Minghao Tian |Flight| http://csc8104-build-stream-minghaotian-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Yaming Wang |Taxi| -
 | Igor Wieczorek |Hotel| -
-| Boyuan Wu |Flight| -
+| Boyuan Wu |Flight| http://csc8104-build-stream-wboy1999-2-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Yixiang Xia |Taxi| -
 | Jiaxuan Xu |Hotel| -
 | Weijun Xue |Flight| -
-| Shuning Yang |Taxi| -
+| Shuning Yang |Taxi| http://csc8104-build-stream-aclatte-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Wei Yu |Hotel| -
-| Fanxin Zeng |Flight| -
-| Bangyi Zhang |Taxi| -
+| Fanxin Zeng |Flight| http://csc8104-build-stream-c0079023-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+| Bangyi Zhang |Taxi| http://csc8104-build-stream-bangyizhang-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Hanyue Zhang |Hotel| -
-| Chen Zhou |Flight| -
-| Michael Zhou |Taxi| -
+| Chen Zhou |Flight| http://csc8104-build-stream-c1013086-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+| Michael Zhou |Taxi| http://csc8104-build-stream-michaelzhou88-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Guofang Zhu |Hotel| -
-| Wei Zhu |Flight| -
-| David McAlle | Taxi | -
+| Wei Zhu |Flight| http://csc8104-build-stream-caplight-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+| David McAlle | Taxi | http://csc8104-build-stream-dmcalle-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 |=======
 
 IMPORTANT: If your name does not appear in the allocation list please contact Adam Booth at a.booth2@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
