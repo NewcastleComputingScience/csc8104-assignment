@@ -64,7 +64,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Jinjin He |Hotel| -
 | Yanpeng Hu |Flight| -
 | Shubham Jakhmola |Taxi| http://csc8104-build-stream-shubham-jakhmola-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
-| Bowen Jin |Hotel| -
+| Bowen Jin |Hotel| http://csc8104-build-stream3-biaolang-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Xiao Jin |Flight| -
 | Aswin Veettil |Taxi| http://csc8104-build-stream-aswinkvncl-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Weipeng Kang |Hotel| -
