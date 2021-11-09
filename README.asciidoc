@@ -100,7 +100,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Hanyue Zhang |Hotel| csc8104-build-stream-hanyuezhang-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Chen Zhou |Flight| http://csc8104-build-stream-c1013086-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Michael Zhou |Taxi| http://csc8104-build-stream-michaelzhou88-dev.apps.sandbox.x8i5.p1.openshiftapps.com
-| Guofang Zhu |Hotel| -
+| Guofang Zhu |Hotel| http://csc8104-build-stream-guofang-zhu-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Wei Zhu |Flight| http://csc8104-build-stream-caplight-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | David McAlle | Taxi | http://csc8104-build-stream-dmcalle-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 |=======
