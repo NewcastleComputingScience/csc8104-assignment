@@ -63,17 +63,17 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Haoyuan He |Taxi| http://csc8104-build-stream-hy75750514-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Jinjin He |Hotel| -
 | Yanpeng Hu |Flight| -
-| Shubham Jakhmola |Taxi| -
+| Shubham Jakhmola |Taxi| http://csc8104-build-stream-shubham-jakhmola-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Bowen Jin |Hotel| -
 | Xiao Jin |Flight| -
-| Aswin Veettil |Taxi| -
+| Aswin Veettil |Taxi| http://csc8104-build-stream-aswinkvncl-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Weipeng Kang |Hotel| -
 | Sonu Kumar |Flight| -
 | Fiona Katharina Lapp |Taxi| -
 | Chenjie Li |Hotel| http://csc8104-build-stream-jotaro001-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Chongyao Li |Flight| -
 | Nan Li |Taxi| http://csc8104-build-stream-aimeelee-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/api/swagger.json
-| Xiaoxia Li |Hotel| -
+| Xiaoxia Li |Hotel| http://csc8104-build-stream-xiaoxia2021-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Xinkai Li |Flight| http://csc8104-build-stream-xanderlee-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Dingkai Liu |Taxi| http://csc8104-build-stream-purchee-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Shuofei Liu |Hotel| -
@@ -94,10 +94,10 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Jiaxuan Xu |Hotel| -
 | Weijun Xue |Flight| -
 | Shuning Yang |Taxi| http://csc8104-build-stream-aclatte-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
-| Wei Yu |Hotel| -
+| Wei Yu |Hotel| http://csc8104-build-stream-weiyu1998-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Fanxin Zeng |Flight| http://csc8104-build-stream-c0079023-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Bangyi Zhang |Taxi| http://csc8104-build-stream-bangyizhang-dev.apps.sandbox.x8i5.p1.openshiftapps.com
-| Hanyue Zhang |Hotel| -
+| Hanyue Zhang |Hotel| csc8104-build-stream-hanyuezhang-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Chen Zhou |Flight| http://csc8104-build-stream-c1013086-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Michael Zhou |Taxi| http://csc8104-build-stream-michaelzhou88-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Guofang Zhu |Hotel| -
