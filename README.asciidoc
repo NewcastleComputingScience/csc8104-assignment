@@ -91,7 +91,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Igor Wieczorek |Hotel| -
 | Boyuan Wu |Flight| http://csc8104-build-stream-wboy1999-2-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Yixiang Xia |Taxi| -
-| Jiaxuan Xu |Hotel| -
+| Jiaxuan Xu |Hotel| http://csc8104-build-stream-runninghat-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Weijun Xue |Flight| -
 | Shuning Yang |Taxi| http://csc8104-build-stream-aclatte-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Wei Yu |Hotel| http://csc8104-build-stream-weiyu1998-dev.apps.sandbox.x8i5.p1.openshiftapps.com
