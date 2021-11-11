@@ -78,7 +78,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Dingkai Liu |Taxi| http://csc8104-build-stream-purchee-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Shuofei Liu |Hotel| -
 | Moulish Mahendiran |Flight| http://csc8104-build-stream-mouli-dev.apps.sandbox.x8i5.p1.openshiftapps.com
-| Aidar Mamytov |Taxi| -
+| Aidar Mamytov |Taxi| http://csc8104-build-stream-aidar-ms-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Akshaya Mathur |Hotel| http://csc8104-build-stream-akshayamathur-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Xueyu Ni |Flight| -
 | Muhammad Rosli |Taxi| -
