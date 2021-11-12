@@ -97,7 +97,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Wei Yu |Hotel| http://csc8104-build-stream-weiyu1998-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Fanxin Zeng |Flight| http://csc8104-build-stream-c0079023-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Bangyi Zhang |Taxi| http://csc8104-build-stream-bangyizhang-dev.apps.sandbox.x8i5.p1.openshiftapps.com
-| Hanyue Zhang |Hotel| csc8104-build-stream-hanyuezhang-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+| Hanyue Zhang |Hotel| http://csc8104-build-stream-hanyuezhang-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Chen Zhou |Flight| http://csc8104-build-stream-c1013086-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Michael Zhou |Taxi| http://csc8104-build-stream-michaelzhou88-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Guofang Zhu |Hotel| http://csc8104-build-stream-guofang-zhu-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
