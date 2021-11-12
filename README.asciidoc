@@ -55,13 +55,13 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Student Name | Service Type | Service Location
 | Simileoluwa Aluko |Flight| http://csc8104-build-stream-simialuko24-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Bao Chen |Taxi| http://csc8104-build-stream-chenbryan0707-dev.apps.sandbox.x8i5.p1.openshiftapps.com
-| Yeqin Chen |Hotel| -
+| Yeqin Chen |Hotel| http://csc8104-build-stream-yeqinchen-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Hao Duan |Flight| http://csc8104-build-stream-haoduan-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Cynthia Sandhanakumar |Taxi| http://csc8104-build-stream-cynthiadorothy-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Aayushi Gupta |Hotel| http://csc8104-build-stream-gupta-aayuship-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Jacob Hankey |Flight| -
 | Haoyuan He |Taxi| http://csc8104-build-stream-hy75750514-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
-| Jinjin He |Hotel| -
+| Jinjin He |Hotel| http://csc8104-build-stream-jinjinhe-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Yanpeng Hu |Flight| -
 | Shubham Jakhmola |Taxi| http://csc8104-build-stream-shubham-jakhmola-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Bowen Jin |Hotel| http://csc8104-build-stream3-biaolang-dev.apps.sandbox.x8i5.p1.openshiftapps.com
