@@ -80,7 +80,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Moulish Mahendiran |Flight| http://csc8104-build-stream-mouli-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Aidar Mamytov |Taxi| http://csc8104-build-stream-aidar-ms-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Akshaya Mathur |Hotel| http://csc8104-build-stream-akshayamathur-dev.apps.sandbox.x8i5.p1.openshiftapps.com
-| Xueyu Ni |Flight| -
+| Xueyu Ni |Flight| http://csc8104-build-stream-nixy-gadus-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Muhammad Rosli |Taxi| -
 | Baohua Shen |Hotel| http://csc8104-build-stream-sbhlearner-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Yingying Sheng |Flight| http://csc8104-build-stream-yingying111-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
