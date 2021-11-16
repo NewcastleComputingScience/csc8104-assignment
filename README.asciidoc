@@ -88,7 +88,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Haoyu Sun |Hotel| http://csc8104-build-stream-haoyusun2612-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Minghao Tian |Flight| http://csc8104-build-stream-minghaotian-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Yaming Wang |Taxi| http://csc8104-build-stream-nailuo003-dev.apps.sandbox.x8i5.p1.openshiftapps.com
-| Igor Wieczorek |Hotel| -
+| Igor Wieczorek |Hotel| http://csc8104-build-stream-igorwieczorek-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Boyuan Wu |Flight| http://csc8104-build-stream-wboy1999-2-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Yixiang Xia |Taxi| -
 | Jiaxuan Xu |Hotel| http://csc8104-build-stream-runninghat-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
