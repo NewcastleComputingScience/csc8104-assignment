@@ -68,7 +68,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Xiao Jin |Flight| -
 | Aswin Veettil |Taxi| http://csc8104-build-stream-aswinkvncl-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Weipeng Kang |Hotel| -
-| Sonu Kumar |Flight| -
+| Sonu Kumar |Flight| http://csc8104-build-stream-sk0701-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Fiona Katharina Lapp |Taxi| http://csc8104-build-stream-fionakl-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Chenjie Li |Hotel| http://csc8104-build-stream-jotaro001-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Chongyao Li |Flight| -
