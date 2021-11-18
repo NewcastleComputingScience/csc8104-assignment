@@ -53,7 +53,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 [options="header"]
 |=====
 | Student Name | Service Type | Service Location
-| Simileoluwa Aluko |Flight| http://csc8104-build-stream-simialuko24-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+| Simileoluwa Aluko |Flight| http://csc8104-build-stream-simialuko-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Bao Chen |Taxi| http://csc8104-build-stream-chenbryan0707-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Yeqin Chen |Hotel| http://csc8104-build-stream-yeqinchen-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Hao Duan |Flight| http://csc8104-build-stream-haoduan-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
