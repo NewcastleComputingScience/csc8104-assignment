@@ -90,7 +90,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Yaming Wang |Taxi| http://csc8104-build-stream-nailuo003-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Igor Wieczorek |Hotel| http://csc8104-build-stream-igorwieczorek-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Boyuan Wu |Flight| http://csc8104-build-stream-wboy1999-2-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
-| Yixiang Xia |Taxi| -
+| Yixiang Xia |Taxi| http://csc8104-build-stream-onepunchman214-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Jiaxuan Xu |Hotel| http://csc8104-build-stream-runninghat-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Weijun Xue |Flight| http://csc8104-build-stream-hypocritexue-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Shuning Yang |Taxi| http://csc8104-build-stream-aclatte-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
