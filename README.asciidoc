@@ -6,12 +6,12 @@ To complete this coursework you *MUST* first complete the tutorial document and 
 
 == Tutorial
 
-Follow https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[this document]
+Follow https://github.com/NewcastleComputingScience/CSC8104-Quarkus-Specification/blob/main/tutorial.asciidoc[this document]
 
-You may also https://www.youtube.com/watch?v=jAj5AlNr0LE[watch this video] to see the steps in action.
+You may also https://www.youtube.com/watch?v=2SkR8hDCpvA[watch this video] to see the steps in action.
 
 Many steps of the tutorial and video concern the environment setup necessary to undertake the coursework on your own machines. This year much of this setup has been performed for you on university machines.
-If you are solely using a university machine to perform the coursework, you should complete only the subsections of the https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[tutorial] which are highlighted as necessary for *all students*.
+If you are solely using a university machine to perform the coursework, you should complete only the subsections of the https://github.com/NewcastleComputingScience/CSC8104-Quarkus-Specification/blob/main/tutorial.asciidoc[tutorial] which are highlighted as necessary for *all students*.
 
 IMPORTANT: Immediately after you create your GitHub account and Red Hat Developers account, email Adam Booth at (a.booth2@ncl.ac.uk) with your name, email address, GitHub username and Red Hat Login ID.
 Adam will then create your private repository. You will then receive an email informing you of the details once everything is ready.
@@ -19,7 +19,7 @@ Adam will then create your private repository. You will then receive an email in
 
 == Coursework
 
-Follow https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/coursework.asciidoc[this document].
+Follow https://github.com/NewcastleComputingScience/CSC8104-Quarkus-Specification/blob/main/coursework.asciidoc[this document].
 
 IMPORTANT: You must use the allocation list below to determine which service type you will implement.
 
