@@ -125,7 +125,8 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Jun Zhou |Flight|
 | Yifei Zhou | Taxi | 
 | HaiTao Yu | Hotel | 
-| Sajith Sajeev Retnamma | Flight | 
+| Sajith Sajeev Retnamma | Flight |
+| Haochen Song | Taxi |
 
 |=======
 
