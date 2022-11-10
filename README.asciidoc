@@ -70,7 +70,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Cunjin Fan |Hotel|
 | Andreas Gakopoulos |Flight|
 | Yaojun Gao |Taxi| 
-| Haibin Guo |Hotel| 
+| Haibin Guo |Hotel| https://csc-8104-bing-guo-haibinguo-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Ziqing Guo |Flight| https://csc-8104-ziqing-guo-git-c1016433-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/
 | Cameron Herbert |Taxi|
 | Dhanashree Kapse |Hotel|
@@ -108,7 +108,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Prabhu Vijayan | Taxi | 
 | Hanmo Wang |Hotel|  
 | Zhicong WEN |Flight|  
-| Samuel Wicks | Taxi |  
+| Samuel Wicks | Taxi | https://csc-8104-brian-wicks-brianwicks-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/
 | Wenhao Wu |Hotel| 
 | Feng Xiong |Flight| 
 | Zhengli Xu | Taxi | 
@@ -116,7 +116,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Sunfeng Yang |Flight| 
 | Liangxu Yao | Taxi |  
 | Wusheng Yu |Hotel|  
-| Xiaoyue Zhang |Flight|
+| Xiaoyue Zhang |Flight| https://csc-8104-xiaoyue-zhang-xiaoyuezhangncl-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Yi Zhang | Taxi |  
 | Zhengze Zhang |Hotel| 
 | Ruirui Zhao |Flight| 
