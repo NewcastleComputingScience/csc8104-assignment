@@ -62,10 +62,10 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Feng Chang |Flight| 
 | Xinhao Che |Taxi| 
 | Xuan Chen |Hotel| https://csc-8104-reckless-chen-git-raging-reckless-dev.apps.sandbox.x8i5.p1.openshiftapps.com 
-| Zongyi Chen |Flight| 
+| Zongyi Chen |Flight| https://csc8104-build-stream-zongyich-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Ramesh Chinnadurai |Taxi| https://csc-8104-ramesh-chinnadurai-crkrishna10-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
 | Yue Cui |Hotel| https://csc-8104-yue-cui-yueenter-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
-| Guohao Deng |Flight|
+| Guohao Deng |Flight| https://csc8104-guohao-deng-d3gh15-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Christos Elia |Taxi| https://csc-8104-christos-elia-0-celia0123-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/
 | Cunjin Fan |Hotel|
 | Andreas Gakopoulos |Flight|
@@ -90,7 +90,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Antreas Panagiotou |Taxi| 
 | Omkar Chandrakant Patil |Hotel| 
 | Marios Pelekanos |Flight| 
-| Bo Peng |Taxi| 
+| Bo Peng |Taxi| https://csc-8104-bo-peng-mariopeng767-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Yanwen Peng |Hotel| 
 | Aarti Pitekar |Flight| 
 | Abhignan Rakshith |Taxi| 
