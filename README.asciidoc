@@ -57,12 +57,12 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Lakshmanan Balasubramanian |Taxi| 
 | Shrayan Banerjee |Hotel| 
 | Sonali Bhartal |Flight| https://csc-8104-sonali-bhartal-1-bhartalsonali07-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
-| Suraj Bisa SURAJ BISA |Taxi|
+| Suraj Bisa |Taxi| https://csc-8104-suraj-bisa-black-sun-crt-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Tom Cameron |Hotel| https://csc-8104-tom-cameron-tchornet6-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Feng Chang |Flight| 
 | Xinhao Che |Taxi| 
 | Xuan Chen |Hotel| https://csc-8104-reckless-chen-git-raging-reckless-dev.apps.sandbox.x8i5.p1.openshiftapps.com 
-| Zongyi Chen |Flight| https://csc8104-build-stream-zongyich-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
+| Zongyi Chen |Flight| https://csc-8104-zongyi-chen-zongyich-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Ramesh Chinnadurai |Taxi| https://csc-8104-ramesh-chinnadurai-crkrishna10-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
 | Yue Cui |Hotel| https://csc-8104-yue-cui-yueenter-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Guohao Deng |Flight| https://csc8104-guohao-deng-d3gh15-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
@@ -74,7 +74,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Ziqing Guo |Flight| https://csc-8104-ziqing-guo-git-c1016433-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/
 | Cameron Herbert |Taxi|
 | Dhanashree Kapse |Hotel|
-| Wenzhuo Li |Flight| 
+| Wenzhuo Li |Flight| https://csc-8104-nina-li-git-20221116-ninibenni-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/
 | Yanhua Li |Taxi| https://csc-8104-yanhua-li-git-7xynz-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/
 | Yiming Li |Hotel| https://csc-8104-yiming-li-yimingli-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | TZER-NAN LIN |Flight| 
@@ -97,7 +97,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Alagappan Ramanathan |Hotel|  
 | Trishala Sawant |Flight| 
 | Eleanor Sharp |Taxi| 
-| Ning Shen |Hotel| https://csc-8104-ning-shen-git-new-shenning-ellen-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/
+| Ning Shen |Hotel| https://csc-8104-ning-shen-git-2-shenning-ellen-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Rahul Singh |Flight| https://csc-801-rahul-singh-r-singh8-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Sonam Singh |Taxi| https://csc-8104-sonam-singh-sonam2jan-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/
 | Guanwei Su |Hotel| https://csc-8104-guanwei-su-guanwei550-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/ 
@@ -114,7 +114,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Zhengli Xu | Taxi | 
 | Xin Yan |Hotel| 
 | Sunfeng Yang |Flight| https://csc-8104-sunfeng-yang-starry-night-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
-| Liangxu Yao | Taxi |  
+| Liangxu Yao | Taxi | https://ccs-8104-liangxu-yao-liangxu6-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Wusheng Yu |Hotel|  https://csc-8104-wusheng-yu-w-yu9-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Xiaoyue Zhang |Flight| https://csc-8104-xiaoyue-zhang-xiaoyuezhangncl-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
 | Yi Zhang | Taxi |  
