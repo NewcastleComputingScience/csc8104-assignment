@@ -81,7 +81,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Xingyu LIU  |Taxi| https://csc-8104-oliver-liu-timyuu-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 | Yichao LIU  |Hotel|  
 | Yuanzhe Liu |Flight| https://csc-8104-yuanzhe-liu-4kanesora-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
-| Tianyi Lu |Taxi| https://csc-8104-tianyi-zheng-tyz980520-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
+| Tianyi Lu |Taxi| 
 | Matthew Luka |Hotel| https://csc-8104-matthew-luka-matt-luka-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/
 | Mohammed Masool |Flight| https://csc-8104-shuja-masool-shujabaktiar-dev.apps.sandbox.x8i5.p1.openshiftapps.com/q/swagger-ui/
 | Ben McIntyre |Taxi|  
@@ -120,7 +120,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Yi Zhang | Taxi |  
 | Zhengze Zhang |Hotel| 
 | Ruirui Zhao |Flight| 
-| Tianyi Zheng | Taxi | 
+| Tianyi Zheng | Taxi | https://csc-8104-tianyi-zheng-tyz980520-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
 | Songyou Zhong |Hotel| https://csc-8104-songyou-zhong-git-zhong-sy-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Jun Zhou |Flight|
 | Yifei Zhou | Taxi | https://csc-8104-yifei-zhou-git-c2009617-dev.apps.sandbox.x8i5.p1.openshiftapps.com/
