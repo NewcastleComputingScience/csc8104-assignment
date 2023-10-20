@@ -28,15 +28,17 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Module (Course) Leader*: *Dr Ellis Solaiman* is the Enterprise Middleware module (course) leader, and also leads a number of courses at the school of Computing Science, Newcastle University including the MSc final Project and Dissertation. He obtained his PhD in Computing Science from Newcastle University in 2004. His research interests are related mainly to the management of distributed systems (Cloud and IoT), trust, and Computer Science Education.
 
+*Industry (Red Hat) Lead:* *Dr Adam Cattermole* is a Software Engineer at Red Hat. Prior to this role, Adam Completed a PhD at Newcastle University School of Computing where he was also lead demonstrator on the Enterprise Middleware module. 
+
 *Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Software Engineering Manager at Red Hat and manages the Engineering team for Red Hat's Developer Program. Prior to this role, Paul was a Principal Software Engineer on JBoss EAP working on the Transaction Manager service. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Middleware coursework for over 10 years.
 
-*Head Demonstrator:* *Adam Booth* is a first year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching the application of machine learning and blockchain technologies to geospatial systems. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Middleware course.
+*Head Demonstrator:* *Adam Booth* is a third year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching the application of machine learning and blockchain technologies to geospatial systems. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Middleware course.
 
-*Demonstrator:* *Adel Albshri* is a third-year PhD student in Computer Science at Newcastle University, UK. Adel’s interests lie in the areas of Blockchain, IoT, and Modelling. He earned a Master of Science in Computer and Information Science from Newcastle University, the UK in 2019.
+*Demonstrator:* *Adel Albshri* is a final year PhD student in Computer Science at Newcastle University, UK. Adel’s interests lie in the areas of Blockchain, IoT, and Modelling. He earned a Master of Science in Computer and Information Science from Newcastle University, the UK in 2019.
 
-*Demonstrator:* *Bakri Awaji* is a final year PhD student. His research interests lie in the development of trusted achievement records for students in higher education using Blockchain tehcnology. 
+*Demonstrator:* *"Kobby Adu-Duodu* is a second year year PhD student at the School of Computing, Newcastle Univeristy. His research interests lie in the development of ontology and Blockchain solutions within Circular Supply Chains. 
 
-*Demonstrator:* *Iain Dixon* is a first year PhD student with the Centre for Doctoral Training in Cloud Computing for Big Data. He is currently researching intelligent automated pre-allocation and pre-deallocation of cloud resources. 
+*Demonstrator:* *"Shamil Al-Ameen* is a PhD student at the School of Computing, Newcastle Univeristy. 
 
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
