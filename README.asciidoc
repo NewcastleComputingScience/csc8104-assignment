@@ -32,9 +32,9 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Demonstrator:* *Adel Albshri* is a final year PhD student in Computer Science at Newcastle University, UK. Adel’s interests lie in the areas of Blockchain, IoT, and Modelling. He earned a Master of Science in Computer and Information Science from Newcastle University, the UK in 2019.
 
-*Demonstrator:* *"Kobby Adu-Duodu* is a second year year PhD student at the School of Computing, Newcastle Univeristy. His research interests lie in the development of ontology and Blockchain solutions within Circular Supply Chains. 
+*Demonstrator:* *Kobby Adu-Duodu* is a second year year PhD student at the School of Computing, Newcastle Univeristy. His research interests lie in the development of ontology and Blockchain solutions within Circular Supply Chains. 
 
-*Demonstrator:* *"Shamil Al-Ameen* is a PhD student at the School of Computing, Newcastle Univeristy. 
+*Demonstrator:* *Shamil Al-Ameen* is a PhD student at the School of Computing, Newcastle Univeristy. 
 
 *Industry (Red Hat) Lead:* *Dr Adam Cattermole* is a Software Engineer at Red Hat. Prior to this role, Adam Completed a PhD at Newcastle University School of Computing where he was also lead demonstrator on the Enterprise Middleware module. 
 
