@@ -32,7 +32,7 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Software Engineering Manager at Red Hat and manages the Engineering team for Red Hat's Developer Program. Prior to this role, Paul was a Principal Software Engineer on JBoss EAP working on the Transaction Manager service. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Middleware coursework for over 10 years.
 
-*Head Demonstrator:* *Adam Booth* is a third year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching the application of machine learning and blockchain technologies to geospatial systems. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Middleware course.
+*Lead Demonstrator:* *Adam Booth* is a third year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching the application of machine learning and blockchain technologies to geospatial systems. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Middleware course.
 
 *Demonstrator:* *Adel Albshri* is a final year PhD student in Computer Science at Newcastle University, UK. Adel’s interests lie in the areas of Blockchain, IoT, and Modelling. He earned a Master of Science in Computer and Information Science from Newcastle University, the UK in 2019.
 
