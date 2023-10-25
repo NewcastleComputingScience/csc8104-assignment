@@ -90,7 +90,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Rahul Rawat |Hotel| 
 | Ronil Rodrigues |Flight| 
 | Prakriti Rout |Taxi| 
-| Hisham Salamathullah Patil |Hotel| 
+| Hisham Salamathullah |Hotel| 
 | Ayush Sharma |Flight| 
 | Ao Shen |Taxi|
 | Yuqi Shen |Hotel|
