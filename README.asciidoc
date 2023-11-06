@@ -59,15 +59,15 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Mayson M.T. Al-Jassim |Taxi| 
 | Dinesh Arumugam |Hotel| 
 | Kaleem Aziz |Flight|
-| Abel T. Babu |Taxi|
+| Abel T. Babu |Taxi| https://csc-8104-abel-babu-abelthomasbaburedhat-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Ajay B. Balasundaram |Hotel| 
 | Tenghai Bi |Flight| 
-| Matthew Chapman |Taxi| 
+| Matthew Chapman |Taxi| https://csc-8104-matt-chapman-git-matt-chapman52-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Youheng Feng |Hotel|
 | Mingchun Guan |Flight|
-| Haitao He |Taxi| 
+| Haitao He |Taxi| https://csc-8104-haitao-he-git-harry-shat-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
 | Chuanrong Hong |Hotel| 
-| Chaojie Hou |Flight| 
+| Chaojie Hou |Flight| https://csc-8104-chaojie-hou-chaojiehou-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Weixuan Huang |Taxi|
 | Xiao Jin |Hotel|
 | Pratyush Joshi |Flight|
@@ -77,25 +77,25 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Diana Kylymnyk |Taxi|
 | Yuxian Lai |Hotel|
 | Jian Lan |Flight|
-| Boyan Li |Taxi| 
+| Boyan Li |Taxi| https://csc-8104-boyan-li-git-boyanli-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/q/swagger-ui/
 | Xuening Li |Hotel|
 | Yuanyuan Li |Flight| 
 | Zhuohan Li  |Taxi|
-| Chang Liu  |Hotel|
+| Chang Liu  |Hotel|https://csc-8104-chang-liu1-lcunique-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Jiankai Liu |Flight|
 | Pragalbh A. Mandaokar |Taxi| 
 | Rajesh V. Muthukrishnan |Hotel|
 | Omkar M. Patil |Flight| 
 | Adan T. Playil |Taxi|  
-| Rahul Rawat |Hotel| 
+| Rahul Rawat |Hotel| https://csc-8104-rahul-rawat-rawatr24-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Ronil Rodrigues |Flight| 
 | Prakriti Rout |Taxi| 
 | Hisham Salamathullah |Hotel| 
 | Ayush Sharma |Flight| 
-| Ao Shen |Taxi|
-| Yuqi Shen |Hotel|
+| Ao Shen |Taxi| http://myroute-shawn-2023-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
+| Yuqi Shen |Hotel| https://csc-8104-grover-shen-02-shenyuqi0701-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Gursharn K. Soni |Flight| 
-| Wei Sun |Taxi| 
+| Wei Sun |Taxi| https://csc-8104-eric-sun-a18647904983-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Qi Tong |Hotel|  
 | Anushri Vijayendra Kadaramandalagi |Flight| 
 | Pan Wang |Taxi| 
@@ -103,11 +103,11 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Wei Xie |Flight|
 | Zehua Xing |Taxi|
 | Xuanhua Yi |Hotel|
-| Zhiji Zhan |Flight|  
+| Zhiji Zhan |Flight|  https://csc-8104-zhiji-zhan-zhanzhiji0926-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Siming Zhang | Taxi | 
 | Guangzhen Zhou |Hotel|
 | Zilong Zhou |Flight| 
-| Xunxi Zou | Taxi |
+| Xunxi Zou | Taxi |http://zouxunxi-zouxunxi-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 |=======
 
 
