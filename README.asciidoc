@@ -102,9 +102,9 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Yifan Wu |Hotel|
 | Wei Xie |Flight| https://csc-8104-wei-xie-dragonx19-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Zehua Xing |Taxi|
-| Xuanhua Yi |Hotel|
+| Xuanhua Yi |Hotel| https://csc-8104-xuanhua-yi-flymetothemoon-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Zhiji Zhan |Flight|  https://csc-8104-zhiji-zhan-zhanzhiji0926-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
-| Siming Zhang | Taxi | 
+| Siming Zhang | Taxi | https://csc-8104-siming-zhang-coursework-simingzhang-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Guangzhen Zhou |Hotel|
 | Zilong Zhou |Flight| 
 | Xunxi Zou | Taxi |http://zouxunxi-zouxunxi-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
