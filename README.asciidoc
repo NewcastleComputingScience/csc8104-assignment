@@ -85,7 +85,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Jiankai Liu |Flight|
 | Pragalbh A. Mandaokar |Taxi| 
 | Rajesh V. Muthukrishnan |Hotel|
-| Omkar M. Patil |Flight| 
+| Omkar M. Patil |Flight| https://csc-8104-omkar-patil-omkar-15-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Adan T. Playil |Taxi|  
 | Rahul Rawat |Hotel| https://csc-8104-rahul-rawat-rawatr24-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Ronil Rodrigues |Flight| https://csc-8104-ronil-rodrigues-2-ronil74-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/q/swagger-ui/
@@ -105,7 +105,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Xuanhua Yi |Hotel| https://csc-8104-xuanhua-yi-flymetothemoon-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Zhiji Zhan |Flight|  https://csc-8104-zhiji-zhan-zhanzhiji0926-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Siming Zhang | Taxi | https://csc-8104-siming-zhang-coursework-simingzhang-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
-| Guangzhen Zhou |Hotel|
+| Guangzhen Zhou |Hotel| https://csc-8104-guangzhen-zhou-guangzhenzhou-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
 | Zilong Zhou |Flight| 
 | Xunxi Zou | Taxi |http://zouxunxi-zouxunxi-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 |=======
