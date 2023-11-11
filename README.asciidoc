@@ -69,7 +69,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Chuanrong Hong |Hotel| 
 | Chaojie Hou |Flight| https://csc-8104-chaojie-hou-chaojiehou-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Weixuan Huang |Taxi| https://csc-8104-weixuan-huang-tomats13-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
-| Xiao Jin |Hotel|
+| Xiao Jin |Hotel| https://part-3-new-xiaojin2023-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Pratyush Joshi |Flight|
 | Muhammed S. Kandakkeel |Taxi| https://csc-8104-muhammed-sufair-msufair-ncl-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Dhruv R. Krishnamachari |Hotel| https://csc-8104-dhruv-krishnamachari-2-dhruv-rajeshk-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
