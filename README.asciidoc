@@ -64,7 +64,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Tenghai Bi |Flight| 
 | Matthew Chapman |Taxi| https://csc-8104-matt-chapman-git-matt-chapman52-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Youheng Feng |Hotel| https://csc-8104-youheng-feng-youhengfeng-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
-| Mingchun Guan |Flight|
+| Mingchun Guan |Flight| https://csc-8104-mingchun-guan-g18155788939-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Haitao He |Taxi| https://csc-8104-haitao-he-git-harry-shat-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
 | Chuanrong Hong |Hotel| 
 | Chaojie Hou |Flight| https://csc-8104-chaojie-hou-chaojiehou-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
@@ -101,7 +101,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Pan Wang |Taxi| 
 | Yifan Wu |Hotel|
 | Wei Xie |Flight| https://csc-8104-wei-xie-dragonx19-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
-| Zehua Xing |Taxi|
+| Zehua Xing |Taxi| https://csc-8104-zehua-xing-eduant1-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Xuanhua Yi |Hotel| https://csc-8104-xuanhua-yi-flymetothemoon-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Zhiji Zhan |Flight|  https://csc-8104-zhiji-zhan-zhanzhiji0926-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Siming Zhang | Taxi | https://csc-8104-siming-zhang-coursework-simingzhang-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
