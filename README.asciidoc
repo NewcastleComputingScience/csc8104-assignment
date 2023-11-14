@@ -106,7 +106,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Zhiji Zhan |Flight|  https://csc-8104-zhiji-zhan-zhanzhiji0926-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Siming Zhang | Taxi | https://csc-8104-siming-zhang-coursework-simingzhang-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Guangzhen Zhou |Hotel| https://csc-8104-guangzhen-zhou-guangzhenzhou-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
-| Zilong Zhou |Flight| 
+| Zilong Zhou |Flight| https://csc-8104-zilong-zhou-f0rg1v3-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Xunxi Zou | Taxi |http://zouxunxi-zouxunxi-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 |=======
 
