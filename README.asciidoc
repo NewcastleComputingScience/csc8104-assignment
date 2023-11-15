@@ -79,12 +79,12 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Jian Lan |Flight| https://csc-8104-jian-lan-crt-13877661617-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Boyan Li |Taxi| https://csc-8104-boyan-li-git-boyanli-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/q/swagger-ui/
 | Xuening Li |Hotel| https://csc-8104-xuening-li-xuening-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
-| Yuanyuan Li |Flight| 
+| Yuanyuan Li |Flight| https://csc-8104-yuanyuan-li-sabrina17-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Zhuohan Li  |Taxi|
 | Chang Liu  |Hotel|https://csc-8104-chang-liu1-lcunique-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Jiankai Liu |Flight|
 | Pragalbh A. Mandaokar |Taxi| 
-| Rajesh V. Muthukrishnan |Hotel|
+| Rajesh V. Muthukrishnan |Hotel| https://csc-8104-vishaal-muthukrishnan-git-vishaalkrishnan-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Omkar M. Patil |Flight| https://csc-8104-omkar-patil-omkar-15-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Adan T. Playil |Taxi|  
 | Rahul Rawat |Hotel| https://csc-8104-rahul-rawat-rawatr24-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
@@ -92,7 +92,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Prakriti Rout |Taxi| 
 | Hisham Salamathullah |Hotel| https://csc-8104-hisham-salamathullah-git-hishamsalamath-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Ayush Sharma |Flight| 
-| Ao Shen |Taxi| http://myroute-shawn-2023-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
+| Ao Shen |Taxi| https://csc-8104-shawn-shen-shawn-2023-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Yuqi Shen |Hotel| https://csc-8104-grover-shen-02-shenyuqi0701-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Gursharn K. Soni |Flight| https://csc-8104-gursharn-kaur-git-gursharnsoni2022-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Wei Sun |Taxi| https://csc-8104-eric-sun-a18647904983-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
