@@ -70,7 +70,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Chaojie Hou |Flight| https://csc-8104-chaojie-hou-chaojiehou-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Weixuan Huang |Taxi| https://csc-8104-weixuan-huang-tomats13-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Xiao Jin |Hotel| https://part-3-new-xiaojin2023-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
-| Pratyush Joshi |Flight| https://csc-8104-pratyush-joshi-joshi-pratyush14-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
+| Pratyush Joshi |Flight| https://csc-8104-pratyush-joshi-joshi-pratyush14-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Muhammed S. Kandakkeel |Taxi| https://csc-8104-muhammed-sufair-msufair-ncl-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Dhruv R. Krishnamachari |Hotel| https://csc-8104-dhruv-krishnamachari-2-dhruv-rajeshk-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Amrit Kumar |Flight| https://csc-8104-amrit-kumar-v1-amrit27kmr-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/q/swagger-ui/
@@ -83,11 +83,11 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Zhuohan Li  |Taxi|
 | Chang Liu  |Hotel|https://csc-8104-chang-liu1-lcunique-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 | Jiankai Liu |Flight|
-| Pragalbh A. Mandaokar |Taxi| 
+| Pragalbh A. Mandaokar |Taxi| https://csc-8104-pragalbh-mandaokar-git1-pragalbh17-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Rajesh V. Muthukrishnan |Hotel| https://csc-8104-vishaal-muthukrishnan-git-vishaalkrishnan-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Omkar M. Patil |Flight| https://csc-8104-omkar-patil-omkar-15-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Adan T. Playil |Taxi|  
-| Rahul Rawat |Hotel| https://csc-8104-rahul-rawat-rawatr24-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
+| Rahul Rawat |Hotel| https://csc-8104-rahul-rawat1-rawatr24-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Ronil Rodrigues |Flight| https://csc-8104-ronil-rodrigues-2-ronil74-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/q/swagger-ui/
 | Prakriti Rout |Taxi| https://csc-8104-prakriti-rout40-routprakriti-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Hisham Salamathullah |Hotel| https://csc-8104-hisham-salamathullah-git-hishamsalamath-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
