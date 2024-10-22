@@ -1,6 +1,6 @@
 = CSC8104 Introduction
 
-The module learning outcomes, and intended skill outcomes can be found on the link:http://www.ncl.ac.uk/undergraduate/modules/csc8104/[Enterprise Middleware page].
+The module learning outcomes, and intended skill outcomes can be found on the link:https://www.ncl.ac.uk/postgraduate/degrees/module/?code=CSC8104[Enterprise Middleware page].
 
 To complete this coursework you *MUST* first complete the tutorial document and then move onto the coursework document.
 
