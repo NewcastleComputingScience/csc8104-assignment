@@ -93,6 +93,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Miaofei Wang |Hotel| 
 | Jiawen Yao |Flight| 
 | Jiaqi Yu |Taxi| 
+| Wenhao Bao | Hotel |
 |=======
 
 
