@@ -57,25 +57,25 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Student Name | Service Type | Service Location
 | Rozana H.S. Almohammadi |Flight|
 | Shubh Anand |Taxi| 
-| Ayah Arafat |Hotel|
+| Ayah Arafat |Hotel| https://csc-8104-ayah-arafat-ajarafat-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Amlan J. Baruah |Flight|
-| Yiming Duan |Taxi| 
-| Zirui Fu |Hotel| 
+| Yiming Duan |Taxi| https://csc-8104-amy-duan-c3009791-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
+| Zirui Fu |Hotel| https://csc-8104-zirui-fu-git-sonoarui-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
 | Yash S. Gadodia |Flight| 
 | Ayantika Ghosh |Taxi| 
 | Fidan Gurbanova |Hotel| 
-| Bin He |Flight| 
+| Bin He |Flight| https://csc-8104-bin-he-c3005284-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Ruiling HE |Taxi| 
-| Wenteng Huyan |Hotel|
+| Wenteng Huyan |Hotel| https://csc-8104-wenteng-huyan-wentenghuyan2-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/ 
 | Karthikeyan Karuppaiah |Flight|
-| Filip Kovarik |Taxi| 
+| Filip Kovarik |Taxi| https://csc-8104-filip-kovarik3-filipkovarik6-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Longxin Li |Hotel| 
 | Luoqi Li |Flight| 
-| Zesheng Lu |Taxi| 
+| Zesheng Lu |Taxi| https://csc-8104-zesheng-lu-git-zeshenglu-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/.
 | Vibhav S. Mahajan |Hotel| 
-| Linlun Meng |Flight|
+| Linlun Meng |Flight| https://csc-8104-calvin-for-ai-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Jhostin Ocampo Velez |Taxi| 
-| Aryaman Patronia |Hotel|
+| Aryaman Patronia |Hotel| https://csc-8104-aryaman-patronia-aryamanpatronia-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
 | Amey B. Pednekar |Flight| 
 | Joao T. Pereira Gollnick |Taxi|
 | Shobika Rajeskanna |Hotel| 
@@ -86,13 +86,13 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Xusheng Song |Taxi|  
 | Aravind S. Sundaram |Hotel| 
 | Tanapon Suwankesawong |Flight| 
-| Wen Tang |Taxi| 
+| Wen Tang |Taxi| https://csc-8104-wen-tang-wentangtw-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Aniket D. Thorat |Hotel| 
 | Dewa Udayana |Flight| 
 | Deeksha Wadhwa |Taxi| 
-| Miaofei Wang |Hotel| 
+| Miaofei Wang |Hotel| https://csc-8104-hazel-wang-miaofeiwang-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
 | Jiawen Yao |Flight| 
-| Jiaqi Yu |Taxi| 
+| Jiaqi Yu |Taxi| https://csc-8104-jiaqi-yu-jiaqi-yu-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
 | Wenhao Bao | Hotel |
 |=======
 
