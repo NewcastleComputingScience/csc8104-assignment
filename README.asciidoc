@@ -62,14 +62,14 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Yiming Duan |Taxi| https://csc-8104-amy-duan-c3009791-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Zirui Fu |Hotel| https://csc-8104-zirui-fu-git-sonoarui-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
 | Yash S. Gadodia |Flight| 
-| Ayantika Ghosh |Taxi| 
+| Ayantika Ghosh |Taxi| https://csc-8104-ayantika-ghosh-git-iamayantika-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Fidan Gurbanova |Hotel| 
 | Bin He |Flight| https://csc-8104-bin-he-c3005284-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Ruiling HE |Taxi| 
 | Wenteng Huyan |Hotel| https://csc-8104-wenteng-huyan-wentenghuyan2-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/ 
 | Karthikeyan Karuppaiah |Flight|
 | Filip Kovarik |Taxi| https://csc-8104-filip-kovarik3-filipkovarik6-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
-| Longxin Li |Hotel| 
+| Longxin Li |Hotel| https://csc-8104-longxin-li-longxinxll-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
 | Luoqi Li |Flight| 
 | Zesheng Lu |Taxi| https://csc-8104-zesheng-lu-git-zeshenglu-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/.
 | Vibhav S. Mahajan |Hotel| 
@@ -88,7 +88,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Tanapon Suwankesawong |Flight| 
 | Wen Tang |Taxi| https://csc-8104-wen-tang-wentangtw-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Aniket D. Thorat |Hotel| 
-| Dewa Udayana |Flight| 
+| Dewa Udayana |Flight| https://csc-8104-dewa-udayana-cikiprik-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Deeksha Wadhwa |Taxi| 
 | Miaofei Wang |Hotel| https://csc-8104-hazel-wang-miaofeiwang-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
 | Jiawen Yao |Flight| 
