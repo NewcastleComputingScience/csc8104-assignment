@@ -58,7 +58,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Rozana H.S. Almohammadi |Flight| https://csc-8104-rozana-almohammadi-rozhm-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
 | Shubh Anand |Taxi| 
 | Ayah Arafat |Hotel| https://csc-8104-ayah-arafat-ajarafat-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
-| Amlan J. Baruah |Flight|
+| Amlan J. Baruah |Flight| https://csc-8104-amlan-baruah-amlan-baruah-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
 | Yiming Duan |Taxi| https://csc-8104-amy-duan-c3009791-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Zirui Fu |Hotel| https://csc-8104-zirui-fu-git-sonoarui-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
 | Yash S. Gadodia |Flight| 
@@ -91,7 +91,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Dewa Udayana |Flight| https://csc-8104-dewa-udayana-cikiprik-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Deeksha Wadhwa |Taxi| https://csc-8104-deeksha-wadhwa-v-2-d-wadhwa2-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger/ui
 | Miaofei Wang |Hotel| https://csc-8104-hazel-wang-miaofeiwang-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
-| Jiawen Yao |Flight| 
+| Jiawen Yao |Flight| https://csc-8104-jiawen-yao-yaojiawen-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Jiaqi Yu |Taxi| https://csc-8104-jiaqi-yu-jiaqi-yu-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
 | Wenhao Bao | Hotel |
 |=======
