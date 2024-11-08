@@ -61,7 +61,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Amlan J. Baruah |Flight| https://csc-8104-amlan-baruah-amlan-baruah-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
 | Yiming Duan |Taxi| https://csc-8104-amy-duan-c3009791-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Zirui Fu |Hotel| https://csc-8104-zirui-fu-git-sonoarui-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
-| Yash S. Gadodia |Flight| 
+| Yash S. Gadodia |Flight| https://csc-8104-yash-gadodia-yashgadodia-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Ayantika Ghosh |Taxi| https://csc-8104-ayantika-ghosh-git-iamayantika-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
 | Fidan Gurbanova |Hotel| 
 | Bin He |Flight| https://csc-8104-bin-he-c3005284-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
@@ -72,28 +72,28 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Longxin Li |Hotel| https://csc-8104-longxin-li-longxinxll-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
 | Luoqi Li |Flight| 
 | Zesheng Lu |Taxi| https://csc-8104-zesheng-lu-git-zeshenglu-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/.
-| Vibhav S. Mahajan |Hotel| 
+| Vibhav S. Mahajan |Hotel| https://csc-8104-vibhav-mahajan-masterflux-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/#/
 | Linlun Meng |Flight| https://csc-8104-calvin-for-ai-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Jhostin Ocampo Velez |Taxi| https://csc-8104-jhostin-velez-git-jhostinocampo-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Aryaman Patronia |Hotel| https://csc-8104-aryaman-patronia-aryamanpatronia-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
-| Amey B. Pednekar |Flight| 
+| Amey B. Pednekar |Flight| https://csc-8104-amey-pednekar-ameypednekar2705-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
 | Joao T. Pereira Gollnick |Taxi|
-| Shobika Rajeskanna |Hotel| 
+| Shobika Rajeskanna |Hotel| https://csc-8104-shobika-rajeskanna-s-rajeskanna2-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Gokul Rasappan |Flight| 
 | Jeevananthan Sasikumar |Taxi|
 | Samuel P. Sathiyamoorthy |Hotel|
-| Sanjana T. Shahu |Flight| 
+| Sanjana T. Shahu |Flight| https://csc-8104-sanjana-shahu-sanjana862-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Xusheng Song |Taxi|  
 | Aravind S. Sundaram |Hotel| 
 | Tanapon Suwankesawong |Flight| https://csc-8104-tanapon-suwankesawong-git-mezmye-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
 | Wen Tang |Taxi| https://csc-8104-wen-tang-wentangtw-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
-| Aniket D. Thorat |Hotel| https://csc-8104-aniket-thorat-git-ani20ket-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
+| Aniket D. Thorat |Hotel| https://csc-8104-aniket-thorat-ani20ket-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Dewa Udayana |Flight| https://csc-8104-dewa-udayana-cikiprik-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Deeksha Wadhwa |Taxi| https://csc-8104-deeksha-wadhwa-v-2-d-wadhwa2-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger/ui
 | Miaofei Wang |Hotel| https://csc-8104-hazel-wang-miaofeiwang-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
 | Jiawen Yao |Flight| https://csc-8104-jiawen-yao-yaojiawen-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Jiaqi Yu |Taxi| https://csc-8104-jiaqi-yu-jiaqi-yu-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
-| Wenhao Bao | Hotel |
+| Wenhao Bao | Hotel | https://csc-8104-wenhao-bao-bowiebaowenhao-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
 |=======
 
 
