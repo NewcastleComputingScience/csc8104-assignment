@@ -56,14 +56,14 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 |=====
 | Student Name | Service Type | Service Location
 | Rozana H.S. Almohammadi |Flight| https://csc-8104-rozana-almohammadi-rozhm-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
-| Shubh Anand |Taxi| 
+| Shubh Anand |Taxi| https://csc-8104-shubh-anand-shubh-anand-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Ayah Arafat |Hotel| https://csc-8104-ayah-arafat-ajarafat-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
 | Amlan J. Baruah |Flight| https://csc-8104-amlan-baruah-amlan-baruah-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
 | Yiming Duan |Taxi| https://csc-8104-amy-duan-c3009791-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Zirui Fu |Hotel| https://csc-8104-zirui-fu-git-sonoarui-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
 | Yash S. Gadodia |Flight| https://csc-8104-yash-gadodia-yashgadodia-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Ayantika Ghosh |Taxi| https://csc-8104-ayantika-ghosh-git-iamayantika-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
-| Fidan Gurbanova |Hotel| 
+| Fidan Gurbanova |Hotel| https://csc-8104-fidan-gurbanova-git-fiqurbanova-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Bin He |Flight| https://csc-8104-bin-he-c3005284-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Ruiling HE |Taxi| https://csc-8104-ruiling-he-rlingh-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/q/swagger-ui/
 | Wenteng Huyan |Hotel| https://csc-8104-wenteng-huyan-wentenghuyan2-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/ 
@@ -77,7 +77,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Jhostin Ocampo Velez |Taxi| https://csc-8104-jhostin-velez-git-jhostinocampo-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Aryaman Patronia |Hotel| https://csc-8104-aryaman-patronia-aryamanpatronia-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
 | Amey B. Pednekar |Flight| https://csc-8104-amey-pednekar-ameypednekar2705-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
-| Joao T. Pereira Gollnick |Taxi|
+| Joao T. Pereira Gollnick |Taxi| https://csc-8104-tadeu-gollnick4-tadgoll-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
 | Shobika Rajeskanna |Hotel| https://csc-8104-shobika-rajeskanna-s-rajeskanna2-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
 | Gokul Rasappan |Flight| 
 | Jeevananthan Sasikumar |Taxi|
