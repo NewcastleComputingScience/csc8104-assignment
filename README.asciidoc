@@ -55,46 +55,48 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 [options="header"]
 |=====
 | Student Name | Service Type | Service Location
-| Rozana H.S. Almohammadi |Flight| https://csc-8104-rozana-almohammadi-rozhm-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
-| Shubh Anand |Taxi| https://csc-8104-shubh-anand-shubh-anand-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
-| Ayah Arafat |Hotel| https://csc-8104-ayah-arafat-ajarafat-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
-| Amlan J. Baruah |Flight| https://csc-8104-amlan-baruah-amlan-baruah-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
-| Yiming Duan |Taxi| https://csc-8104-amy-duan-c3009791-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
-| Zirui Fu |Hotel| https://csc-8104-zirui-fu-git-sonoarui-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
-| Yash S. Gadodia |Flight| https://csc-8104-yash-gadodia-yashgadodia-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
-| Ayantika Ghosh |Taxi| https://csc-8104-ayantika-ghosh-git-iamayantika-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
-| Fidan Gurbanova |Hotel| https://csc-8104-fidan-gurbanova-git-fiqurbanova-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
-| Bin He |Flight| https://csc-8104-bin-he-c3005284-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
-| Ruiling HE |Taxi| https://csc-8104-ruiling-he-rlingh-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/q/swagger-ui/
-| Wenteng Huyan |Hotel| https://csc-8104-wenteng-huyan-wentenghuyan2-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/ 
-| Karthikeyan Karuppaiah |Flight|
-| Filip Kovarik |Taxi| https://csc-8104-filip-kovarik3-filipkovarik6-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
-| Longxin Li |Hotel| https://csc-8104-longxin-li-longxinxll-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
-| Luoqi Li |Flight| https://csc-8104-rocky-li-jeager1208-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
-| Zesheng Lu |Taxi| https://csc-8104-zesheng-lu-git-zeshenglu-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/.
-| Vibhav S. Mahajan |Hotel| https://csc-8104-vibhav-mahajan-masterflux-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/#/
-| Linlun Meng |Flight| https://csc-8104-calvin-for-ai-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
-| Jhostin Ocampo Velez |Taxi| https://csc-8104-jhostin-velez-git-jhostinocampo-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
-| Aryaman Patronia |Hotel| https://csc-8104-aryaman-patronia-aryamanpatronia-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
-| Amey B. Pednekar |Flight| https://csc-8104-amey-pednekar-ameypednekar2705-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
-| Joao T. Pereira Gollnick |Taxi| https://csc-8104-tadeu-gollnick4-tadgoll-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
-| Shobika Rajeskanna |Hotel| https://csc-8104-shobika-rajeskanna-s-rajeskanna2-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
-| Gokul Rasappan |Flight| 
-| Jeevananthan Sasikumar |Taxi|
-| Samuel P. Sathiyamoorthy |Hotel|
-| Sanjana T. Shahu |Flight| https://csc-8104-sanjana-shahu-sanjana862-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
-| Xusheng Song |Taxi|  
-| Aravind S. Sundaram |Hotel| 
-| Tanapon Suwankesawong |Flight| https://csc-8104-tanapon-suwankesawong-git-mezmye-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
-| Wen Tang |Taxi| https://csc-8104-wen-tang-wentangtw-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
-| Aniket D. Thorat |Hotel| https://csc-8104-aniket-thorat-ani20ket-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/
-| Dewa Udayana |Flight| https://csc-8104-dewa-udayana-cikiprik-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
-| Deeksha Wadhwa |Taxi| https://csc-8104-deeksha-wadhwa-v-2-d-wadhwa2-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/q/swagger-ui/
-| Miaofei Wang |Hotel| https://csc-8104-hazel-wang-miaofeiwang-dev.apps.sandbox-m3.1530.p1.openshiftapps.com
-| Jiawen Yao |Flight| https://csc-8104-jiawen-yao-yaojiawen-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/
-| Jiaqi Yu |Taxi| https://csc-8104-jiaqi-yu-jiaqi-yu-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com
-| Wenhao Bao | Hotel | https://csc-8104-wenhao-bao-bowiebaowenhao-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/q/swagger-ui/
+| Alden P.A |Flight| 
+| Mashael A.A. Alqsayer |Taxi| 
+| Pandurang Arun Vajramatti |Hotel|
+| Vipul S. Bagal |Flight| 
+| Siddhant Bhasin |Taxi| 
+| SHANTANU R. CHAUDHARY |Hotel|
+| Ben Clough |Flight|
+| Swapnil Dalavi |Taxi|
+| Xiangtian Deng |Hotel|
+| Chhagan S. Gavit |Flight|
+| Weihan Hu |Taxi|
+| Karthick Keeranagere Krishnaiah |Hotel|
+| Animesh Kumar |Flight|
+| Mayank S. Kunwar |Taxi|
+| Aaditya A. Kute |Hotel|
+| Haodong Li |Flight| 
+| VARSHA MAHADEVAPPA |Taxi| 
+| Bhushan S. Mali |Hotel|
+| Siddhesh Mishra |Flight| 
+| Kaylum F. Moir |Taxi| 
+| Ho Y. MONG |Hotel|
+| Aniket V. Nalawade |Flight|
+| Suhas S. Nale |Taxi| 
+| Paritosh P. Pal |Hotel|
+| Rishabh V. Patle |Flight| 
+| Syed M. Raheeb |Taxi|
+| Manish D. Rane |Hotel|
+| Matthew Rollings |Flight| 
+| Shivani A. Salunkhe |Taxi|  
+| Mingyuan SHAO |Hotel| 
+| KHWAJA N. SHOUKATH BASHEER |Flight| 
+| DEEPAL S. THAKUR |Taxi| 
+| Neha Thipperudrappa |Hotel|
+| Jack M. Towler |Flight|
+| Chaithanya Virupaksha |Taxi|
+| Ewan Walker |Hotel|
+| Jason Walker |Flight| 
+| Zhenpeng Xie |Taxi|
+| Vinit V. Yewale | Hotel |
+| Qianqian Zhang | Flight |
 |=======
+
 
 
 IMPORTANT: If your name does not appear in the allocation list please contact Adam Booth at a.booth2@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
