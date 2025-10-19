@@ -1,6 +1,6 @@
 = CSC8104 Introduction
 
-The module learning outcomes, and intended skill outcomes can be found on the link:https://www.ncl.ac.uk/postgraduate/degrees/module/?code=CSC8104[Enterprise Middleware page].
+The module learning outcomes, and intended skill outcomes can be found on the link:https://www.ncl.ac.uk/postgraduate/degrees/module/?code=CSC8104[Enterprise Software and Services page].
 
 To complete this coursework you *MUST* first complete the tutorial document and then move onto the coursework document.
 
@@ -26,9 +26,9 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 == Course Teacher Profiles
 
-*Module (Course) Leader*: *Dr Ellis Solaiman* is the Enterprise Middleware module (course) leader, and also leads a number of courses at the school of Computing Science, Newcastle University including the MSc final Project and Dissertation. He obtained his PhD in Computing Science from Newcastle University in 2004. His research interests are related mainly to the management of distributed systems (Cloud and IoT), trust, and Computer Science Education.
+*Module (Course) Leader*: *Dr Ellis Solaiman* is the Enterprise Software and Services module (course) leader, and also leads a number of courses at the school of Computing Science, Newcastle University including the MSc final Project and Dissertation. He obtained his PhD in Computing Science from Newcastle University in 2004. His research interests are related mainly to the management of distributed systems (Cloud and IoT), trust, and Computer Science Education.
 
-*Lead Demonstrator:* *Adam Booth* is a final year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching the application of machine learning and blockchain technologies to geospatial systems. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Middleware course.
+*Lead Demonstrator:* *Adam Booth* is a final year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching the application of machine learning and blockchain technologies to geospatial systems. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Software and Services course.
 
 *Demonstrator:* *Kobby Adu-Duodu* is a third year year PhD student at the School of Computing, Newcastle Univeristy. His research interests lie in the development of ontology and Blockchain solutions within Circular Supply Chains. 
 
@@ -36,9 +36,9 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Demonstrator:* *Xinyuan Liu* is a 3rd year PhD student in Computer Science at Newcastle University, UK. 
 
-*Industry (Red Hat) Lead:* *Dr Adam Cattermole* is a Software Engineer at Red Hat. Prior to this role, Adam Completed a PhD at Newcastle University School of Computing where he was also lead demonstrator on the Enterprise Middleware module. 
+*Industry (Red Hat) Lead:* *Dr Adam Cattermole* is a Software Engineer at Red Hat. Prior to this role, Adam Completed a PhD at Newcastle University School of Computing where he was also lead demonstrator on the Enterprise Software and Services module. 
 
-*Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Software Engineering Manager at Red Hat and manages the Engineering team for Red Hat's Developer Program. Prior to this role, Paul was a Principal Software Engineer on JBoss EAP working on the Transaction Manager service. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Middleware coursework for over 10 years.
+*Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Software Engineering Manager at Red Hat and manages the Engineering team for Red Hat's Developer Program. Prior to this role, Paul was a Principal Software Engineer on JBoss EAP working on the Transaction Manager service. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Software and Services coursework for over 10 years.
 
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
