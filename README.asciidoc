@@ -28,17 +28,19 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Module (Course) Leader*: *Dr Ellis Solaiman* is the Enterprise Software and Services module (course) leader, and also leads a number of courses at the school of Computing Science, Newcastle University including the MSc final Project and Dissertation. He obtained his PhD in Computing Science from Newcastle University in 2004. His research interests are related mainly to the management of distributed systems (Cloud and IoT), trust, and Computer Science Education.
 
-*Lead Demonstrator:* *Adam Booth* is a final year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching the application of machine learning and blockchain technologies to geospatial systems. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Software and Services course.
+*Lead Demonstrator:* *Adam Booth* is a final year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching AI in Smart Cities. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Software and Services course.
 
-*Demonstrator:* *Kobby Adu-Duodu* is a third year year PhD student at the School of Computing, Newcastle Univeristy. His research interests lie in the development of ontology and Blockchain solutions within Circular Supply Chains. 
+*Demonstrator:* *Kobby Adu-Duodu* is a final year PhD student at the School of Computing, Newcastle University. His research interests lie in the development of ontology and Blockchain solutions within Circular Supply Chains. 
 
-*Demonstrator:* *Maryam Mosleh* is a first year PhD student and PGTA (Post Graduate Teaching Assistant) at the School of Computing, Newcastle Univeristy. 
+*Demonstrator:* *Maryam Mosleh* is a second year PhD student and PGTA (Post Graduate Teaching Assistant) at the School of Computing, Newcastle University. 
 
-*Demonstrator:* *Xinyuan Liu* is a 3rd year PhD student in Computer Science at Newcastle University, UK. 
+*Demonstrator:* *Xinyuan Liu* is a final year PhD student in Computer Science at Newcastle University, UK. 
+
+*Demonstrator:* *Ollie Fox* is a third year PhD student at the School of Computing, Newcastle University. His research interests lie in Verified and Explainable AI, investigating the AI hallucination problem.
+
+*Demonstrator:* *Mayson Mohammad Talab Al-Jassim* is a second-year PhD researcher working on designing a protocol that delivers distributed messages in the same sequence across all replicas in a distributed system, ensuring consistency between replicas for fault-tolerant operation.
 
 *Industry (Red Hat) Lead:* *Dr Adam Cattermole* is a Software Engineer at Red Hat. Prior to this role, Adam Completed a PhD at Newcastle University School of Computing where he was also lead demonstrator on the Enterprise Software and Services module. 
-
-*Industry (Red Hat) Lead:* *Dr Paul Robinson* is a Software Engineering Manager at Red Hat and manages the Engineering team for Red Hat's Developer Program. Prior to this role, Paul was a Principal Software Engineer on JBoss EAP working on the Transaction Manager service. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Software and Services coursework for over 10 years.
 
 == Finally
 Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
