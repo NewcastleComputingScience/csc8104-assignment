@@ -64,41 +64,41 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Siddhant Bhasin |Taxi| 
 | SHANTANU R. CHAUDHARY |Hotel|
 | Ben Clough |Flight|
-| Swapnil Dalavi |Taxi|
+| Swapnil Dalavi |Taxi| https://csc-8104-nick-dalavi-nick-davis-dev.apps.rm1.0a51.p1.openshiftapps.com/
 | Xiangtian Deng |Hotel|
 | Chhagan S. Gavit |Flight|
 | Weihan Hu |Taxi|
-| Karthick Keeranagere Krishnaiah |Hotel|
+| Karthick Keeranagere Krishnaiah |Hotel| https://csc-8104-karthick-krishnaiah-c5018065-karthick-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
 | Animesh Kumar |Flight|
 | Mayank S. Kunwar |Taxi| https://csc-8104-mayank-kunwar-crt-9690097516-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
 | Aaditya A. Kute |Hotel|
 | Haodong Li |Flight| 
 | VARSHA MAHADEVAPPA |Taxi| 
-| Bhushan S. Mali |Hotel|
+| Bhushan S. Mali |Hotel| https://csc-8104-swami-mali-bhushanmaliukgmail-c-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
 | Siddhesh Mishra |Flight| 
 | Kaylum F. Moir |Taxi| 
 | Ho Y. MONG |Hotel|
 | Aniket V. Nalawade |Flight|
-| Suhas S. Nale |Taxi| 
-| Paritosh P. Pal |Hotel|
-| Rishabh V. Patle |Flight| 
-| Syed M. Raheeb |Taxi|
+| Suhas S. Nale |Taxi| https://csc-8104-suhas-nale-suhasncl2025-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
+| Paritosh P. Pal |Hotel| https://csc-8104-paritosh-pal-1-paritoshpal-dev.apps.rm3.7wse.p1.openshiftapps.com/
+| Rishabh V. Patle |Flight| https://csc-8104-rishabh-patle-r-v-patle2-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
+| Syed M. Raheeb |Taxi| https://csc-8104-syed-raheeb-syedraheeb63-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
 | Manish D. Rane |Hotel|
 | Matthew Rollings |Flight| 
 | Shivani A. Salunkhe |Taxi|  
-| Mingyuan SHAO |Hotel| 
+| Mingyuan SHAO |Hotel| https://csc-8104-mingyuan-shao-shao-middleware-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/#/
 | KHWAJA N. SHOUKATH BASHEER |Flight| 
-| DEEPAL S. THAKUR |Taxi| 
-| Neha Thipperudrappa |Hotel|
+| DEEPAL S. THAKUR |Taxi| https://csc-8104-deepal-thakur-deepalthakur-dev.apps.rm1.0a51.p1.openshiftapps.com/q/swagger-ui/
+| Neha Thipperudrappa |Hotel| https://csc-8104-neha-thipperudrappa-nehathipperudrappa-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
 | Jack M. Towler |Flight|
-| Chaithanya Virupaksha |Taxi|
+| Chaithanya Virupaksha |Taxi| https://csc-8104-chaithanya-virupaksha-chai-6699-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
 | Ewan Walker |Hotel|
 | Jason Walker |Flight| 
 | Zhenpeng Xie |Taxi|
 | Vinit V. Yewale | Hotel |
 | Qianqian Zhang | Flight |
 | Sushma Parashuramappa | Taxi |
-| Swapnil Sagar | Hotel |
+| Swapnil Sagar | Hotel | https://csc-8104-swapnil-sagar-swapnilsagar-dev.apps.rm1.0a51.p1.openshiftapps.com/q/swagger-ui/
 |=======
 
 
