@@ -66,7 +66,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Ben Clough |Flight|
 | Swapnil Dalavi |Taxi| https://csc-8104-nick-dalavi-nick-davis-dev.apps.rm1.0a51.p1.openshiftapps.com/
 | Xiangtian Deng |Hotel|
-| Chhagan S. Gavit |Flight|
+| Chhagan S. Gavit |Flight| https://csc-8104-chhagan-gavit-c5061623-dev.apps.rm1.0a51.p1.openshiftapps.com/q/swagger-ui/
 | Weihan Hu |Taxi|
 | Karthick Keeranagere Krishnaiah |Hotel| https://csc-8104-karthick-krishnaiah-c5018065-karthick-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
 | Animesh Kumar |Flight|
@@ -97,7 +97,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Zhenpeng Xie |Taxi|
 | Vinit V. Yewale | Hotel |
 | Qianqian Zhang | Flight |
-| Sushma Parashuramappa | Taxi |
+| Sushma Parashuramappa | Taxi | https://csc-8104-sushma-parashuramappa-sushmasingahallipara-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
 | Swapnil Sagar | Hotel | https://csc-8104-swapnil-sagar-swapnilsagar-dev.apps.rm1.0a51.p1.openshiftapps.com/q/swagger-ui/
 |=======
 
