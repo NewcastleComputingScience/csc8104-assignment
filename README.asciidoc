@@ -13,7 +13,7 @@ You may also https://www.youtube.com/watch?v=2SkR8hDCpvA[watch this video] to se
 Many steps of the tutorial and video concern the environment setup necessary to undertake the coursework on your own machines. This year much of this setup has been performed for you on university machines.
 If you are solely using a university machine to perform the coursework, you should complete only the subsections of the https://github.com/NewcastleComputingScience/CSC8104-Quarkus-Specification/blob/main/tutorial.asciidoc[tutorial] which are highlighted as necessary for *all students*.
 
-IMPORTANT: Immediately after you create your GitHub account and Red Hat Developers account, email Adam Booth at (a.booth2@ncl.ac.uk) with your name, email address, GitHub username and Red Hat Login ID.
+IMPORTANT: Immediately after you create your GitHub account and Red Hat Developers account, email Adam Booth at (adam.booth@newcastle.ac.uk) with your name, email address, GitHub username and Red Hat Login ID.
 Adam will then create your private repository. You will then receive an email informing you of the details once everything is ready.
 
 
@@ -28,7 +28,7 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Module (Course) Leader*: *Dr Ellis Solaiman* is the Enterprise Software and Services module (course) leader, and also leads a number of courses at the school of Computing Science, Newcastle University including the MSc final Project and Dissertation. He obtained his PhD in Computing Science from Newcastle University in 2004. His research interests are related mainly to the management of distributed systems (Cloud and IoT), trust, and Computer Science Education.
 
-*Lead Demonstrator:* *Adam Booth* is a final year PhD student with the Centre for Doctoral Training in Geospatial Systems and is currently researching AI in Smart Cities. Adam has studied at Newcastle University, undertaking CSC8104 as a postgraduate student. He is currently the head demonstrator on the Enterprise Software and Services course.
+*Lead Demonstrator:* *Dr Adam Booth* is a Research Software Engineer at the National Edge AI Hub at Newcastle University. He previously completed his PhD researching the application of AI in Smart Cities. Having previously studied CSC8104 as a postgraduate student at Newcastle University, Adam is now the Head Demonstrator for the Enterprise Software and Services course.
 
 *Demonstrator:* *Kobby Adu-Duodu* is a final year PhD student at the School of Computing, Newcastle University. His research interests lie in the development of ontology and Blockchain solutions within Circular Supply Chains. 
 
@@ -50,57 +50,60 @@ Discussion Boards will also be available for CSC8104 in Canvas (http://canvas.nc
 In particular, notice the https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/frequentlyaskedquestions.asciidoc#i-cant-work-out-how-to-do-[answer] which refers to documentation. The use of 3rd party documentation is absolutely *essential* throughout this coursework, and demonstrators may often answer questions by pointing you to the relevant websites.
 
 TIP: If you see a question on the discussion boards you know how to answer, we strongly encourage you to assist your colleagues!
-
-
 == Allocation List
 
 [options="header"]
 |=====
 | Student Name | Service Type | Service Location
-| Alden P.A |Flight| 
-| Mashael A.A. Alqsayer |Taxi| 
-| Pandurang Arun Vajramatti |Hotel|
-| Vipul S. Bagal |Flight| 
-| Siddhant Bhasin |Taxi| 
-| SHANTANU R. CHAUDHARY |Hotel|
-| Ben Clough |Flight|
-| Swapnil Dalavi |Taxi| https://csc-8104-nick-dalavi-nick-davis-dev.apps.rm1.0a51.p1.openshiftapps.com/
-| Xiangtian Deng |Hotel|
-| Chhagan S. Gavit |Flight| https://csc-8104-chhagan-gavit-c5061623-dev.apps.rm1.0a51.p1.openshiftapps.com/q/swagger-ui/
-| Weihan Hu |Taxi| https://csc-8104-weihan-hu1-weihan-hu-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
-| Karthick Keeranagere Krishnaiah |Hotel| https://csc-8104-karthick-krishnaiah-c5018065-karthick-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
-| Animesh Kumar |Flight|
-| Mayank S. Kunwar |Taxi| https://csc-8104-mayank-kunwar-crt-9690097516-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
-| Aaditya A. Kute |Hotel|
-| Haodong Li |Flight| 
-| VARSHA MAHADEVAPPA |Taxi| 
-| Bhushan S. Mali |Hotel| https://csc-8104-swami-mali-bhushanmaliukgmail-c-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
-| Siddhesh Mishra |Flight| 
-| Kaylum F. Moir |Taxi| 
-| Ho Y. MONG |Hotel|
-| Aniket V. Nalawade |Flight|
-| Suhas S. Nale |Taxi| https://csc-8104-suhas-nale-suhasncl2025-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
-| Paritosh P. Pal |Hotel| https://csc-8104-paritosh-pal-1-paritoshpal-dev.apps.rm3.7wse.p1.openshiftapps.com/
-| Rishabh V. Patle |Flight| https://csc-8104-rishabh-patle-r-v-patle2-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
-| Syed M. Raheeb |Taxi| https://csc-8104-syed-raheeb-syedraheeb63-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
-| Manish D. Rane |Hotel|
-| Matthew Rollings |Flight| https://csc-8104-matt-rollings-mroll-newc-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
-| Shivani A. Salunkhe |Taxi|  
-| Mingyuan SHAO |Hotel| https://csc-8104-mingyuan-shao-shao-middleware-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/#/
-| KHWAJA N. SHOUKATH BASHEER |Flight| https://csc-8104-khwaja-basheer-git-khwaja786-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
-| DEEPAL S. THAKUR |Taxi| https://csc-8104-deepal-thakur-deepalthakur-dev.apps.rm1.0a51.p1.openshiftapps.com/q/swagger-ui/
-| Neha Thipperudrappa |Hotel| https://csc-8104-neha-thipperudrappa-nehathipperudrappa-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
-| Jack M. Towler |Flight|
-| Chaithanya Virupaksha |Taxi| https://csc-8104-chaithanya-virupaksha-chai-6699-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
-| Ewan Walker |Hotel|
-| Jason Walker |Flight| 
-| Zhenpeng Xie |Taxi|
-| Vinit V. Yewale | Hotel | https://csc-8104-vinit-yewale-vinit7-dev.apps.rm1.0a51.p1.openshiftapps.com/q/swagger-ui/
-| Qianqian Zhang | Flight |
-| Sushma Parashuramappa | Taxi | https://csc-8104-sushma-parashuramappa-sushmasingahallipara-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
-| Swapnil Sagar | Hotel | https://csc-8104-swapnil-sagar-swapnilsagar-dev.apps.rm1.0a51.p1.openshiftapps.com/q/swagger-ui/
-|=======
+| Gursimran Kaur | Flight |
+| Salew Enghoyia | Taxi |
+| Meghana Venkatesh | Hotel |
+| Thanishka Abdul Salam | Flight |
+| Parth Bhawar | Taxi |
+| Preetham Chandrashekar | Hotel |
+| Zhixu Cui | Flight |
+| Clark Guo | Taxi |
+| Surendra Narasimhamurthy | Hotel |
+| Nathan Hardcastle | Flight |
+| Chibuikem Ilon | Taxi |
+| Sadit Indramangala | Hotel |
+| Godwin Joseph | Flight |
+| Vishwanatha Thippeswamy | Taxi |
+| Dylan Kapke | Hotel |
+| Imran Khan | Flight |
+| Misal Kunhi | Taxi |
+| Wenhao Li | Hotel |
+| Haowen Ma | Flight |
+| Hassan Masood | Taxi |
+| Anchal Patel | Hotel |
+| Anushka Patil | Flight |
+| Parth Patil | Taxi |
+| Dhruva Pawar | Hotel |
+| Gabriel Perry | Flight |
+| Ashmita Poojary | Taxi |
+| Pooja Prakash | Hotel |
+| Panambur Rao | Flight |
+| Akhil Ravichandran | Taxi |
+| Athulya Reji | Hotel |
+| Yogiraj Sadhan | Flight |
+| Scaria Saji | Taxi |
+| Yanshu Saroha | Hotel |
+| Ali Shaikh | Flight |
+| Shivankar Sharma | Taxi |
+| Shubhi Sharma | Hotel |
+| Muhammad Shoaib | Flight |
+| Gurwinder Singh | Taxi |
+| Lin Song | Hotel |
+| Sumit Soni | Flight |
+| Jirawat Sukharom | Taxi |
+| Viet Ta | Hotel |
+| Hemanth Tadi | Flight |
+| Matthew Thompson | Taxi |
+| Aarohi Vairal | Hotel |
+| Jing Xie | Flight |
+| Anurag Yadav | Taxi |
+| Yanjie Zhang | Hotel |
+|=====
 
 
-
-IMPORTANT: If your name does not appear in the allocation list please contact Adam Booth at a.booth2@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
+IMPORTANT: If your name does not appear in the allocation list please contact Adam Booth at adam.booth@newcastle.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
