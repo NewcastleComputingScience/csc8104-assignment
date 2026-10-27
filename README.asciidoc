@@ -28,17 +28,15 @@ IMPORTANT: You must use the allocation list below to determine which service typ
 
 *Module (Course) Leader*: *Dr Ellis Solaiman* is the Enterprise Software and Services module (course) leader, and also leads a number of courses at the school of Computing Science, Newcastle University including the MSc final Project and Dissertation. He obtained his PhD in Computing Science from Newcastle University in 2004. His research interests are related mainly to the management of distributed systems (Cloud and IoT), trust, and Computer Science Education.
 
+*Teaching Assistant:* *Maryam Mosleh* is a third year PhD student and PGTA (Post Graduate Teaching Assistant) at the School of Computing, Newcastle University. 
+
 *Lead Demonstrator:* *Dr Adam Booth* is a Research Software Engineer at the National Edge AI Hub at Newcastle University. He previously completed his PhD researching the application of AI in Smart Cities. Having previously studied CSC8104 as a postgraduate student at Newcastle University, Adam is now the Head Demonstrator for the Enterprise Software and Services course.
 
 *Demonstrator:* *Kobby Adu-Duodu* is a final year PhD student at the School of Computing, Newcastle University. His research interests lie in the development of ontology and Blockchain solutions within Circular Supply Chains. 
 
-*Demonstrator:* *Maryam Mosleh* is a second year PhD student and PGTA (Post Graduate Teaching Assistant) at the School of Computing, Newcastle University. 
+*Demonstrator:* *Jill Fraser* is a first year PhD student in Computer Science at Newcastle University.
 
-*Demonstrator:* *Xinyuan Liu* is a final year PhD student in Computer Science at Newcastle University, UK. 
-
-*Demonstrator:* *Ollie Fox* is a third year PhD student at the School of Computing, Newcastle University. His research interests lie in Verified and Explainable AI, investigating the AI hallucination problem.
-
-*Demonstrator:* *Mayson Mohammad Talab Al-Jassim* is a second-year PhD researcher working on designing a protocol that delivers distributed messages in the same sequence across all replicas in a distributed system, ensuring consistency between replicas for fault-tolerant operation.
+*Demonstrator:* *Soheil Lotfi* is a second year PhD student at the School of Computing, Newcastle University. 
 
 *Industry (Red Hat) Lead:* *Dr Adam Cattermole* is a Software Engineer at Red Hat. Prior to this role, Adam Completed a PhD at Newcastle University School of Computing where he was also lead demonstrator on the Enterprise Software and Services module. 
 
