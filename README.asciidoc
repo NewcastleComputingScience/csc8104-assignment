@@ -60,14 +60,14 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Parth Bhawar | Taxi | https://ess-coursework-parthrb-dev-dev.apps.rm2.thpm.p1.openshiftapps.com/
 | Preetham Chandrashekar | Hotel | https://csc8104-hotel-preethamchandrasheka-dev.apps.rm2.thpm.p1.openshiftapps.com  
 | Zhixu Cui | Flight | https://csc8104-astra-cui-astra-cui-dev.apps.rm3.7wse.p1.openshiftapps.com
-| Clark Guo | Taxi |
+| Clark Guo | Taxi | https://csc-8104-coursework-clarkguo-dev.apps.rm2.thpm.p1.openshiftapps.com
 | Surendra Narasimhamurthy | Hotel | https://hotel-service-surendra8971-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
 | Nathan Hardcastle | Flight | https://csc-8104-nathan-hardcastle-nathanhardcastle-dev.apps.rm3.7wse.p1.openshiftapps.com/
 | Chibuikem Ilon | Taxi |
 | Sadit Indramangala | Hotel | https://csc-8104-sadit-indramangala-saditpond-dev.apps.rm3.7wse.p1.openshiftapps.com/
-| Godwin Joseph | Flight |
-| Vishwanatha Thippeswamy | Taxi |
-| Dylan Kapke | Hotel |
+| Godwin Joseph | Flight | https://csc8104-cw-godwin-joseph-godwinjoseph693-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
+| Vishwanatha Thippeswamy | Taxi | https://csc-8104-taxi-git-vishwajutler-dev.apps.rm3.7wse.p1.openshiftapps.com
+| Dylan Kapke | Hotel | https://csc-8104-dylan-kapke-dyl31-dev.apps.rm2.thpm.p1.openshiftapps.com/
 | Imran Khan | Flight |
 | Misal Kunhi | Taxi | https://csc-8104-misal-kunhi-misalmo-dev.apps.rm2.thpm.p1.openshiftapps.com
 | Wenhao Li | Hotel |
@@ -80,10 +80,10 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Gabriel Perry | Flight | https://csc-8104-coursework-gabrielperry-dev.apps.rm3.7wse.p1.openshiftapps.com/
 | Ashmita Poojary | Taxi | https://my-first-es-project-git-ashmipoojary31-dev.apps.rm3.7wse.p1.openshiftapps.com
 | Pooja Prakash | Hotel |
-| Panambur Rao | Flight |
+| Panambur Rao | Flight | https://cs-8104-sudhamshur-dev.apps.rm2.thpm.p1.openshiftapps.com/.
 | Akhil Ravichandran | Taxi | https://csc8104-taxi-akhil-karthikeyan-ra-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
 | Athulya Reji | Hotel | https://ncl-csc-8104-athulya-reji-git-athulyaraj-dev.apps.rm2.thpm.p1.openshiftapps.com
-| Yogiraj Sadhan | Flight |
+| Yogiraj Sadhan | Flight | https://csc-8104-enterprise-java-yogiraj-sadhan-yogiraj-max-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/
 | Scaria Saji | Taxi |
 | Yanshu Saroha | Hotel |
 | Ali Shaikh | Flight | https://csc-8104-ali-sohail-shaikh-alisohailshaikh-dev.apps.rm2.thpm.p1.openshiftapps.com/
@@ -92,7 +92,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Muhammad Shoaib | Flight |
 | Gurwinder Singh | Taxi |
 | Lin Song | Hotel |
-| Sumit Soni | Flight |
+| Sumit Soni | Flight | https://enterprise-software-and-service-sumit0544-dev.apps.rm1.0a51.p1.openshiftapps.com/q/swagger-ui/
 | Jirawat Sukharom | Taxi | https://csc-8104-course-jsukh111-dev.apps.rm2.thpm.p1.openshiftapps.com/
 | Viet Ta | Hotel | https://csc-8104-coursework-git-elissia2803-dev.apps.rm2.thpm.p1.openshiftapps.com
 | Hemanth Tadi | Flight |
