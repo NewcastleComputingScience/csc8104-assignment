@@ -76,7 +76,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Anchal Patel | Hotel |
 | Anushka Patil | Flight |
 | Parth Patil | Taxi | https://csc-8104-parth-patil-travel-agent-api-git-parthpatil-dev.apps.rm3.7wse.p1.openshiftapps.com/
-| Dhruva Pawar | Hotel |
+| Dhruva Pawar | Hotel | https://csc-8104-coursework-2026-dkpawar-dev.apps.rm3.7wse.p1.openshiftapps.com/
 | Gabriel Perry | Flight | https://csc-8104-coursework-gabrielperry-dev.apps.rm3.7wse.p1.openshiftapps.com/
 | Ashmita Poojary | Taxi | https://my-first-es-project-git-ashmipoojary31-dev.apps.rm3.7wse.p1.openshiftapps.com
 | Pooja Prakash | Hotel |
